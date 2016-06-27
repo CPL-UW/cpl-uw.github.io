@@ -2,145 +2,145 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>complex play lab</title>
-    <link>http://localhost:1313/</link>
+    <link>http://cpl-uw.github.io/</link>
     <description>Recent content on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jun 2016 13:50:28 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://cpl-uw.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>matthew berland (director)</title>
-      <link>http://localhost:1313/person/matthew-berland.html</link>
+      <link>http://cpl-uw.github.io/person/matthew-berland.html</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/matthew-berland.html</guid>
+      <guid>http://cpl-uw.github.io/person/matthew-berland.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>oztoc</title>
-      <link>http://localhost:1313/projects/oztoc.html</link>
+      <link>http://cpl-uw.github.io/projects/oztoc.html</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/projects/oztoc.html</guid>
+      <guid>http://cpl-uw.github.io/projects/oztoc.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>play patterns</title>
-      <link>http://localhost:1313/projects/playpatterns.html</link>
+      <link>http://cpl-uw.github.io/projects/playpatterns.html</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/projects/playpatterns.html</guid>
+      <guid>http://cpl-uw.github.io/projects/playpatterns.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>adam mechtley</title>
-      <link>http://localhost:1313/person/adam-mechtley.html</link>
+      <link>http://cpl-uw.github.io/person/adam-mechtley.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/adam-mechtley.html</guid>
+      <guid>http://cpl-uw.github.io/person/adam-mechtley.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>amanda captain</title>
-      <link>http://localhost:1313/person/amanda-captain.html</link>
+      <link>http://cpl-uw.github.io/person/amanda-captain.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/amanda-captain.html</guid>
+      <guid>http://cpl-uw.github.io/person/amanda-captain.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>anna jordan-douglass</title>
-      <link>http://localhost:1313/person/anna-jordan.html</link>
+      <link>http://cpl-uw.github.io/person/anna-jordan.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/anna-jordan.html</guid>
+      <guid>http://cpl-uw.github.io/person/anna-jordan.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>aybuke turker</title>
-      <link>http://localhost:1313/person/aybuke-turker.html</link>
+      <link>http://cpl-uw.github.io/person/aybuke-turker.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/aybuke-turker.html</guid>
+      <guid>http://cpl-uw.github.io/person/aybuke-turker.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>caroline hardin</title>
-      <link>http://localhost:1313/person/caroline-hardin.html</link>
+      <link>http://cpl-uw.github.io/person/caroline-hardin.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/caroline-hardin.html</guid>
+      <guid>http://cpl-uw.github.io/person/caroline-hardin.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>catherine dornfeld</title>
-      <link>http://localhost:1313/person/catherine-dornfeld.html</link>
+      <link>http://cpl-uw.github.io/person/catherine-dornfeld.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/catherine-dornfeld.html</guid>
+      <guid>http://cpl-uw.github.io/person/catherine-dornfeld.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>craig anderson</title>
-      <link>http://localhost:1313/person/craig-anderson.html</link>
+      <link>http://cpl-uw.github.io/person/craig-anderson.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/craig-anderson.html</guid>
+      <guid>http://cpl-uw.github.io/person/craig-anderson.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>dennis ramirez</title>
-      <link>http://localhost:1313/person/dennis-ramirez.html</link>
+      <link>http://cpl-uw.github.io/person/dennis-ramirez.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/dennis-ramirez.html</guid>
+      <guid>http://cpl-uw.github.io/person/dennis-ramirez.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>helen chen</title>
-      <link>http://localhost:1313/person/helen-chen.html</link>
+      <link>http://cpl-uw.github.io/person/helen-chen.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/helen-chen.html</guid>
+      <guid>http://cpl-uw.github.io/person/helen-chen.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>isaac sung</title>
-      <link>http://localhost:1313/person/isaac-sung.html</link>
+      <link>http://cpl-uw.github.io/person/isaac-sung.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/isaac-sung.html</guid>
+      <guid>http://cpl-uw.github.io/person/isaac-sung.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>john binzak</title>
-      <link>http://localhost:1313/person/john.binzak.html</link>
+      <link>http://cpl-uw.github.io/person/john.binzak.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/john.binzak.html</guid>
+      <guid>http://cpl-uw.github.io/person/john.binzak.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>laura legault</title>
-      <link>http://localhost:1313/person/laura-legault.html</link>
+      <link>http://cpl-uw.github.io/person/laura-legault.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://localhost:1313/person/laura-legault.html</guid>
+      <guid>http://cpl-uw.github.io/person/laura-legault.html</guid>
       <description></description>
     </item>
     
