@@ -3,8 +3,92 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2016-04-13T05:58:19-05:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/matthew-berland.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/oztoc.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/playpatterns.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/adam-mechtley.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/amanda-captain.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/anna-jordan.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/aybuke-turker.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/caroline-hardin.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/catherine-dornfeld.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/craig-anderson.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/dennis-ramirez.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/helen-chen.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/isaac-sung.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/john.binzak.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/laura-legault.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/mike-tissenbaum.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/person/vishesh-kumar.html</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url>
   
   <url>
@@ -13,197 +97,227 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2015ijcscl.bib.html</loc>
+    <loc>http://localhost:1313/projects/bgl.html</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/adage.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/paper/berland2016edtech.bib.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/paper/tissenbaum2016edm.bib.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/projects/pdc.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/paper/berland2015ijcscl.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2015jset.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2015jset.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ramirez2015.bib.html</loc>
+    <loc>http://localhost:1313/paper/ramirez2015.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/shapiro2014se.bib.html</loc>
+    <loc>http://localhost:1313/paper/shapiro2014se.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2014tkl.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2014tkl.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/dietmeier2014.bib.html</loc>
+    <loc>http://localhost:1313/paper/dietmeier2014.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/gutierrez2014gfh.bib.html</loc>
+    <loc>http://localhost:1313/paper/gutierrez2014gfh.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ramirez2014.bib.html</loc>
+    <loc>http://localhost:1313/paper/ramirez2014.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/danielak2014idc.bib.html</loc>
+    <loc>http://localhost:1313/paper/danielak2014idc.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ochsner2014cse.bib.html</loc>
+    <loc>http://localhost:1313/paper/ochsner2014cse.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/davis2014cse.bib.html</loc>
+    <loc>http://localhost:1313/paper/davis2014cse.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/anton2014cse.bib.html</loc>
+    <loc>http://localhost:1313/paper/anton2014cse.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ochsner2014gls1.bib.html</loc>
+    <loc>http://localhost:1313/paper/ochsner2014gls1.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ochsner2014gls2.bib.html</loc>
+    <loc>http://localhost:1313/paper/ochsner2014gls2.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/bowers2013a.bib.html</loc>
+    <loc>http://localhost:1313/projects/ipro.html</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/paper/bowers2013a.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/martin2013jilr.bib.html</loc>
+    <loc>http://localhost:1313/paper/martin2013jilr.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2013gls.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2013gls.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ochsner2013cscl.bib.html</loc>
+    <loc>http://localhost:1313/paper/ochsner2013cscl.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/davis2013oth.bib.html</loc>
+    <loc>http://localhost:1313/paper/davis2013oth.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/dunbar2013ijgbl.bib.html</loc>
+    <loc>http://localhost:1313/paper/dunbar2013ijgbl.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2013jls.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2013jls.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2012d.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2012d.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2012a.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2012a.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/hardin2012.bib.html</loc>
+    <loc>http://localhost:1313/paper/hardin2012.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2012b.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2012b.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/davis2012a.bib.html</loc>
+    <loc>http://localhost:1313/paper/davis2012a.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2012c.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2012c.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/duncan2012a.bib.html</loc>
+    <loc>http://localhost:1313/paper/duncan2012a.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/petrick2011a.bib.html</loc>
+    <loc>http://localhost:1313/paper/petrick2011a.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2011a.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2011a.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/ramirez2011.bib.html</loc>
+    <loc>http://localhost:1313/paper/ramirez2011.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2011b.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2011b.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2011tabletop.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2011tabletop.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/hardin2010.bib.html</loc>
+    <loc>http://localhost:1313/paper/hardin2010.bib.html</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2010b.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2010b.bib.html</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2010a.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2010a.bib.html</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland2009a.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland2009a.bib.html</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/abrahamson2006a.bib.html</loc>
+    <loc>http://localhost:1313/paper/abrahamson2006a.bib.html</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/bib/berland1999a.bib.html</loc>
+    <loc>http://localhost:1313/paper/berland1999a.bib.html</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
   </url>
   
