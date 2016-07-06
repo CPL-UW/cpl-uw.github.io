@@ -32,7 +32,7 @@
       
       <guid>http://cpl-uw.github.io/paper/tissenbaum2016edm.bib.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016edm,
-    author    = {Tissenbaum and Berland and Kumar},
+    author    = {Tissenbaum and Kumar and Berland},
     year      = {2016},
     title     = {Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models},
     journal   = {Proceedings of the 9th International Conference on Educational Data Mining},
