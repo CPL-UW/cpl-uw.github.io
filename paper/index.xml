@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Papers on complex play lab</title>
-    <link>http://cpl-uw.github.io/paper.html</link>
-    <description>Recent content in Papers on complex play lab</description>
+    <title>Paper-rsses on complex play lab</title>
+    <link>http://cpl-uw.github.io/paper.xml</link>
+    <description>Recent content in Paper-rsses on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
@@ -11,10 +11,10 @@
     
     <item>
       <title>Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay</title>
-      <link>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/berland2016edtech.html</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/berland2016edtech.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016edm,
     author    = {Berland and Duncan},
     year      = {2016},
@@ -27,10 +27,10 @@
     
     <item>
       <title>Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models</title>
-      <link>http://cpl-uw.github.io/paper/tissenbaum2016edm.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/tissenbaum2016edm.html</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/tissenbaum2016edm.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/tissenbaum2016edm.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016edm,
     author    = {Tissenbaum and Kumar and Berland},
     year      = {2016},
@@ -43,10 +43,10 @@
     
     <item>
       <title>AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics</title>
-      <link>http://cpl-uw.github.io/paper/berland2015ijcscl.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/berland2015ijcscl.html</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/berland2015ijcscl.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/berland2015ijcscl.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{berland2015ijcscl,
     year	 = {2015},
     issn	 = {1556-1607},
@@ -64,10 +64,10 @@
     
     <item>
       <title>Comparing Virtual and Physical Robotics Environments for Supporting Complex Systems and Computational Thinking</title>
-      <link>http://cpl-uw.github.io/paper/berland2015jset.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/berland2015jset.html</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/berland2015jset.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/berland2015jset.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{berland2015jset,
     author    = {Berland and Wilensky},
     year      = {2015},
@@ -82,10 +82,10 @@
     
     <item>
       <title>Gamification and Learning</title>
-      <link>http://cpl-uw.github.io/paper/ramirez2015.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/ramirez2015.html</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/ramirez2015.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/ramirez2015.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@incollection{ramirez2015,
     author    = {Ramirez and Squire},
     booktitle = {The Gameful World},
@@ -102,10 +102,10 @@
     
     <item>
       <title>Simulation Environments</title>
-      <link>http://cpl-uw.github.io/paper/shapiro2014se.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/shapiro2014se.html</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/shapiro2014se.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/shapiro2014se.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{shapiro2014se,
     author 	= {Shapiro and Ramirez},
     journal = {Encyclopedia of Science Education},
@@ -120,10 +120,10 @@
     
     <item>
       <title>Educational Data Mining, Learning Analytics: Applications to Constructionist Research</title>
-      <link>http://cpl-uw.github.io/paper/berland2014tkl.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/berland2014tkl.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/berland2014tkl.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/berland2014tkl.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{berland2014tkl,
     author    = {Berland and Baker and Blikstein},
     year      = {2014},
@@ -139,10 +139,10 @@
     
     <item>
       <title>Exploring Physics Through A Musical Simulation</title>
-      <link>http://cpl-uw.github.io/paper/dietmeier2014.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/dietmeier2014.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/dietmeier2014.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/dietmeier2014.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{dietmeier2014,
     author    = {Dietmeier and Russell and Wielgus and Berland},
     year      = {2014},
@@ -156,10 +156,10 @@
     
     <item>
       <title>FairPlay: A Video Game Designed to Address Implicit Race Bias through Active Perspective Taking</title>
-      <link>http://cpl-uw.github.io/paper/gutierrez2014gfh.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/gutierrez2014gfh.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/gutierrez2014gfh.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/gutierrez2014gfh.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{gutierrez2014gfh,
     author  = {Gutierrez and Kaatz and Chu and Ramirez and Samson-Samuel and Carnes},
     journal = {Games for Health Journal},
@@ -173,10 +173,10 @@
     
     <item>
       <title>Im a Loser, Baby : Gamer Identity &amp; Failure</title>
-      <link>http://cpl-uw.github.io/paper/ramirez2014.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/ramirez2014.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/ramirez2014.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/ramirez2014.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{ramirez2014,
     author    = {Ramirez and Seyler and Squire and Berland},
     booktitle = {DiGRA 2014},
@@ -190,10 +190,10 @@
     
     <item>
       <title>MakeScape Lite: A Prototype Learning Environment for Making, Design</title>
-      <link>http://cpl-uw.github.io/paper/danielak2014idc.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/danielak2014idc.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/danielak2014idc.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/danielak2014idc.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{danielak2014idc,
     author    = {Danielak and Mechtley and Berland and Lyons and Eydt},
     year      = {2014},
@@ -207,10 +207,10 @@
     
     <item>
       <title>Mission Critical: Building Community to Engage Young Women in Computer Science</title>
-      <link>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/ochsner2014cse.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/ochsner2014cse.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{ochsner2014cse,
     author    = {Ochsner and Johnson-Stempson and Steinkuehler and Berland},
     year      = {2014},
@@ -224,10 +224,10 @@
     
     <item>
       <title>Multiple Case Study of Nerd Identity in a CS1 Class</title>
-      <link>http://cpl-uw.github.io/paper/davis2014cse.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/davis2014cse.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/davis2014cse.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/davis2014cse.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{davis2014cse,
     author    = {Davis and Berland and Yuen},
     year      = {2014},
@@ -241,10 +241,10 @@
     
     <item>
       <title>Studio K: A Game Development Environment Designed for Gains in Computational Thinking</title>
-      <link>http://cpl-uw.github.io/paper/anton2014cse.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/anton2014cse.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/anton2014cse.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/anton2014cse.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{anton2014cse,
     author    = {Anton and Berland},
     year      = {2014},
@@ -258,10 +258,10 @@
     
     <item>
       <title>Talking with kids on game design, computer programming, and taking over the world with dragons</title>
-      <link>http://cpl-uw.github.io/paper/ochsner2014gls1.bib.html</link>
+      <link>http://cpl-uw.github.io/paper/ochsner2014gls1.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/paper/ochsner2014gls1.bib.html</guid>
+      <guid>http://cpl-uw.github.io/paper/ochsner2014gls1.html</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{ochsner2014gls1,
     author 		= {Ochsner and Anton},
     year     	= {2014},
