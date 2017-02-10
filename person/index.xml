@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Person-rsses on complex play lab</title>
+    <title>Persons on complex play lab</title>
     <link>http://cpl-uw.github.io/person.xml</link>
-    <description>Recent content in Person-rsses on complex play lab</description>
+    <description>Recent content in Persons on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jun 2016 13:50:28 -0500</lastBuildDate>
@@ -38,8 +38,7 @@
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
       <guid>http://cpl-uw.github.io/person/alexi-brooks.html</guid>
-      <description>&lt;p&gt;Alexi Brooks is a Computer Sciences PhD student at UW-Madison. His interests include the application of game theory and game design to the structure and ethics of computer science education. He received a BA in Russian and Computer Science from Grinnell College in 2010, and an MS in Computer Science from UW-Madison in 2015.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -125,10 +124,10 @@
     
     <item>
       <title>john binzak</title>
-      <link>http://cpl-uw.github.io/person/john.html</link>
+      <link>http://cpl-uw.github.io/person/john.binzak.html</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://cpl-uw.github.io/person/john.html</guid>
+      <guid>http://cpl-uw.github.io/person/john.binzak.html</guid>
       <description></description>
     </item>
     

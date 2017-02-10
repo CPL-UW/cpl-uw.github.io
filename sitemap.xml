@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://cpl-uw.github.io/index.html</loc>
-    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://cpl-uw.github.io/person/matthew-berland.html</loc>
     <lastmod>2016-06-24T13:50:28-05:00</lastmod>
   </url>
@@ -77,7 +72,7 @@
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/person/john.html</loc>
+    <loc>http://cpl-uw.github.io/person/john.binzak.html</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url>
   
@@ -112,12 +107,22 @@
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2016edtech.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/tissenbaum2016edm.html</loc>
+    <loc>http://cpl-uw.github.io/paper/tissenbaum2016icls.bib.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/paper/tissenbaum2016edm.bib.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/paper/anderson2016icls.bib.html</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -127,72 +132,97 @@
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2015ijcscl.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2015ijcscl.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2015jset.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2015jset.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ramirez2015.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ramirez2015.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/shapiro2014se.html</loc>
+    <loc>http://cpl-uw.github.io/paper/shapiro2014se.bib.html</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2014tkl.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2014tkl.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/dietmeier2014.html</loc>
+    <loc>http://cpl-uw.github.io/paper/dietmeier2014.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/gutierrez2014gfh.html</loc>
+    <loc>http://cpl-uw.github.io/paper/gutierrez2014gfh.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ramirez2014.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ramirez2014.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/danielak2014idc.html</loc>
+    <loc>http://cpl-uw.github.io/paper/danielak2014idc.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ochsner2014cse.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/davis2014cse.html</loc>
+    <loc>http://cpl-uw.github.io/paper/davis2014cse.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/anton2014cse.html</loc>
+    <loc>http://cpl-uw.github.io/paper/anton2014cse.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ochsner2014gls1.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ochsner2014gls1.bib.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ochsner2014gls2.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ochsner2014gls2.bib.html</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects/connectedspaces.html</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects/dcf.html</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects/forestfriends.html</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects/leadcaravan.html</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects/madhacks.html</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -202,128 +232,158 @@
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/bowers2013a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/bowers2013a.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/martin2013jilr.html</loc>
+    <loc>http://cpl-uw.github.io/paper/martin2013jilr.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2013gls.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2013gls.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ochsner2013cscl.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ochsner2013cscl.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/davis2013oth.html</loc>
+    <loc>http://cpl-uw.github.io/paper/davis2013oth.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/dunbar2013ijgbl.html</loc>
+    <loc>http://cpl-uw.github.io/paper/dunbar2013ijgbl.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2013jls.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2013jls.bib.html</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2012d.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2012d.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2012a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2012a.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/hardin2012.html</loc>
+    <loc>http://cpl-uw.github.io/paper/hardin2012.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2012b.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2012b.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/davis2012a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/davis2012a.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2012c.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2012c.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/duncan2012a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/duncan2012a.bib.html</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/petrick2011a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/petrick2011a.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2011a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2011a.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/ramirez2011.html</loc>
+    <loc>http://cpl-uw.github.io/paper/ramirez2011.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2011b.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2011b.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2011tabletop.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2011tabletop.bib.html</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/hardin2010.html</loc>
+    <loc>http://cpl-uw.github.io/paper/hardin2010.bib.html</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2010b.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2010b.bib.html</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2010a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2010a.bib.html</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland2009a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland2009a.bib.html</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/abrahamson2006a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/abrahamson2006a.bib.html</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://cpl-uw.github.io/paper/berland1999a.html</loc>
+    <loc>http://cpl-uw.github.io/paper/berland1999a.bib.html</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/paper.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/person.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/post.html</loc>
+    <lastmod>2016-04-13T05:58:19-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
