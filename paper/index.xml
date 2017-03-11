@@ -6,8 +6,40 @@
     <description>Recent content in Papers on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://cpl-uw.github.io/paper.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DCLM framework: understanding collaboration in open-ended tabletop learning environments</title>
+      <link>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016icls,
+    author    = {Tissenbaum and Berland and Lyons},
+    year      = {2017},
+    title     = {DCLM framework: understanding collaboration in open-ended tabletop learning environments},
+    journal   = {International Journal of Computer-Supported Collaborative Learning},
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are visitors up to?: helping museum facilitators know what visitors are doing</title>
+      <link>http://cpl-uw.github.io/paper/kumar2017edm.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/kumar2017edm.bib.html</guid>
+      <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016icls,
+    author    = {Kumar and Tissenbaum and Berland},
+    year      = {2017},
+    title     = {What are visitors up to?: helping museum facilitators know what visitors are doing},
+    journal   = {Proceedings of the Seventh International Learning Analytics and Knowledge Conference},
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
     
     <item>
       <title>Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay</title>
@@ -232,40 +264,6 @@
     title     = {MakeScape Lite: A Prototype Learning Environment for Making, Design},
     booktitle = {Proceedings of ACM SIG-IDC},
     link 	    = {http://dl.acm.org/citation.cfm?id=2610459}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Mission Critical: Building Community to Engage Young Women in Computer Science</title>
-      <link>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{ochsner2014cse,
-    author    = {Ochsner and Johnson-Stempson and Steinkuehler and Berland},
-    year      = {2014},
-    title     = {Mission Critical: Building Community to Engage Young Women in Computer Science},
-    booktitle = {Proceedings of ACM SIG-CSE},
-    link		  = {http://dl.acm.org/citation.cfm?id=2544288}
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multiple Case Study of Nerd Identity in a CS1 Class</title>
-      <link>http://cpl-uw.github.io/paper/davis2014cse.bib.html</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://cpl-uw.github.io/paper/davis2014cse.bib.html</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@inproceedings{davis2014cse,
-    author    = {Davis and Berland and Yuen},
-    year      = {2014},
-    title     = {Multiple Case Study of Nerd Identity in a CS1 Class},
-    booktitle = {Proceedings of ACM SIG-CSE},
-    link      = {http://dl.acm.org/citation.cfm?id=2538960}
 }
 &lt;/code&gt;&lt;/pre&gt;
 </description>
