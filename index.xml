@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>complex play lab</title>
-    <link>http://cpl-uw.github.io/index.xml</link>
+    <link>http://cpl-uw.github.io/</link>
     <description>Recent content on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://cpl-uw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://cpl-uw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>DCLM framework: understanding collaboration in open-ended tabletop learning environments</title>
@@ -15,14 +17,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016icls,
-    author    = {Tissenbaum and Berland and Lyons},
-    year      = {2017},
-    title     = {DCLM framework: understanding collaboration in open-ended tabletop learning environments},
-    journal   = {International Journal of Computer-Supported Collaborative Learning},
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2017}, title = {DCLM framework: understanding collaboration in open-ended tabletop learning environments}, journal = {International Journal of Computer-Supported Collaborative Learning}, }  </description>
     </item>
     
     <item>
@@ -31,14 +26,7 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
       <guid>http://cpl-uw.github.io/paper/kumar2017edm.bib.html</guid>
-      <description>&lt;pre&gt;&lt;code class=&#34;language-bibtex&#34;&gt;@article{tissenbaum2016icls,
-    author    = {Kumar and Tissenbaum and Berland},
-    year      = {2017},
-    title     = {What are visitors up to?: helping museum facilitators know what visitors are doing},
-    journal   = {Proceedings of the Seventh International Learning Analytics and Knowledge Conference},
-}
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+      <description>@article{tissenbaum2016icls, author = {Kumar and Tissenbaum and Berland}, year = {2017}, title = {What are visitors up to?: helping museum facilitators know what visitors are doing}, journal = {Proceedings of the Seventh International Learning Analytics and Knowledge Conference}, }  </description>
     </item>
     
     <item>
@@ -47,12 +35,7 @@
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
       <guid>http://cpl-uw.github.io/person/matthew-berland.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://ci.education.wisc.edu/ci/people/faculty/matthew-berland&#34;&gt;Matthew Berland&lt;/a&gt; is an Assistant Professor of Digital Media in the Department of Curriculum and Instruction. He completed a doctorate in Learning Sciences at Northwestern University and a postdoctoral fellowship in Computer Science at the University of Texas at Austin. He studies computational thinking and literacy, systems literacy, computer science education, the design of constructionist learning environments, and learning analytics/data mining. His current work uses design-based research methods to create and analyze tools that support students&amp;rsquo; creativity in learning complex content (such as computational thinking skills) and novel analytics to help students and teachers understand their own learning.&lt;/p&gt;
-
-&lt;p&gt;twitter: &lt;a href=&#34;https://twitter.com/matthewberland&#34;&gt;@matthewberland&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;scholar: &lt;a href=&#34;https://scholar.google.com/citations?user=91X3w90AAAAJ&amp;amp;hl=en&amp;amp;oi=ao&#34;&gt;Matthew Berland&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Matthew Berland is an Assistant Professor of Digital Media in the Department of Curriculum and Instruction. He completed a doctorate in Learning Sciences at Northwestern University and a postdoctoral fellowship in Computer Science at the University of Texas at Austin. He studies computational thinking and literacy, systems literacy, computer science education, the design of constructionist learning environments, and learning analytics/data mining. His current work uses design-based research methods to create and analyze tools that support students&amp;rsquo; creativity in learning complex content (such as computational thinking skills) and novel analytics to help students and teachers understand their own learning.</description>
     </item>
     
     <item>
@@ -161,6 +144,528 @@
       
       <guid>http://cpl-uw.github.io/person/helen-chen.html</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>isaac sung</title>
+      <link>http://cpl-uw.github.io/person/isaac-sung.html</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/isaac-sung.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>john binzak</title>
+      <link>http://cpl-uw.github.io/person/john.binzak.html</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/john.binzak.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laura legault</title>
+      <link>http://cpl-uw.github.io/person/laura-legault.html</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/laura-legault.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mike tissenbaum</title>
+      <link>http://cpl-uw.github.io/person/mike-tissenbaum.html</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/mike-tissenbaum.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vishesh kumar</title>
+      <link>http://cpl-uw.github.io/person/vishesh-kumar.html</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/vishesh-kumar.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Consortium Fellows Announced for Spring 2016</title>
+      <link>http://cpl-uw.github.io/blog/2016/04/13/data-consortium-fellows-announced-for-spring-2016.html</link>
+      <pubDate>Wed, 13 Apr 2016 05:58:19 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/blog/2016/04/13/data-consortium-fellows-announced-for-spring-2016.html</guid>
+      <description>We are proud to announce 8 new Data Consortium Fellows.</description>
+    </item>
+    
+    <item>
+      <title>board games for learning</title>
+      <link>http://cpl-uw.github.io/projects/bgl.html</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/bgl.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADAGE</title>
+      <link>http://cpl-uw.github.io/projects/adage.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/adage.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay</title>
+      <link>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</guid>
+      <description>@article{tissenbaum2016edm, author = {Berland and Duncan}, year = {2016}, title = {Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay}, journal = {Educational Technology}, }  </description>
+    </item>
+    
+    <item>
+      <title>Designing a real-time intelligent support for museum interpreters.</title>
+      <link>http://cpl-uw.github.io/paper/tissenbaum2016icls.bib.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/tissenbaum2016icls.bib.html</guid>
+      <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2016}, title = {Designing a real-time intelligent support for museum interpreters}, journal = {Proceedings of the 12th International Conference for the Learning Sciences}, }  </description>
+    </item>
+    
+    <item>
+      <title>Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models</title>
+      <link>http://cpl-uw.github.io/paper/tissenbaum2016edm.bib.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/tissenbaum2016edm.bib.html</guid>
+      <description>@article{tissenbaum2016edm, author = {Tissenbaum and Kumar and Berland}, year = {2016}, title = {Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models}, journal = {Proceedings of the 9th International Conference on Educational Data Mining}, }  </description>
+    </item>
+    
+    <item>
+      <title>Situating Deep Multimodal Data on Game-Based STEM Learning.</title>
+      <link>http://cpl-uw.github.io/paper/anderson2016icls.bib.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/anderson2016icls.bib.html</guid>
+      <description>@article{tissenbaum2016icls, author = {Anderson and Binzak and Dalsen and Saucerman and Jordan-Douglass and Kumar and Turker and Berland and Squire and Steinkuehler}, year = {2016}, title = {Situating Deep Multimodal Data on Game-Based STEM Learning}, journal = {Proceedings of the 12th International Conference for the Learning Sciences}, }  </description>
+    </item>
+    
+    <item>
+      <title>play data consortium</title>
+      <link>http://cpl-uw.github.io/projects/pdc.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/pdc.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics</title>
+      <link>http://cpl-uw.github.io/paper/berland2015ijcscl.bib.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2015ijcscl.bib.html</guid>
+      <description>@article{berland2015ijcscl, year	= {2015}, issn	= {1556-1607}, journal	= {International Journal of Computer-Supported Collaborative Learning}, doi	= {10.1007/s11412-015-9217-z}, title	= {AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics}, publisher={Springer}, author	={Berland and Davis and Smith}, pages	={1-23}, link	={http://dx.doi.org/10.1007/s11412-015-9217-z}, }  </description>
+    </item>
+    
+    <item>
+      <title>Comparing Virtual and Physical Robotics Environments for Supporting Complex Systems and Computational Thinking</title>
+      <link>http://cpl-uw.github.io/paper/berland2015jset.bib.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2015jset.bib.html</guid>
+      <description>@article{berland2015jset, author = {Berland and Wilensky}, year = {2015}, title = {Comparing Virtual and Physical Robotics Environments for Supporting Complex Systems and Computational Thinking}, journal = {Journal of Science Education and Technology}, doi = {doi:10.1007/s10956-015-9552-x}, link = {http://link.springer.com/article/10.1007/s10956-015-9552-x} }  </description>
+    </item>
+    
+    <item>
+      <title>Gamification and Learning</title>
+      <link>http://cpl-uw.github.io/paper/ramirez2015.bib.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ramirez2015.bib.html</guid>
+      <description>@incollection{ramirez2015, author = {Ramirez and Squire}, booktitle = {The Gameful World}, chapter = {25}, editor = {Walz and Deterding}, publisher = {The MIT Press}, title = {{Gamification and Learning}}, link = {http://mitpress.mit.edu/books/gameful-world}, year = {2015} }  </description>
+    </item>
+    
+    <item>
+      <title>Simulation Environments</title>
+      <link>http://cpl-uw.github.io/paper/shapiro2014se.bib.html</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/shapiro2014se.bib.html</guid>
+      <description>@article{shapiro2014se, author = {Shapiro and Ramirez}, journal = {Encyclopedia of Science Education}, title = {{Simulation Environments}}, year = {2015}, doi = {doi:10.1007/978-94-007-2150-0}, link = {http://link.springer.com/referencework/10.1007/978-94-007-2150-0} }  </description>
+    </item>
+    
+    <item>
+      <title>Educational Data Mining, Learning Analytics: Applications to Constructionist Research</title>
+      <link>http://cpl-uw.github.io/paper/berland2014tkl.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2014tkl.bib.html</guid>
+      <description>@article{berland2014tkl, author = {Berland and Baker and Blikstein}, year = {2014}, title = {Educational Data Mining, Learning Analytics: Applications to Constructionist Research}, journal = {Technology, Knowledge, Learning}, pages = {1–16}, doi = {doi:10.1007/s10758-014-9223-7}, link = {http://link.springer.com/article/10.1007/s10758-014-9223-7} }  </description>
+    </item>
+    
+    <item>
+      <title>Exploring Physics Through A Musical Simulation</title>
+      <link>http://cpl-uw.github.io/paper/dietmeier2014.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/dietmeier2014.bib.html</guid>
+      <description>@inproceedings{dietmeier2014, author = {Dietmeier and Russell and Wielgus and Berland}, year = {2014}, title = {Exploring Physics Through A Musical Simulation}, booktitle = {Proceedings of Constructionism 2014}, link = {http://constructionism2014.ifs.tuwien.ac.at/papers/2.5_2-8517.pdf} }  </description>
+    </item>
+    
+    <item>
+      <title>FairPlay: A Video Game Designed to Address Implicit Race Bias through Active Perspective Taking</title>
+      <link>http://cpl-uw.github.io/paper/gutierrez2014gfh.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/gutierrez2014gfh.bib.html</guid>
+      <description>@article{gutierrez2014gfh, author = {Gutierrez and Kaatz and Chu and Ramirez and Samson-Samuel and Carnes}, journal = {Games for Health Journal}, title = {{FairPlay: A Video Game Designed to Address Implicit Race Bias through Active Perspective Taking}}, link = {http://online.liebertpub.com/doi/abs/10.1089/g4h.2013.0071}, year = {2014} }  </description>
+    </item>
+    
+    <item>
+      <title>Im a Loser, Baby : Gamer Identity &amp; Failure</title>
+      <link>http://cpl-uw.github.io/paper/ramirez2014.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ramirez2014.bib.html</guid>
+      <description>@inproceedings{ramirez2014, author = {Ramirez and Seyler and Squire and Berland}, booktitle = {DiGRA 2014}, title = {{I’m a Loser, Baby : Gamer Identity &amp;amp; Failure}}, year = {2014}, link = {http://content.lib.utah.edu/utils/getfile/collection/EHSL_DiGRA/id/67/filename/97.pdf} }  </description>
+    </item>
+    
+    <item>
+      <title>MakeScape Lite: A Prototype Learning Environment for Making, Design</title>
+      <link>http://cpl-uw.github.io/paper/danielak2014idc.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/danielak2014idc.bib.html</guid>
+      <description>@inproceedings{danielak2014idc, author = {Danielak and Mechtley and Berland and Lyons and Eydt}, year = {2014}, title = {MakeScape Lite: A Prototype Learning Environment for Making, Design}, booktitle = {Proceedings of ACM SIG-IDC}, link = {http://dl.acm.org/citation.cfm?id=2610459} }  </description>
+    </item>
+    
+    <item>
+      <title>Mission Critical: Building Community to Engage Young Women in Computer Science</title>
+      <link>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ochsner2014cse.bib.html</guid>
+      <description>@inproceedings{ochsner2014cse, author = {Ochsner and Johnson-Stempson and Steinkuehler and Berland}, year = {2014}, title = {Mission Critical: Building Community to Engage Young Women in Computer Science}, booktitle = {Proceedings of ACM SIG-CSE}, link	= {http://dl.acm.org/citation.cfm?id=2544288} }  </description>
+    </item>
+    
+    <item>
+      <title>Multiple Case Study of Nerd Identity in a CS1 Class</title>
+      <link>http://cpl-uw.github.io/paper/davis2014cse.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/davis2014cse.bib.html</guid>
+      <description>@inproceedings{davis2014cse, author = {Davis and Berland and Yuen}, year = {2014}, title = {Multiple Case Study of Nerd Identity in a CS1 Class}, booktitle = {Proceedings of ACM SIG-CSE}, link = {http://dl.acm.org/citation.cfm?id=2538960} }  </description>
+    </item>
+    
+    <item>
+      <title>Studio K: A Game Development Environment Designed for Gains in Computational Thinking</title>
+      <link>http://cpl-uw.github.io/paper/anton2014cse.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/anton2014cse.bib.html</guid>
+      <description>@article{anton2014cse, author = {Anton and Berland}, year = {2014}, title = {Studio K: A Game Development Environment Designed for Gains in Computational Thinking}, journal = {Proceedings of ACM SIG-CSE}, link	= {http://dl.acm.org/citation.cfm?id=2544312} }  </description>
+    </item>
+    
+    <item>
+      <title>Talking with kids on game design, computer programming, and taking over the world with dragons</title>
+      <link>http://cpl-uw.github.io/paper/ochsner2014gls1.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ochsner2014gls1.bib.html</guid>
+      <description>@inproceedings{ochsner2014gls1, author = {Ochsner and Anton}, year = {2014}, title = {Talking with kids on game design, computer programming, and taking over the world with dragons}, booktitle = {{Proceedings of Games+Learning+Society Conference}}, link = {https://www.academia.edu/8567741/Talking_with_kids_on_game_design_computer_programming_and_taking_over_the_world_with_dragons} }  </description>
+    </item>
+    
+    <item>
+      <title>Tech TrajecStories: Values that shape the lives of women in technology</title>
+      <link>http://cpl-uw.github.io/paper/ochsner2014gls2.bib.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ochsner2014gls2.bib.html</guid>
+      <description>@inproceedings{ochsner2014gls2, author = {Rothschild and Ochsner}, year = {2014}, title = {{Tech TrajecStories: Values that shape the lives of women in technology}}, booktitle = {{Proceedings of Games+Learning+Society Conference}}, link = {https://www.academia.edu/8567806/Tech_TrajecStories_Values_That_shape_the_lives_of_women_in_technology} }  </description>
+    </item>
+    
+    <item>
+      <title>connected spaces</title>
+      <link>http://cpl-uw.github.io/projects/connectedspaces.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/connectedspaces.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data consortium fellows</title>
+      <link>http://cpl-uw.github.io/projects/dcf.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/dcf.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>forest friends</title>
+      <link>http://cpl-uw.github.io/projects/forestfriends.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/forestfriends.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lead caravan</title>
+      <link>http://cpl-uw.github.io/projects/leadcaravan.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/leadcaravan.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>madhacks</title>
+      <link>http://cpl-uw.github.io/projects/madhacks.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/madhacks.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming standing up</title>
+      <link>http://cpl-uw.github.io/projects/ipro.html</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/projects/ipro.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does recreational computer use affect high school achievement?</title>
+      <link>http://cpl-uw.github.io/paper/bowers2013a.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/bowers2013a.bib.html</guid>
+      <description>@article{bowers2013a, author = {Bowers and Berland}, year = {2013}, title = {Does recreational computer use affect high school achievement?}, journal = {Educational Technology Research, Development}, volume = {61}, pages = {51–69}, number = {1}, link	= {http://dx.doi.org/10.1007/s11423-012-9274-1} }  </description>
+    </item>
+    
+    <item>
+      <title>Learning Programming with IPRO: The Effects of a Mobile, Social Programming Environment</title>
+      <link>http://cpl-uw.github.io/paper/martin2013jilr.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/martin2013jilr.bib.html</guid>
+      <description>@article{martin2013jilr, author = {Martin and Berland and Benton and Smith}, year = {2013}, title = {Learning Programming with IPRO: The Effects of a Mobile, Social Programming Environment}, journal = {Journal of Interactive Learning Research}, volume = {24}, pages = {301–328}, number = {3}, link = {http://www.editlib.org/p/38633/paper_38633.pdf} }  </description>
+    </item>
+    
+    <item>
+      <title>Monsterismus: Recursively Relevant Computer Science Game Design</title>
+      <link>http://cpl-uw.github.io/paper/berland2013gls.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2013gls.bib.html</guid>
+      <description>@inproceedings{berland2013gls, author = {Berland and Davis and Yuen}, year = {2013}, title = {Monsterismus: Recursively Relevant Computer Science Game Design}, booktitle = {Proceedings of Games, Learning, Society 9.0} }  </description>
+    </item>
+    
+    <item>
+      <title>Studio K: Tools for game design and computational thinking.</title>
+      <link>http://cpl-uw.github.io/paper/ochsner2013cscl.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ochsner2013cscl.bib.html</guid>
+      <description>@inproceedings{ochsner2013cscl, author = {Hatfield and Anton and Ochsner and Squire and Shapiro and Games}, year = {2013}, title = {{Studio K: Tools for game design and computational thinking.}}, booktitle = {{Proceedings of the Computer Supported Collaborative Learning Conference}}, link = {https://www.academia.edu/2699075/Studio_K_Tools_for_game_design_and_computational_thinking} }  </description>
+    </item>
+    
+    <item>
+      <title>Supporting English Learners with Participatory Augmented Reality Simulations</title>
+      <link>http://cpl-uw.github.io/paper/davis2013oth.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/davis2013oth.bib.html</guid>
+      <description>@article{davis2013oth, author = {Davis and Berland}, year = {2013}, title = {Supporting English Learners with Participatory Augmented Reality Simulations}, journal = {On the Horizon}, link	= {http://dx.doi.org/10.1108/OTH-01-2012-0001} }  </description>
+    </item>
+    
+    <item>
+      <title>The Development of a Serious Game for the Mitigation of Cognitive Bias</title>
+      <link>http://cpl-uw.github.io/paper/dunbar2013ijgbl.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/dunbar2013ijgbl.bib.html</guid>
+      <description>@article{dunbar2013ijgbl, author = {Dunbar and Wilson and Adame and Elizondo and Jensen and Miller and Allums and Seltsam and Bessarabova and Vincent and Straub and Ralstion and Dulawan and Ramirez and Squire}, journal = {International Journal of Game-Based Learning}, title = {The Development of a Serious Game for the Mitigation of Cognitive Bias}, year = {2013}, link = {https://www.researchgate.net/publication/259043715_Mitigation_of_Cognitive_Bias_Through_the_Use_of_a_Serious_Game}, }  </description>
+    </item>
+    
+    <item>
+      <title>Using Learning Analytics to Understand the Learning Pathways of Novice Programmers</title>
+      <link>http://cpl-uw.github.io/paper/berland2013jls.bib.html</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2013jls.bib.html</guid>
+      <description>@article{berland2013jls, author = {Berland and Martin and Benton and Petrick Smith and Davis}, title = {Using Learning Analytics to Understand the Learning Pathways of Novice Programmers}, journal = {Journal of the Learning Sciences}, volume = {22}, number = {4}, pages = {564-599}, year = {2013}, doi = {10.1080/10508406.2013.836655}, link = {http://dx.doi.org/10.1080/10508406.2013.836655} }  </description>
+    </item>
+    
+    <item>
+      <title>AMOEBA: Mining how students learn to program together</title>
+      <link>http://cpl-uw.github.io/paper/berland2012d.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2012d.bib.html</guid>
+      <description>@inproceedings{berland2012d, author = {Berland and Martin and Benton and Petrick}, year = {2012}, title = {AMOEBA: Mining how students learn to program together}, booktitle = {Proceedings of the International Conference of the Learning Sciences} }  </description>
+    </item>
+    
+    <item>
+      <title>Becoming an Expert Boardgamer: A Quantitative Exploration</title>
+      <link>http://cpl-uw.github.io/paper/berland2012a.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2012a.bib.html</guid>
+      <description>@inproceedings{berland2012a, author = {Berland}, year = {2012}, title = {Becoming an Expert Boardgamer: A Quantitative Exploration}, booktitle = {Proceedings of Games, Learning, Society 8.0} }  </description>
+    </item>
+    
+    <item>
+      <title>Free and Open Source Software in School Communities: An Experience Report from Peace Corps Volunteers in Ghana</title>
+      <link>http://cpl-uw.github.io/paper/hardin2012.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/hardin2012.bib.html</guid>
+      <description>@inproceedings{hardin2012, author = {Hardin}, booktitle = {Free and Open Source Software and Technology for Sustainable Development}, title = {Free and Open Source Software in School Communities: An Experience Report from Peace Corps Volunteers in Ghana}, publisher = {United Nations University Press}, year = {2012}, address = {Tokyo} }  </description>
+    </item>
+    
+    <item>
+      <title>IPRO: A mobile, social programming game for iOS</title>
+      <link>http://cpl-uw.github.io/paper/berland2012b.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2012b.bib.html</guid>
+      <description>@inproceedings{berland2012b, author = {Berland and Martin and Benton and Petrick}, year = {2012}, title = {IPRO: A mobile, social programming game for iOS}, booktitle = {Proceedings of Games, Learning, Society 8.0} }  </description>
+    </item>
+    
+    <item>
+      <title>Leveraging English Learners&#39; Identities in Game Design</title>
+      <link>http://cpl-uw.github.io/paper/davis2012a.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/davis2012a.bib.html</guid>
+      <description>@inproceedings{davis2012a, author = {Davis and Berland}, year = {2012}, title = {Leveraging English Learners&#39; Identities in Game Design}, booktitle = {Proceedings of Games, Learning, Society 8.0} }  </description>
+    </item>
+    
+    <item>
+      <title>Supporting computational thinking by modding strategic board games</title>
+      <link>http://cpl-uw.github.io/paper/berland2012c.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2012c.bib.html</guid>
+      <description>@incollection{berland2012c, author = {Berland and Duncan and Boecking}, year = {2012}, title = {Supporting computational thinking by modding strategic board games}, booktitle = {International Conference of the Learning Sciences} }  </description>
+    </item>
+    
+    <item>
+      <title>Triangulating Learning in Board Games: Computational Thinking at Multiple Scales of Analysis</title>
+      <link>http://cpl-uw.github.io/paper/duncan2012a.bib.html</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/duncan2012a.bib.html</guid>
+      <description>@inproceedings{duncan2012a, author = {Duncan and Berland}, year = {2012}, title = {Triangulating Learning in Board Games: Computational Thinking at Multiple Scales of Analysis}, booktitle = {Proceedings of Games, Learning, Society 8.0} }  </description>
+    </item>
+    
+    <item>
+      <title>Allocentrism, computational thinking</title>
+      <link>http://cpl-uw.github.io/paper/petrick2011a.bib.html</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/petrick2011a.bib.html</guid>
+      <description>@inproceedings{petrick2011a, author = {Petrick and Berland and Martin}, year = {2011}, title = {Allocentrism, computational thinking}, booktitle = {Proceedings of the Ninth International Conference on Computer-Supported Collaborative Learning}, address = {Hong Kong} }  </description>
+    </item>
+    
+    <item>
+      <title>Collaborative strategic board games as a site for distributed computational thinking</title>
+      <link>http://cpl-uw.github.io/paper/berland2011a.bib.html</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2011a.bib.html</guid>
+      <description>@article{berland2011a, author = {Berland and Lee}, year = {2011}, title = {Collaborative strategic board games as a site for distributed computational thinking}, journal = {International Journal of Game-Based Learning}, volume = {1}, pages = {65–81}, number = {2}, link = {http://digitalcommons.usu.edu/itls_facpub/138/} }  </description>
+    </item>
+    
+    <item>
+      <title>Designing Games for Non-Gamers: Rapid Prototyping as a Design Methodology</title>
+      <link>http://cpl-uw.github.io/paper/ramirez2011.bib.html</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ramirez2011.bib.html</guid>
+      <description>@article{ramirez2011, author = {Ramirez and Chu and Salmon and Gutierrez}, journal = {User Experience Magazine}, title = {Designing Games for Non-Gamers: Rapid Prototyping as a Design Methodology}, link = {http://uxpamagazine.org/gamesfornongamers/}, year = {2011} }  </description>
+    </item>
+    
+    <item>
+      <title>Programming on the Move: Design Lessons from IPRO</title>
+      <link>http://cpl-uw.github.io/paper/berland2011b.bib.html</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2011b.bib.html</guid>
+      <description>@inproceedings{berland2011b, author = {Berland and Benton and Petrick and Martin}, year = {2011}, title = {Programming on the Move: Design Lessons from IPRO}, booktitle = {Proceedings of the ACM SIGCHI}, address = {Vancouver, BC}, link	= {http://dl.acm.org/citation.cfm?id=1979932} }  </description>
+    </item>
+    
+    <item>
+      <title>Understanding strategic boardgames as computational-thinking training machines</title>
+      <link>http://cpl-uw.github.io/paper/berland2011tabletop.bib.html</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2011tabletop.bib.html</guid>
+      <description>@inproceedings{berland2011tabletop, author = {Berland}, year = {2011}, title = {Understanding strategic boardgames as computational-thinking training machines}, booktitle = {Tabletop: Analog Game Design}, link = {http://www.etc.cmu.edu/etcpress/content/tabletop-analog-game-design} }  </description>
+    </item>
+    
+    <item>
+      <title>A Day as a Computer Teacher in Ghana</title>
+      <link>http://cpl-uw.github.io/paper/hardin2010.bib.html</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/hardin2010.bib.html</guid>
+      <description>@inproceedings{hardin2010, author = {Hardin}, booktitle = {A Day on the Planet}, title = {A Day as a Computer Teacher in Ghana}, publisher = {Engelsdorfer Verlag}, year = {2010}, address = {Leipzig} }  </description>
+    </item>
+    
+    <item>
+      <title>Programming Standing Up: Embodied Computing with Constructionist Robotics</title>
+      <link>http://cpl-uw.github.io/paper/berland2010b.bib.html</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2010b.bib.html</guid>
+      <description>@inproceedings{berland2010b, author = {Berland and Martin and Benton}, year = {2010}, title = {Programming Standing Up: Embodied Computing with Constructionist Robotics}, booktitle = {Proceedings of Constructionism 2010}, address = {Paris} }  </description>
+    </item>
+    
+    <item>
+      <title>Small Groups, Big Mistakes: The Emergence of Faulty Rules During a Collaborative Board Game</title>
+      <link>http://cpl-uw.github.io/paper/berland2010a.bib.html</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2010a.bib.html</guid>
+      <description>@inproceedings{berland2010a, author = {Berland and Lee and DuMont}, year = {2010}, title = {Small Groups, Big Mistakes: The Emergence of Faulty Rules During a Collaborative Board Game}, booktitle = {Proceedings of the International Conference of the Learning Sciences}, volume = {2}, pages = {397–398}, address = {Chicago, IL} }  </description>
+    </item>
+    
+    <item>
+      <title>Participatory simulation as a tool for agent-based simulation</title>
+      <link>http://cpl-uw.github.io/paper/berland2009a.bib.html</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2009a.bib.html</guid>
+      <description>@inproceedings{berland2009a, author = {Berland and Rand}, year = {2009}, title = {Participatory simulation as a tool for agent-based simulation}, booktitle = {Proceedings of the International Conference on Agents, Artificial Intelligence (ICAART-09)}, pages = {553–557}, address = {Porto, Portugal} }  </description>
+    </item>
+    
+    <item>
+      <title>Leveraging epistemological diversity through computer-based argumentation in the domain of probability</title>
+      <link>http://cpl-uw.github.io/paper/abrahamson2006a.bib.html</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/abrahamson2006a.bib.html</guid>
+      <description>@article{abrahamson2006a, author = {Abrahamson and Berland and Shapiro and Unterman and Wilensky}, year = {2006}, title = {Leveraging epistemological diversity through computer-based argumentation in the domain of probability}, journal = {For the Learning of Mathematics}, volume = {26}, pages = {39–45}, number = {3}, link	= {http://www.jstor.org/stable/40248549} }  </description>
+    </item>
+    
+    <item>
+      <title>Finding parts in very large corpora</title>
+      <link>http://cpl-uw.github.io/paper/berland1999a.bib.html</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland1999a.bib.html</guid>
+      <description>@inproceedings{berland1999a, author = {Berland and Charniak}, year = {1999}, title = {Finding parts in very large corpora}, booktitle = {Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL-99)}, pages = {57–64}, address = {College Park, MD}, link	= {http://dl.acm.org/citation.cfm?id=1034697} }  </description>
     </item>
     
   </channel>
