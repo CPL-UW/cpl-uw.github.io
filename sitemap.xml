@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://cpl-uw.github.io/paper/berland2017visitorstudies.bib.html</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -23,7 +28,17 @@
   </url>
   
   <url>
+    <loc>http://cpl-uw.github.io/person/peter-woods.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cpl-uw.github.io/projects/playpatterns.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/person/shai-goldfarb.html</loc>
     <lastmod>2016-06-24T13:50:28-05:00</lastmod>
   </url>
   
@@ -124,6 +139,11 @@
   
   <url>
     <loc>http://cpl-uw.github.io/paper/tissenbaum2016icls.bib.html</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/paper/berland2016makeology.bib.html</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   

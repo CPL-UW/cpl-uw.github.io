@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences</title>
+      <link>http://cpl-uw.github.io/paper/berland2017visitorstudies.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2017visitorstudies.bib.html</guid>
+      <description>@article{berland2017constructivist, title={Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences}, author={Berland, Matthew}, journal={Visitor Studies}, volume={20}, number={1}, pages={3--9}, year={2017}, publisher={Routledge} }  </description>
+    </item>
+    
+    <item>
       <title>DCLM framework: understanding collaboration in open-ended tabletop learning environments</title>
       <link>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -35,7 +44,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</guid>
-      <description>@article{tissenbaum2016edm, author = {Berland and Duncan}, year = {2016}, title = {Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay}, journal = {Educational Technology}, }  </description>
+      <description>@article{berlandduncan2016edtech, author = {Berland and Duncan}, year = {2016}, title = {Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay}, journal = {Educational Technology}, }  </description>
     </item>
     
     <item>
@@ -45,6 +54,15 @@
       
       <guid>http://cpl-uw.github.io/paper/tissenbaum2016icls.bib.html</guid>
       <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2016}, title = {Designing a real-time intelligent support for museum interpreters}, journal = {Proceedings of the 12th International Conference for the Learning Sciences}, }  </description>
+    </item>
+    
+    <item>
+      <title>Making, Tinkering, and Computational Literacy</title>
+      <link>http://cpl-uw.github.io/paper/berland2016makeology.bib.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2016makeology.bib.html</guid>
+      <description>@article{berland2016making, title={Making, Tinkering, and Computational Literacy}, author={Berland, Matthew}, journal={Makeology: Makers as Learners}, volume={2}, pages={196}, year={2016}, publisher={Routledge} }  </description>
     </item>
     
     <item>

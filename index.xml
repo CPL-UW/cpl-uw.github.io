@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences</title>
+      <link>http://cpl-uw.github.io/paper/berland2017visitorstudies.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2017visitorstudies.bib.html</guid>
+      <description>@article{berland2017constructivist, title={Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences}, author={Berland, Matthew}, journal={Visitor Studies}, volume={20}, number={1}, pages={3--9}, year={2017}, publisher={Routledge} }  </description>
+    </item>
+    
+    <item>
       <title>DCLM framework: understanding collaboration in open-ended tabletop learning environments</title>
       <link>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -48,11 +57,29 @@
     </item>
     
     <item>
+      <title>peter j. woods</title>
+      <link>http://cpl-uw.github.io/person/peter-woods.html</link>
+      <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/peter-woods.html</guid>
+      <description>Peter J. Woods is a doctoral student in the Curriculum &amp;amp; Instruction department at UW-Madison. His work utilizes critical theory to investigate the learning practices that emerge from experimental arts communities and making through the arts. Woods is also a touring musician and performance artist. He runs FTAM productions (a record label and concert promotion organization that has hosted the Experimental Education Series and the Milwaukee Noise Fest) and serves on the board of the Jazz Gallery Center for the Arts in Milwaukee, WI.</description>
+    </item>
+    
+    <item>
       <title>play patterns</title>
       <link>http://cpl-uw.github.io/projects/playpatterns.html</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
       <guid>http://cpl-uw.github.io/projects/playpatterns.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shai goldfarb</title>
+      <link>http://cpl-uw.github.io/person/shai-goldfarb.html</link>
+      <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
+      
+      <guid>http://cpl-uw.github.io/person/shai-goldfarb.html</guid>
       <description></description>
     </item>
     
@@ -188,7 +215,7 @@
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
       <guid>http://cpl-uw.github.io/person/vishesh-kumar.html</guid>
-      <description></description>
+      <description>Vishesh Kumar is a doctoral student at the Department of Curriculum &amp;amp;Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
     </item>
     
     <item>
@@ -224,7 +251,7 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>http://cpl-uw.github.io/paper/berland2016edtech.bib.html</guid>
-      <description>@article{tissenbaum2016edm, author = {Berland and Duncan}, year = {2016}, title = {Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay}, journal = {Educational Technology}, }  </description>
+      <description>@article{berlandduncan2016edtech, author = {Berland and Duncan}, year = {2016}, title = {Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay}, journal = {Educational Technology}, }  </description>
     </item>
     
     <item>
@@ -234,6 +261,15 @@
       
       <guid>http://cpl-uw.github.io/paper/tissenbaum2016icls.bib.html</guid>
       <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2016}, title = {Designing a real-time intelligent support for museum interpreters}, journal = {Proceedings of the 12th International Conference for the Learning Sciences}, }  </description>
+    </item>
+    
+    <item>
+      <title>Making, Tinkering, and Computational Literacy</title>
+      <link>http://cpl-uw.github.io/paper/berland2016makeology.bib.html</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2016makeology.bib.html</guid>
+      <description>@article{berland2016making, title={Making, Tinkering, and Computational Literacy}, author={Berland, Matthew}, journal={Makeology: Makers as Learners}, volume={2}, pages={196}, year={2016}, publisher={Routledge} }  </description>
     </item>
     
     <item>
