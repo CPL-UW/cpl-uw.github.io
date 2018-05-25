@@ -31,9 +31,40 @@
 			div.textframe {
 				background-color:white;
 			}
-			div.sponsorlogos {
-				max-width: 800px;
+			div.header {
+				
 			}
+			div.sponsorlogos {
+				/*max-width: 800px;*/
+				/*display: block;*/
+				white-space: nowrap;
+			    overflow-x: auto;
+			}
+
+			div.header {
+				display: inline-block;
+				
+			}
+
+			.headerlogo {
+				max-height: 200px;
+
+			}
+
+			.logo {
+				max-height: 230px;
+				max-width: 25%;
+				   /*margin-left: 20px; */
+				display: inline-block;
+				padding: 30px;
+				float: center;
+			}
+
+			#pbstclogo {
+			    /*clip: rect(0px,60px,200px,0px);*/
+				max-width: 30%;
+			}
+
 			p.textparagraph {
 				color:#000000;
 				font-family:"Fira Sans", sans-serif;
@@ -68,8 +99,11 @@
 	</head>
 	<body id="dcf2017spring" lang="en-US">
 		<div class="textframe">
-			<p class="textparagraph"><span class="textheaderfont">DATA CONSORTIUM FELLOWSHIPS FOR 
+			<div class="header">
+				<!-- <img id="dcflogo" class="headerlogo" src="../img/dcf_logo.png"> -->
+				<p class="textparagraph"><span class="textheaderfont">DATA CONSORTIUM FELLOWSHIPS FOR 
 				SUMMER 2018</span></p>
+			</div>
 			<p class="textparagraph"><span class="textbodyfont">The Data Consortium Fellows (DCF) program and Twin Cities PBS (TPT) have teamed up to host a design, data, and play workshop! The goal of the National Science Foundation-funded DCF project is to support researchers across the United States in developing the capacity to apply best practices in learning analytics and play. Participants will be able to analyze telemetry data collected from TPT-RTL games that are currently being developed, create prototypes for educational game, and have lively discussions around data and play! Fellows can apply for participant support to attend the workshop. </span></p>
 			<p class="textparagraph"><span class="textbodyfont">We will schedule and locate the workshop, in part, based on maximum availability; it will be held in August 2018. </span></p>
 			<p class="textparagraph"><span class="textbodyfont">Those interested in applying should put together a brief description of your research interests and/or questions in learning analytics and play (200 words max, excluding references). You must include a current CV, resume, or biosketch; feel free to include a portfolio, if relevant. All are welcome to apply, but, ideally, we would like to create a diverse cohort of professors, graduate students, artists, programmers, game designers, and researchers from industry, the arts, the humanities, and the social sciences.</span></p>
@@ -78,12 +112,12 @@
 			<p class="textparagraph"><span class="textbodyfont">For full consideration, please submit your application by 11:59PM CDT May 31, 2018. One application per individual only, please.</span></p>
 			<p class="textparagraph"><span class="textbodyfont">Applications should be sent to </span><span class="textbodyfont">[</span><a href="mailto:dcf@lists.wisc.edu?subject=DCF&nbsp;Spring&nbsp;2017&nbsp;Application"><span class="textlinks textbodyfont">dcf@lists.wisc.edu</span></a><span class="textbodyfont">] with the subject: “DCF Summer 2018 Application” - applications that use a different subject line may not be seen.</span></p>
 			<p class="textparagraph"><span class="textbodyfont">Please email us (at that address, with that subject) if you have any questions or concerns!</span></p>
-			<p class="textparagraph"><span class="textbodyfont">Thank you! &emdash; DCF Team</span></p>
+			<p class="textparagraph"><span class="textbodyfont">Thank you! &mdash; DCF Team</span></p>
 		</div>
 		<div class="sponsorlogos">
-			<img id="cpllogo" class="logo" src="http://cpl-uw.github.io/img/cpllogowhite.svg">
-			<img id="pbstclogo" class="logo" src="https://marketenginuity.com/wp-content/uploads/2016/04/Our-Stations___TPT.svg">
-			<img id="nsflogo" class="logo" src="https://www.nsf.gov/images/logos/NSF_AllBlack_bitmap_Logo.png">
+			<img id="cpllogo" class="logo" src="../img/cpllogowhite.svg">
+			<img id="pbstclogo" class="logo" src="../img/pbs-twincities-2.svg">
+			<img id="nsflogo" class="logo" src="../img/NSF_AllBlack_bitmap_Logo.png">
 		</div>
 	</body>
 </html>
