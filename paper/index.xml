@@ -6,10 +6,100 @@
     <description>Recent content in Papers on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://cpl-uw.github.io/paper/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ABR Psychometric Testing: Analysis of Validity and Effects.</title>
+      <link>http://cpl-uw.github.io/paper/berland2018jacr.bib.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/berland2018jacr.bib.html</guid>
+      <description>@article{Berland2018JACR, author = {Berland, L. L., Berland, N.W., &amp;amp; Berland, M.}, year = {2018}, title = {ABR Psychometric Testing: Analysis of Validity and Effects.}, journal = {Journal of the American College of Radiology}, }  </description>
+    </item>
+    
+    <item>
+      <title>Computational Discourse in a Role-Playing Game Podcast</title>
+      <link>http://cpl-uw.github.io/paper/gabai2018icls.bib.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/gabai2018icls.bib.html</guid>
+      <description>@article{Gabai2018ICLS, author = {Gabai, J. &amp;amp; Berland, M.}, year = {2018}, title = {Computational Discourse in a Role-Playing Game Podcast}, journal = {Proceedings of ICLS 2018}, }  </description>
+    </item>
+    
+    <item>
+      <title>Failing up: How failure in a game environment promotes learning through discourse.</title>
+      <link>http://cpl-uw.github.io/paper/anderson2018tsc.bib.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/anderson2018tsc.bib.html</guid>
+      <description>@article{Anderson2018TSC, author = {Anderson, C.G., Dalsen, J., Kumar, V., Berland, M., &amp;amp; Steinkuehler, C.}, year = {2018}, title = {Failing up: How failure in a game environment promotes learning through discourse.}, journal = {Thinking Skills and Creativity}, }  </description>
+    </item>
+    
+    <item>
+      <title>Frictional Patterns in the Design of Games for Learning</title>
+      <link>http://cpl-uw.github.io/paper/mechtley2018icls.bib.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/mechtley2018icls.bib.html</guid>
+      <description>@article{Mechtley2018ICLS, author = {Mechtley, A. &amp;amp; Berland, M.}, year = {2018}, title = {Frictional Patterns in the Design of Games for Learning}, journal = {Proceedings of ICLS 2018}, }  </description>
+    </item>
+    
+    <item>
+      <title>Learning Analytics in Support of Qualitative Analysis</title>
+      <link>http://cpl-uw.github.io/paper/sherin2018icls.bib.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/sherin2018icls.bib.html</guid>
+      <description>@article{Sherin2018ICLS, author = {Sherin, B., Kersting, N., &amp;amp; Berland, M.}, year = {2018}, title = {Learning Analytics in Support of Qualitative Analysis}, journal = {Proceedings of ICLS 2018}, }  </description>
+    </item>
+    
+    <item>
+      <title>Students&#39; Perceptions of Pair Programming in CS1</title>
+      <link>http://cpl-uw.github.io/paper/legault2018sigcse.bib.html</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/legault2018sigcse.bib.html</guid>
+      <description>@article{Legault2018sigcse, author = {Legault and Berland}, year = {2018}, title = {Students&#39; Perceptions of Pair Programming in CS1}, journal = {SIGCSE}, }  </description>
+    </item>
+    
+    <item>
+      <title>Control-flow recovery from partial failure reports</title>
+      <link>http://cpl-uw.github.io/paper/ohmann2017pldi.bib.html</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/ohmann2017pldi.bib.html</guid>
+      <description>@article{Ohmann2017pldi, author = {Ohmann, Brooks, D&#39;Antoni, and Liblit}, year = {2017}, title = {Control-flow recovery from partial failure reports}, journal = {PLDI}, }  </description>
+    </item>
+    
+    <item>
+      <title>Ethics and Practices in American DIY Spaces</title>
+      <link>http://cpl-uw.github.io/paper/woods2017pp.bib.html</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/woods2017pp.bib.html</guid>
+      <description>@article{Woods2017pp, author = {Woods}, year = {2017}, title = {Ethics and Practices in American DIY Spaces}, journal = {Punk &amp;amp; Post-punk}, }  </description>
+    </item>
+    
+    <item>
+      <title>Challenges to Multimodal Data Set Collection in Games-based Learning Environments</title>
+      <link>http://cpl-uw.github.io/paper/turker2017mmla.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/turker2017mmla.bib.html</guid>
+      <description>@article{turker2017mmla, author = {Turker, Dalsen, Berland, and Steinkuehler}, year = {2017}, title = {Challenges to Multimodal Data Set Collection in Games-based Learning Environments}, journal = {MMLA}, }  </description>
+    </item>
+    
+    <item>
+      <title>Connected Spaces: Helping Makers Know Their Neighbors</title>
+      <link>http://cpl-uw.github.io/paper/kumar2017idc.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/kumar2017idc.bib.html</guid>
+      <description>@article{Kumar2017IDC, author = {Kumar, V., Tissenbaum, M., Wielgus, L., &amp;amp; Berland, M.}, year = {2017}, title = {Connected Spaces: Helping Makers Know Their Neighbors}, journal = {Proceedings of the 2017 Conference on Interaction Design and Children (pp. 629�635)}, }  </description>
+    </item>
     
     <item>
       <title>Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences</title>
@@ -27,6 +117,51 @@
       
       <guid>http://cpl-uw.github.io/paper/tissenbaum2017ijcscl.bib.html</guid>
       <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2017}, title = {DCLM framework: understanding collaboration in open-ended tabletop learning environments}, journal = {International Journal of Computer-Supported Collaborative Learning}, }  </description>
+    </item>
+    
+    <item>
+      <title>Failing Up - The Role of Difficulty and Failure in an Educational Video Game</title>
+      <link>http://cpl-uw.github.io/paper/anderson2017dml.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/anderson2017dml.bib.html</guid>
+      <description>@article{Anderson2017dml, author = {Anderson, Dalsen, Kumar, Berland, and Steinkuehler}, year = {2017}, title = {Failing Up - The Role of Difficulty and Failure in an Educational Video Game}, journal = {DML}, }  </description>
+    </item>
+    
+    <item>
+      <title>Forest Friends Demo: A Game-Exhibit to Promote Computer Science Concepts in Informal Spaces</title>
+      <link>http://cpl-uw.github.io/paper/sung2017idc.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/sung2017idc.bib.html</guid>
+      <description>@article{Sung2017IDC, author = {Sung, I., &amp;amp; Berland, M.}, year = {2017}, title = {Forest Friends Demo: A Game-Exhibit to Promote Computer Science Concepts in Informal Spaces}, journal = {Proceedings of the 2017 Conference on Interaction Design and Children (pp. 701�704)}, }  </description>
+    </item>
+    
+    <item>
+      <title>Mining Stack Overflow to Formulate a Question Asking Template: Asking Questions that are Most Likely to Be Answered</title>
+      <link>http://cpl-uw.github.io/paper/turker2017icer.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/turker2017icer.bib.html</guid>
+      <description>@article{turker2017icer, author = {Turker and Berland}, year = {2017}, title = {Mining Stack Overflow to Formulate a Question Asking Template: Asking Questions that are Most Likely to Be Answered}, journal = {The Thirteenth Annual ACM International Computing Education Research (ICER)}, }  </description>
+    </item>
+    
+    <item>
+      <title>Mutually-supporting computational and traditional analysis for learning analytics</title>
+      <link>http://cpl-uw.github.io/paper/sherin2017iccss.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/sherin2017iccss.bib.html</guid>
+      <description>@article{Sherin2017ICCSS, author = {Sherin, B., Kersting, N. B., &amp;amp; Berland, M.}, year = {2017}, title = {Mutually-supporting computational and traditional analysis for learning analytics}, journal = {Proceedings of ICCSS 2017}, }  </description>
+    </item>
+    
+    <item>
+      <title>Understanding and Supporting Better Pairings for CS1 Students</title>
+      <link>http://cpl-uw.github.io/paper/legault2017icer.bib.html</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://cpl-uw.github.io/paper/legault2017icer.bib.html</guid>
+      <description>@article{legault2017icer, author = {Legault}, year = {2017}, title = {Understanding and Supporting Better Pairings for CS1 Students}, journal = {Proceedings of the 2017 ACM Conference on International Computing Education Research (ICER &#39;17)}, }  </description>
     </item>
     
     <item>
