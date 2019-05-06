@@ -28,8 +28,20 @@
   </url>
   
   <url>
+    <loc>http://cpl-uw.github.io/paper.html</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cpl-uw.github.io/paper/legault2018sigcse.bib.html</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -90,6 +102,18 @@
   <url>
     <loc>http://cpl-uw.github.io/paper/kumar2017edm.bib.html</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/person.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/projects.html</loc>
+    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -195,6 +219,12 @@
   <url>
     <loc>http://cpl-uw.github.io/blog/2016/04/13/data-consortium-fellows-announced-for-spring-2016.html</loc>
     <lastmod>2016-04-13T05:58:19-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cpl-uw.github.io/post.html</loc>
+    <lastmod>2016-04-13T05:58:19-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -464,36 +494,6 @@
   
   <url>
     <loc>http://cpl-uw.github.io/categories.html</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpl-uw.github.io/paper.html</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpl-uw.github.io/person.html</loc>
-    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpl-uw.github.io/post.html</loc>
-    <lastmod>2016-04-13T05:58:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpl-uw.github.io/projects.html</loc>
-    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cpl-uw.github.io/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
