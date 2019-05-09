@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on complex play lab</title>
-    <link>http://cpl-uw.github.io/projects.html</link>
+    <link>/projects.html</link>
     <description>Recent content in Projects on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 24 Jun 2016 13:50:28 -0500</lastBuildDate>
     
-	<atom:link href="http://cpl-uw.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>oztoc</title>
-      <link>http://cpl-uw.github.io/projects/oztoc.html</link>
+      <link>/projects/oztoc.html</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/oztoc.html</guid>
+      <guid>/projects/oztoc.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>play patterns</title>
-      <link>http://cpl-uw.github.io/projects/playpatterns.html</link>
+      <link>/projects/playpatterns.html</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/playpatterns.html</guid>
+      <guid>/projects/playpatterns.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>board games for learning</title>
-      <link>http://cpl-uw.github.io/projects/bgl.html</link>
+      <link>/projects/bgl.html</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/bgl.html</guid>
+      <guid>/projects/bgl.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADAGE</title>
-      <link>http://cpl-uw.github.io/projects/adage.html</link>
+      <link>/projects/adage.html</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/adage.html</guid>
+      <guid>/projects/adage.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>play data consortium</title>
-      <link>http://cpl-uw.github.io/projects/pdc.html</link>
+      <link>/projects/pdc.html</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/pdc.html</guid>
+      <guid>/projects/pdc.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>connected spaces</title>
-      <link>http://cpl-uw.github.io/projects/connectedspaces.html</link>
+      <link>/projects/connectedspaces.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/connectedspaces.html</guid>
+      <guid>/projects/connectedspaces.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>data consortium fellows</title>
-      <link>http://cpl-uw.github.io/projects/dcf.html</link>
+      <link>/projects/dcf.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/dcf.html</guid>
+      <guid>/projects/dcf.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>forest friends</title>
-      <link>http://cpl-uw.github.io/projects/forestfriends.html</link>
+      <link>/projects/forestfriends.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/forestfriends.html</guid>
+      <guid>/projects/forestfriends.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>lead caravan</title>
-      <link>http://cpl-uw.github.io/projects/leadcaravan.html</link>
+      <link>/projects/leadcaravan.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/leadcaravan.html</guid>
+      <guid>/projects/leadcaravan.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>madhacks</title>
-      <link>http://cpl-uw.github.io/projects/madhacks.html</link>
+      <link>/projects/madhacks.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/madhacks.html</guid>
+      <guid>/projects/madhacks.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming standing up</title>
-      <link>http://cpl-uw.github.io/projects/ipro.html</link>
+      <link>/projects/ipro.html</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://cpl-uw.github.io/projects/ipro.html</guid>
+      <guid>/projects/ipro.html</guid>
       <description></description>
     </item>
     
