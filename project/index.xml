@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Complex Play Lab</title>
-    <link>https://cpl-uw.github.com/project/</link>
+    <link>https://complexplay.org/project/</link>
     <description>Recent content in Projects on Complex Play Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://cpl-uw.github.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://complexplay.org/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>city settlers</title>
-      <link>https://cpl-uw.github.com/project/citysettlers/</link>
+      <link>https://complexplay.org/project/citysettlers/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/citysettlers/</guid>
+      <guid>https://complexplay.org/project/citysettlers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rainbow agents</title>
-      <link>https://cpl-uw.github.com/project/rainbowagents/</link>
+      <link>https://complexplay.org/project/rainbowagents/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/rainbowagents/</guid>
+      <guid>https://complexplay.org/project/rainbowagents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>connected spaces</title>
-      <link>https://cpl-uw.github.com/project/connectedspaces/</link>
+      <link>https://complexplay.org/project/connectedspaces/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/connectedspaces/</guid>
+      <guid>https://complexplay.org/project/connectedspaces/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ecoLENS dashboard</title>
-      <link>https://cpl-uw.github.com/project/ecolens/</link>
+      <link>https://complexplay.org/project/ecolens/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/ecolens/</guid>
+      <guid>https://complexplay.org/project/ecolens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oztoc</title>
-      <link>https://cpl-uw.github.com/project/oztoc/</link>
+      <link>https://complexplay.org/project/oztoc/</link>
       <pubDate>Sat, 24 Jun 2017 13:50:28 -0500</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/oztoc/</guid>
+      <guid>https://complexplay.org/project/oztoc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>play patterns</title>
-      <link>https://cpl-uw.github.com/project/playpatterns/</link>
+      <link>https://complexplay.org/project/playpatterns/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/playpatterns/</guid>
+      <guid>https://complexplay.org/project/playpatterns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>board games for learning</title>
-      <link>https://cpl-uw.github.com/project/bgl/</link>
+      <link>https://complexplay.org/project/bgl/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/bgl/</guid>
+      <guid>https://complexplay.org/project/bgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADAGE</title>
-      <link>https://cpl-uw.github.com/project/adage/</link>
+      <link>https://complexplay.org/project/adage/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/adage/</guid>
+      <guid>https://complexplay.org/project/adage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>play data consortium</title>
-      <link>https://cpl-uw.github.com/project/pdc/</link>
+      <link>https://complexplay.org/project/pdc/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/pdc/</guid>
+      <guid>https://complexplay.org/project/pdc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data consortium fellows</title>
-      <link>https://cpl-uw.github.com/project/dcf/</link>
+      <link>https://complexplay.org/project/dcf/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/dcf/</guid>
+      <guid>https://complexplay.org/project/dcf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lead caravan</title>
-      <link>https://cpl-uw.github.com/project/leadcaravan/</link>
+      <link>https://complexplay.org/project/leadcaravan/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/leadcaravan/</guid>
+      <guid>https://complexplay.org/project/leadcaravan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming standing up</title>
-      <link>https://cpl-uw.github.com/project/ipro/</link>
+      <link>https://complexplay.org/project/ipro/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://cpl-uw.github.com/project/ipro/</guid>
+      <guid>https://complexplay.org/project/ipro/</guid>
       <description></description>
     </item>
     

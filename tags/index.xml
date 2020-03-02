@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Complex Play Lab</title>
-    <link>https://cpl-uw.github.com/tags/</link>
+    <link>https://complexplay.org/tags/</link>
     <description>Recent content in Tags on Complex Play Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://cpl-uw.github.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://complexplay.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
