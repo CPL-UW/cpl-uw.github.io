@@ -1,175 +1,166 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Persons on complex play lab</title>
-    <link>/person.html</link>
-    <description>Recent content in Persons on complex play lab</description>
+    <title>Persons on Complex Play Lab</title>
+    <link>https://cpl-uw.github.com/person/</link>
+    <description>Recent content in Persons on Complex Play Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jun 2016 13:50:28 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 07:25:12 -0500</lastBuildDate>
     
-	<atom:link href="/person/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cpl-uw.github.com/person/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>matthew berland (director)</title>
-      <link>/person/matthew-berland.html</link>
+      <title>andrew turner</title>
+      <link>https://cpl-uw.github.com/person/andrew-turner/</link>
+      <pubDate>Wed, 26 Feb 2020 07:25:12 -0500</pubDate>
+      
+      <guid>https://cpl-uw.github.com/person/andrew-turner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matthew berland</title>
+      <link>https://cpl-uw.github.com/person/matthew-berland/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/matthew-berland.html</guid>
+      <guid>https://cpl-uw.github.com/person/matthew-berland/</guid>
       <description>Matthew Berland is an Associate Professor of Design, Informal, and Creative Education in the Department of Curriculum and Instruction and the director of the UW Game Design Program. He completed a doctorate in Learning Sciences at Northwestern University and a postdoctoral fellowship in Computer Science at the University of Texas at Austin. He studies computational thinking and literacy, game design, museum exhibit design, computer science education, the design of constructionist learning environments, and learning analytics/data mining.</description>
     </item>
     
     <item>
       <title>peter j. woods</title>
-      <link>/person/peter-woods.html</link>
+      <link>https://cpl-uw.github.com/person/peter-woods/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/peter-woods.html</guid>
+      <guid>https://cpl-uw.github.com/person/peter-woods/</guid>
       <description>Peter J. Woods is a doctoral student in the Curriculum &amp;amp; Instruction department at UW-Madison. His work utilizes critical theory to investigate the learning practices that emerge from experimental arts communities and making through the arts. Woods is also a touring musician and performance artist. He runs FTAM productions (a record label and concert promotion organization that has hosted the Experimental Education Series and the Milwaukee Noise Fest) and serves on the board of the Jazz Gallery Center for the Arts in Milwaukee, WI.</description>
     </item>
     
     <item>
       <title>shai goldfarb</title>
-      <link>/person/shai-goldfarb.html</link>
+      <link>https://cpl-uw.github.com/person/shai-goldfarb/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/shai-goldfarb.html</guid>
+      <guid>https://cpl-uw.github.com/person/shai-goldfarb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adam mechtley</title>
-      <link>/person/adam-mechtley.html</link>
+      <link>https://cpl-uw.github.com/person/adam-mechtley/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/adam-mechtley.html</guid>
+      <guid>https://cpl-uw.github.com/person/adam-mechtley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alexi brooks</title>
-      <link>/person/alexi-brooks.html</link>
+      <link>https://cpl-uw.github.com/person/alexi-brooks/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/alexi-brooks.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>amanda captain</title>
-      <link>/person/amanda-captain.html</link>
-      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
-      
-      <guid>/person/amanda-captain.html</guid>
+      <guid>https://cpl-uw.github.com/person/alexi-brooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anna jordan-douglass</title>
-      <link>/person/anna-jordan.html</link>
+      <link>https://cpl-uw.github.com/person/anna-jordan/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/anna-jordan.html</guid>
+      <guid>https://cpl-uw.github.com/person/anna-jordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aybuke turker</title>
-      <link>/person/aybuke-turker.html</link>
+      <link>https://cpl-uw.github.com/person/aybuke-turker/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/aybuke-turker.html</guid>
+      <guid>https://cpl-uw.github.com/person/aybuke-turker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>caroline hardin</title>
-      <link>/person/caroline-hardin.html</link>
+      <link>https://cpl-uw.github.com/person/caroline-hardin/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/caroline-hardin.html</guid>
+      <guid>https://cpl-uw.github.com/person/caroline-hardin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>catherine dornfeld</title>
-      <link>/person/catherine-dornfeld.html</link>
+      <title>catherine dornfeld tissenbaum</title>
+      <link>https://cpl-uw.github.com/person/catherine-dornfeld/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/catherine-dornfeld.html</guid>
+      <guid>https://cpl-uw.github.com/person/catherine-dornfeld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>craig anderson</title>
-      <link>/person/craig-anderson.html</link>
+      <link>https://cpl-uw.github.com/person/craig-anderson/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/craig-anderson.html</guid>
+      <guid>https://cpl-uw.github.com/person/craig-anderson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dennis ramirez</title>
-      <link>/person/dennis-ramirez.html</link>
+      <link>https://cpl-uw.github.com/person/dennis-ramirez/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/dennis-ramirez.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>helen chen</title>
-      <link>/person/helen-chen.html</link>
-      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
-      
-      <guid>/person/helen-chen.html</guid>
+      <guid>https://cpl-uw.github.com/person/dennis-ramirez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>isaac sung</title>
-      <link>/person/isaac-sung.html</link>
+      <link>https://cpl-uw.github.com/person/isaac-sung/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/isaac-sung.html</guid>
+      <guid>https://cpl-uw.github.com/person/isaac-sung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>john binzak</title>
-      <link>/person/john.binzak.html</link>
+      <link>https://cpl-uw.github.com/person/john.binzak/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/john.binzak.html</guid>
+      <guid>https://cpl-uw.github.com/person/john.binzak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>laura legault</title>
-      <link>/person/laura-legault.html</link>
+      <link>https://cpl-uw.github.com/person/laura-legault/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/laura-legault.html</guid>
+      <guid>https://cpl-uw.github.com/person/laura-legault/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mike tissenbaum</title>
-      <link>/person/mike-tissenbaum.html</link>
+      <link>https://cpl-uw.github.com/person/mike-tissenbaum/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/mike-tissenbaum.html</guid>
+      <guid>https://cpl-uw.github.com/person/mike-tissenbaum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vishesh kumar</title>
-      <link>/person/vishesh-kumar.html</link>
+      <link>https://cpl-uw.github.com/person/vishesh-kumar/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>/person/vishesh-kumar.html</guid>
+      <guid>https://cpl-uw.github.com/person/vishesh-kumar/</guid>
       <description>Vishesh Kumar is a doctoral student at the Department of Curriculum &amp;amp;Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
     </item>
     

@@ -1,0 +1,75 @@
+.headshot {
+    border-radius: 15px 50px 30px;
+    width: 150px;
+/*    height: 250px;
+    overflow: hidden;
+*/}
+h2.person-heading {
+    margin-top: 1rem;
+}
+.person-list {
+  display: flex;                       /* establish flex container */
+  flex-wrap: wrap;                     /* enable flex items to wrap */
+  justify-content: center; /*space-around;*/
+}
+.person-cell {
+    text-align: center;
+}
+
+div.person-cell {
+/*            border: 2px solid #000000;*/
+  flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  height: 250px;
+  margin: 0 0 0 0px;        
+}
+p.person-cell { 
+    font:16px arial;
+    margin: 0;
+    padding: 0;
+}
+a.person-url {
+    text-decoration: none;
+    border-bottom: 0px;
+}
+a:hover.person-url {
+    color: hotpink;
+}
+
+.projectshot {
+    border-radius: 30px 30px 30px 30px;
+    height: 150px;
+    width: 200px;
+    object-fit: cover;
+}
+.project-list {
+  display: flex;                       /* establish flex container */
+  flex-wrap: wrap;                     /* enable flex items to wrap */
+  justify-content: center; /*space-around;*/
+}
+div.project-cell {
+ flex: 0 0 32%;                       /* don't grow, don't shrink, width */
+  height: 150px;
+  margin: 0 0 0 0px;
+  text-align: center;
+  overflow: hidden;
+}
+div.project-cell-text {
+    position: relative;
+    bottom: 100px;
+    border-radius: 10px;
+    width: 175px;
+    color: white;
+    text-align: left;
+    font: 12pt arial;
+    background-color: #555555;
+}
+
+
+li.paper-pattern {
+    font-size: 11pt;
+}
+
+p.apply-description {
+    margin-top: 0px;
+    font-size: 15px;
+}

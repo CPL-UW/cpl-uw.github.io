@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Complex Play Lab</title>
+    <link>https://cpl-uw.github.com/project/</link>
+    <description>Recent content in Projects on Complex Play Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://cpl-uw.github.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>city settlers</title>
+      <link>https://cpl-uw.github.com/project/citysettlers/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/citysettlers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rainbow agents</title>
+      <link>https://cpl-uw.github.com/project/rainbowagents/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/rainbowagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>connected spaces</title>
+      <link>https://cpl-uw.github.com/project/connectedspaces/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/connectedspaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecoLENS dashboard</title>
+      <link>https://cpl-uw.github.com/project/ecolens/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/ecolens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oztoc</title>
+      <link>https://cpl-uw.github.com/project/oztoc/</link>
+      <pubDate>Sat, 24 Jun 2017 13:50:28 -0500</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/oztoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>play patterns</title>
+      <link>https://cpl-uw.github.com/project/playpatterns/</link>
+      <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/playpatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>board games for learning</title>
+      <link>https://cpl-uw.github.com/project/bgl/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/bgl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADAGE</title>
+      <link>https://cpl-uw.github.com/project/adage/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/adage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>play data consortium</title>
+      <link>https://cpl-uw.github.com/project/pdc/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/pdc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data consortium fellows</title>
+      <link>https://cpl-uw.github.com/project/dcf/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/dcf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lead caravan</title>
+      <link>https://cpl-uw.github.com/project/leadcaravan/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/leadcaravan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming standing up</title>
+      <link>https://cpl-uw.github.com/project/ipro/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://cpl-uw.github.com/project/ipro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
