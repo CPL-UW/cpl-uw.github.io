@@ -6,10 +6,19 @@
     <description>Recent content in Papers on Complex Play Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://complexplay.org/paper/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Designing Constructionist Futures</title>
+      <link>https://complexplay.org/paper/berland2020mitpress.bib/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexplay.org/paper/berland2020mitpress.bib/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Rainbow Agents: A Collaborative Game For Computational Literacy</title>
