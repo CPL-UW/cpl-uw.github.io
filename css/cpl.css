@@ -10,10 +10,10 @@ h2.person-heading {
 .person-list {
   display: flex;                       /* establish flex container */
   flex-wrap: wrap;                     /* enable flex items to wrap */
-  justify-content: center; /*space-around;*/
+  justify-content: left; /*space-around;*/
 }
 .person-cell {
-    text-align: center;
+    text-align: left;
 }
 
 div.person-cell {
