@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://complexplay.org/about/about/</loc>
+    <lastmod>2020-06-01T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexplay.org/about/</loc>
+    <lastmod>2020-06-01T12:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://complexplay.org/person/andrew-turner/</loc>
     <lastmod>2020-02-26T07:25:12-05:00</lastmod>
   </url>
