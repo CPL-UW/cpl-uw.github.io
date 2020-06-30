@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://complexplay.org/paper/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://complexplay.org/paper/brooks2020icls.bib/</loc>
+    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://complexplay.org/about/about/</loc>
     <lastmod>2020-06-01T12:00:00-05:00</lastmod>
   </url>
@@ -74,11 +84,6 @@
   
   <url>
     <loc>https://complexplay.org/paper/berland2020mitpress.bib/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://complexplay.org/paper/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
