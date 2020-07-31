@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Reimagining collaboration through the lens of the posthuman: Uncovering embodied learning in noise music</title>
+      <link>https://complexplay.org/paper/woods2020posthumancollaboration.bib/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexplay.org/paper/woods2020posthumancollaboration.bib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vocabulary Models of Informal Language Production in Reddit</title>
       <link>https://complexplay.org/paper/brooks2020icls.bib/</link>
       <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
@@ -21,11 +30,11 @@
     </item>
     
     <item>
-      <title>About Us</title>
-      <link>https://complexplay.org/about/about/</link>
+      <title>About</title>
+      <link>https://complexplay.org/about/</link>
       <pubDate>Mon, 01 Jun 2020 12:00:00 -0500</pubDate>
       
-      <guid>https://complexplay.org/about/about/</guid>
+      <guid>https://complexplay.org/about/</guid>
       <description>The Complex Play Lab is a research lab homed in the Design, Informal, and Creative Education program in the Dept. of Curriculum and Instruction at UW–Madison. It is affiliated with the Computer Sciences Dept., the UW Game Lab, the Holtz Center for Science &amp;amp; Technology Studies, the Learning Sciences program in the Educational Psychology Dept., the iSchool, and the STEP Lab at MIT.
 A major goal of the CPL is to support minoritized and under-served students in learning to create with technology so that their voices and values can be amplified.</description>
     </item>
@@ -689,6 +698,17 @@ More information here.</description>
       
       <guid>https://complexplay.org/paper/shapiro2014se.bib/</guid>
       <description>@article{shapiro2014se, author = {Shapiro and Ramirez}, journal = {Encyclopedia of Science Education}, title = {{Simulation Environments}}, year = {2015}, doi = {doi:10.1007/978-94-007-2150-0}, link = {http://link.springer.com/referencework/10.1007/978-94-007-2150-0} }  </description>
+    </item>
+    
+    <item>
+      <title>Rainbow Agents</title>
+      <link>https://complexplay.org/projects/rainbow-agents/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexplay.org/projects/rainbow-agents/</guid>
+      <description>Introduction Rainbow Agents is a museum game designed and set up in the New York Hall of Science, and the Lawrence Hall of Science. In this project, we aim to develop interactive exhibits that introduce complex computational concepts in exciting forms to audiences who tend to not relate to these concepts and practices.
+Rainbow Agents involves agent-based modeling and parallel processing by allowing visitors to program agents
+Papers CHI Play 2019</description>
     </item>
     
     <item>

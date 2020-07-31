@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>games on Complex Play Lab</title>
+    <link>https://complexplay.org/tags/games/</link>
+    <description>Recent content in games on Complex Play Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://complexplay.org/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rainbow Agents</title>
+      <link>https://complexplay.org/projects/rainbow-agents/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://complexplay.org/projects/rainbow-agents/</guid>
+      <description>Introduction Rainbow Agents is a museum game designed and set up in the New York Hall of Science, and the Lawrence Hall of Science. In this project, we aim to develop interactive exhibits that introduce complex computational concepts in exciting forms to audiences who tend to not relate to these concepts and practices.
+Rainbow Agents involves agent-based modeling and parallel processing by allowing visitors to program agents
+Papers CHI Play 2019</description>
+    </item>
+    
+  </channel>
+</rss>
