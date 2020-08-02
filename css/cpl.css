@@ -55,13 +55,15 @@ div.project-cell {
 }
 div.project-cell-text {
     position: relative;
-    bottom: 100px;
-    border-radius: 10px;
-    width: 175px;
+    bottom: 180px;
+    border-radius: 5px 10px;
+    width: 70%;
+    padding-left: 10px;
+    padding-left: 20px;
     color: white;
     text-align: left;
     font: 12pt arial;
-    background-color: #555555;
+    background-color: rgba(55, 55, 55, 0.4);
 }
 
 
