@@ -6,11 +6,7 @@
     <description>Recent content on Complex Play Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://complexplay.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://complexplay.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reimagining collaboration through the lens of the posthuman: Uncovering embodied learning in noise music</title>
       <link>https://complexplay.org/paper/woods2020posthumancollaboration.bib/</link>
@@ -706,7 +702,7 @@ More information here.</description>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://complexplay.org/projects/rainbow-agents/</guid>
-      <description>Introduction     Rainbow Agents is a museum game designed and set up in the New York Hall of Science, and the Lawrence Hall of Science. The game enables visitors to engage with each other around artificial intelligence, complex systems, and concurrency/parallelism; it is an opportunity to (re-)frame computer science for students in the San Francisco Bay Area and in New York City. Schools in these areas will be offering computer science curriculum for the first time, adding urgency for museums to discover how such concepts can be presented in informal settings.</description>
+      <description>Introduction     Rainbow Agents is a museum game designed and set up in the [New York Hall of Science](https://nysci.org/), and the [Lawrence Hall of Science](https://www.lawrencehallofscience.org/). The game enables visitors to engage with each other around artificial intelligence, complex systems, and concurrency/parallelism; it is an opportunity to (re-)frame computer science for students in the San Francisco Bay Area and in New York City. Schools in these areas will be offering computer science curriculum for the first time, adding urgency for museums to discover how such concepts can be presented in informal settings.</description>
     </item>
     
     <item>
