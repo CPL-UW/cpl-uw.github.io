@@ -15,12 +15,14 @@
     padding: 0;
     box-sizing: border-box;
 }
-html {
+html,
+body {
     font-size: calc(1em + 0.33vw);
     font-family: Arial, Helvetica Neue, sans-serif;
     line-height: 1.5;
     color: #111;
     background-color: #fefefe;
+    overscroll-behavior-y: none;
 }
 template {
   display: none !important;
@@ -161,14 +163,17 @@ code {
 }
 .cmd code {
     color: #fefefe;
-    white-space: nowrap;
+    white-space: pre-wrap;
 }
 .cmd code::before {
     content: '$';
     font-weight: bold;
     padding-right: 0.25em;
 }
-
+.cmd code::selection{
+    background: #fefefe;
+    color: rgba(0,0,0,.8);
+}
 /* Lists */
 main ul,
 main ol {
@@ -367,6 +372,7 @@ caption {
 .patterns {
     overflow: auto;
     margin-top: 1.5rem;
+    min-width: max-content;
 }
 .patterns * {
     margin-top: 0;
@@ -382,7 +388,6 @@ caption {
     list-style: none;
 }
 .patterns li + li {
-    margin-top: 0.75rem;
 }
 .patterns ul ul {
     margin-left: 0.75rem;
@@ -394,6 +399,8 @@ caption {
     align-items: baseline;
     font-weight: bold;
     padding: 0 1rem;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
 }
 .pattern a:focus {
     outline: none;
@@ -407,8 +414,6 @@ caption {
   background-color: #111;
   clip-path: polygon(0% 0%, 90% 0%, 100% 50%, 90% 100%, 0% 100%);
   color: #fefefe;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
 }
 
 /* Menu button */
@@ -428,8 +433,8 @@ caption {
     border: 1px solid;
     padding: 1.5rem;
 }
-.toc h2 {
-    font-size: 1rem;
+.toc nav {
+  margin-top: 1rem;
 }
 .toc ol {
     margin-left: 0.75rem;
@@ -460,7 +465,7 @@ caption {
 .patterns-list li + li {
     margin-top: 1rem;
     padding-top: 1rem;
-/*    border-top: 2px solid;*/
+    border-top: 2px solid;
 }
 .patterns-list a {
     border: 0;
@@ -911,9 +916,6 @@ h1 svg {
     }
     .main-and-footer {
         margin: 0;
-    }
-    main {
-      min-height: auto;
     }
     #patterns-list {
       margin-top: 0.5rem;

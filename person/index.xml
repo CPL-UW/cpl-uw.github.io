@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>people on Complex Play Lab</title>
+    <title>People on Complex Play Lab</title>
     <link>https://complexplay.org/person/</link>
-    <description>Recent content in people on Complex Play Lab</description>
+    <description>Recent content in People on Complex Play Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Feb 2020 07:25:12 -0500</lastBuildDate><atom:link href="https://complexplay.org/person/index.xml" rel="self" type="application/rss+xml" />
@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>max shafer-landau</title>
+      <link>https://complexplay.org/person/max-shafer-landau/</link>
+      <pubDate>Tue, 01 Jan 2019 13:50:28 -0500</pubDate>
+      
+      <guid>https://complexplay.org/person/max-shafer-landau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>matthew berland</title>
       <link>https://complexplay.org/person/matthew-berland/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
@@ -85,6 +94,15 @@
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
       <guid>https://complexplay.org/person/shai-goldfarb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abhi manohar</title>
+      <link>https://complexplay.org/person/abhi-manohar/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>https://complexplay.org/person/abhi-manohar/</guid>
       <description></description>
     </item>
     
@@ -143,6 +161,15 @@
     </item>
     
     <item>
+      <title>cole nelson</title>
+      <link>https://complexplay.org/person/cole-nelson/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>https://complexplay.org/person/cole-nelson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>craig anderson</title>
       <link>https://complexplay.org/person/craig-anderson/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
@@ -161,6 +188,15 @@
     </item>
     
     <item>
+      <title>felipe martinez</title>
+      <link>https://complexplay.org/person/felipe-martinez/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>https://complexplay.org/person/felipe-martinez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>isaac sung</title>
       <link>https://complexplay.org/person/isaac-sung/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
@@ -170,11 +206,29 @@
     </item>
     
     <item>
+      <title>jenn scianna</title>
+      <link>https://complexplay.org/person/jenn-scianna/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>https://complexplay.org/person/jenn-scianna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>john binzak</title>
       <link>https://complexplay.org/person/john.binzak/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
       <guid>https://complexplay.org/person/john.binzak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>john chen</title>
+      <link>https://complexplay.org/person/john-chen/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>https://complexplay.org/person/john-chen/</guid>
       <description></description>
     </item>
     
@@ -202,7 +256,7 @@
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
       <guid>https://complexplay.org/person/vishesh-kumar/</guid>
-      <description>Vishesh Kumar is a doctoral student at the Department of Curriculum &amp;amp;Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
+      <description>Vishesh Kumar is aan alum of the Department of Curriculum &amp;amp; Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
     </item>
     
   </channel>
