@@ -1,1436 +1,1445 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <meta name="generator" content="Hugo 0.106.0">
-  <link rel="canonical" href="https://complexplay.org/paper/">
+    <head><title>Paper &ndash; complex play lab</title>
 
-  
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#000000">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="theme-color" content="#ffffff">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
 
-  <link rel="stylesheet" href="https://complexplay.org/css/prism.css" media="none" onload="this.media='all';">
 
-  
-  
-  <link rel="stylesheet" type="text/css" href="https://complexplay.org/css/styles.css">
-  <link rel="stylesheet" type="text/css" href="/css/cpl.css">
 
-  <style id="inverter" media="none">
-    .intro-and-nav, .main-and-footer { filter: invert(100%) }
-    * { background-color: inherit }
-    img:not([src*=".svg"]), .colors, iframe, .demo-container { filter: invert(100%) }
-  </style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" />
 
-  
-  
-  <title>Papers | Complex Play Lab</title>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="../css/palettes/eighties.css">
+<link rel="stylesheet" href="../css/risotto.css">
+<link rel="stylesheet" href="../css/custom.css">
 </head>
 
-  <body>
-    <a href="#main">skip to content</a>
-    <noscript>
-  <style>
-    body {
-      visibility: visible;
-      opacity: 1;
-    }
-  </style>
-</noscript>
+    <body>
+        <div class="page">
 
-    <svg style="display: none">
-  <symbol id="bookmark" viewBox="0 0 40 50">
-   <g transform="translate(2266 3206.2)">
-    <path style="stroke:currentColor;stroke-width:3.2637;fill:none" d="m-2262.2-3203.4-.2331 42.195 16.319-16.318 16.318 16.318.2331-42.428z"/>
-   </g>
-  </symbol>
-
-  <symbol id="w3c" viewBox="0 0 127.09899 67.763">
-   <text font-size="83" style="font-size:83px;font-family:Trebuchet;letter-spacing:-12;fill-opacity:0" letter-spacing="-12" y="67.609352" x="-26.782778">W3C</text>
-   <text font-size="83" style="font-size:83px;font-weight:bold;font-family:Trebuchet;fill-opacity:0" y="67.609352" x="153.21722" font-weight="bold">SVG</text>
-   <path style="fill:currentColor;image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m33.695.377 12.062 41.016 12.067-41.016h8.731l-19.968 67.386h-.831l-12.48-41.759-12.479 41.759h-.832l-19.965-67.386h8.736l12.061 41.016 8.154-27.618-3.993-13.397h8.737z"/>
-   <path style="fill:currentColor;image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m91.355 46.132c0 6.104-1.624 11.234-4.862 15.394-3.248 4.158-7.45 6.237-12.607 6.237-3.882 0-7.263-1.238-10.148-3.702-2.885-2.47-5.02-5.812-6.406-10.022l6.82-2.829c1.001 2.552 2.317 4.562 3.953 6.028 1.636 1.469 3.56 2.207 5.781 2.207 2.329 0 4.3-1.306 5.909-3.911 1.609-2.606 2.411-5.738 2.411-9.401 0-4.049-.861-7.179-2.582-9.399-1.995-2.604-5.129-3.912-9.397-3.912h-3.327v-3.991l11.646-20.133h-14.062l-3.911 6.655h-2.493v-14.976h32.441v4.075l-12.31 21.217c4.324 1.385 7.596 3.911 9.815 7.571 2.22 3.659 3.329 7.953 3.329 12.892z"/>
-   <path style="fill:currentColor;image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m125.21 0 1.414 8.6-5.008 9.583s-1.924-4.064-5.117-6.314c-2.693-1.899-4.447-2.309-7.186-1.746-3.527.73-7.516 4.938-9.258 10.13-2.084 6.21-2.104 9.218-2.178 11.978-.115 4.428.58 7.043.58 7.043s-3.04-5.626-3.011-13.866c.018-5.882.947-11.218 3.666-16.479 2.404-4.627 5.954-7.404 9.114-7.728 3.264-.343 5.848 1.229 7.841 2.938 2.089 1.788 4.213 5.698 4.213 5.698l4.94-9.837z"/>
-   <path style="fill:currentColor;image-rendering:optimizeQuality;shape-rendering:geometricPrecision" d="m125.82 48.674s-2.208 3.957-3.589 5.48c-1.379 1.524-3.849 4.209-6.896 5.555-3.049 1.343-4.646 1.598-7.661 1.306-3.01-.29-5.807-2.032-6.786-2.764-.979-.722-3.486-2.864-4.897-4.854-1.42-2-3.634-5.995-3.634-5.995s1.233 4.001 2.007 5.699c.442.977 1.81 3.965 3.749 6.572 1.805 2.425 5.315 6.604 10.652 7.545 5.336.945 9.002-1.449 9.907-2.031.907-.578 2.819-2.178 4.032-3.475 1.264-1.351 2.459-3.079 3.116-4.108.487-.758 1.276-2.286 1.276-2.286l-1.276-6.644z"/>
-  </symbol>
-
-  <symbol id="tag" viewBox="0 0 177.16535 177.16535">
-    <g transform="translate(0 -875.2)">
-     <path style="fill-rule:evenodd;stroke-width:0;fill:currentColor" d="m159.9 894.3-68.79 8.5872-75.42 77.336 61.931 60.397 75.429-76.565 6.8495-69.755zm-31.412 31.835a10.813 10.813 0 0 1 1.8443 2.247 10.813 10.813 0 0 1 -3.5174 14.872l-.0445.0275a10.813 10.813 0 0 1 -14.86 -3.5714 10.813 10.813 0 0 1 3.5563 -14.863 10.813 10.813 0 0 1 13.022 1.2884z"/>
-    </g>
-  </symbol>
-
-  <symbol id="balloon" viewBox="0 0 141.73228 177.16535">
-   <g transform="translate(0 -875.2)">
-    <g>
-     <path style="fill:currentColor" d="m68.156 882.83-.88753 1.4269c-4.9564 7.9666-6.3764 17.321-5.6731 37.378.36584 10.437 1.1246 23.51 1.6874 29.062.38895 3.8372 3.8278 32.454 4.6105 38.459 4.6694-.24176 9.2946.2879 14.377 1.481 1.2359-3.2937 5.2496-13.088 8.886-21.623 6.249-14.668 8.4128-21.264 10.253-31.252 1.2464-6.7626 1.6341-12.156 1.4204-19.764-.36325-12.93-2.1234-19.487-6.9377-25.843-2.0833-2.7507-6.9865-7.6112-7.9127-7.8436-.79716-.20019-6.6946-1.0922-6.7755-1.0248-.02213.0182-5.0006-.41858-7.5248-.22808l-2.149-.22808h-3.3738z"/>
-     <path style="fill:currentColor" d="m61.915 883.28-3.2484.4497c-1.7863.24724-3.5182.53481-3.8494.63994-2.4751.33811-4.7267.86957-6.7777 1.5696-.28598 0-1.0254.20146-2.3695.58589-5.0418 1.4418-6.6374 2.2604-8.2567 4.2364-6.281 7.6657-11.457 18.43-12.932 26.891-1.4667 8.4111.71353 22.583 5.0764 32.996 3.8064 9.0852 13.569 25.149 22.801 37.517 1.3741 1.841 2.1708 2.9286 2.4712 3.5792 3.5437-1.1699 6.8496-1.9336 10.082-2.3263-1.3569-5.7831-4.6968-21.86-6.8361-33.002-.92884-4.8368-2.4692-14.322-3.2452-19.991-.68557-5.0083-.77707-6.9534-.74159-15.791.04316-10.803.41822-16.162 1.5026-21.503 1.4593-5.9026 3.3494-11.077 6.3247-15.852z"/>
-     <path style="fill:currentColor" d="m94.499 885.78c-.10214-.0109-.13691 0-.0907.0409.16033.13489 1.329 1.0675 2.5976 2.0723 6.7003 5.307 11.273 14.568 12.658 25.638.52519 4.1949.24765 14.361-.5059 18.523-2.4775 13.684-9.7807 32.345-20.944 53.519l-3.0559 5.7971c2.8082.76579 5.7915 1.727 8.9926 2.8441 11.562-11.691 18.349-19.678 24.129-28.394 7.8992-11.913 11.132-20.234 12.24-31.518.98442-10.02-1.5579-20.876-6.7799-28.959-.2758-.4269-.57803-.86856-.89617-1.3166-3.247-6.13-9.752-12.053-21.264-16.131-2.3687-.86369-6.3657-2.0433-7.0802-2.1166z"/>
-     <path style="fill:currentColor" d="m32.52 892.22c-.20090-.13016-1.4606.81389-3.9132 2.7457-11.486 9.0476-17.632 24.186-16.078 39.61.79699 7.9138 2.4066 13.505 5.9184 20.562 5.8577 11.77 14.749 23.219 30.087 38.74.05838.059.12188.1244.18052.1838 1.3166-.5556 2.5965-1.0618 3.8429-1.5199-.66408-.32448-1.4608-1.3297-3.8116-4.4602-5.0951-6.785-8.7512-11.962-13.051-18.486-5.1379-7.7948-5.0097-7.5894-8.0586-13.054-6.2097-11.13-8.2674-17.725-8.6014-27.563-.21552-6.3494.13041-9.2733 1.775-14.987 2.1832-7.5849 3.9273-10.986 9.2693-18.07 1.7839-2.3656 2.6418-3.57 2.4409-3.7003z"/>
-     <path style="fill:currentColor" d="m69.133 992.37c-6.2405.0309-12.635.76718-19.554 2.5706 4.6956 4.7759 9.935 10.258 12.05 12.625l4.1272 4.6202h11.493l3.964-4.4516c2.0962-2.3541 7.4804-7.9845 12.201-12.768-8.378-1.4975-16.207-2.6353-24.281-2.5955z"/>
-     <rect style="stroke-width:0;fill:currentColor" ry="2.0328" height="27.746" width="22.766" y="1017.7" x="60.201"/>
-    </g>
-   </g>
-  </symbol>
-
-  <symbol id="info" viewBox="0 0 41.667 41.667">
-   <g transform="translate(-37.035 -1004.6)">
-    <path style="stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:3.728;fill:none" d="m76.25 1030.2a18.968 18.968 0 0 1 -23.037 13.709 18.968 18.968 0 0 1 -13.738 -23.019 18.968 18.968 0 0 1 23.001 -13.768 18.968 18.968 0 0 1 13.798 22.984"/>
-    <g transform="matrix(1.1146 0 0 1.1146 -26.276 -124.92)">
-     <path style="stroke:currentColor;stroke-linecap:round;stroke-width:3.728;fill:none" d="m75.491 1039.5v-8.7472"/>
-     <path style="stroke-width:0;fill:currentColor" transform="scale(-1)" d="m-73.193-1024.5a2.3719 2.3719 0 0 1 -2.8807 1.7142 2.3719 2.3719 0 0 1 -1.718 -2.8785 2.3719 2.3719 0 0 1 2.8763 -1.7217 2.3719 2.3719 0 0 1 1.7254 2.8741"/>
-    </g>
-   </g>
-  </symbol>
-
-  <symbol id="warning" viewBox="0 0 48.430474 41.646302">
-    <g transform="translate(-1.1273 -1010.2)">
-     <path style="stroke-linejoin:round;stroke:currentColor;stroke-linecap:round;stroke-width:4.151;fill:none" d="m25.343 1012.3-22.14 37.496h44.28z"/>
-     <path style="stroke:currentColor;stroke-linecap:round;stroke-width:4.1512;fill:none" d="m25.54 1027.7v8.7472"/>
-     <path style="stroke-width:0;fill:currentColor" d="m27.839 1042.8a2.3719 2.3719 0 0 1 -2.8807 1.7143 2.3719 2.3719 0 0 1 -1.718 -2.8785 2.3719 2.3719 0 0 1 2.8763 -1.7217 2.3719 2.3719 0 0 1 1.7254 2.8741"/>
-    </g>
-  </symbol>
-
-  <symbol id="menu" viewBox="0 0 50 50">
-     <rect style="stroke-width:0;fill:currentColor" height="10" width="50" y="0" x="0"/>
-     <rect style="stroke-width:0;fill:currentColor" height="10" width="50" y="20" x="0"/>
-     <rect style="stroke-width:0;fill:currentColor" height="10" width="50" y="40" x="0"/>
-   </symbol>
-
-   <symbol id="link" viewBox="0 0 50 50">
-    <g transform="translate(0 -1002.4)">
-     <g transform="matrix(.095670 0 0 .095670 2.3233 1004.9)">
-      <g>
-       <path style="stroke-width:0;fill:currentColor" d="m452.84 192.9-128.65 128.65c-35.535 35.54-93.108 35.54-128.65 0l-42.881-42.886 42.881-42.876 42.884 42.876c11.845 11.822 31.064 11.846 42.886 0l128.64-128.64c11.816-11.831 11.816-31.066 0-42.9l-42.881-42.881c-11.822-11.814-31.064-11.814-42.887 0l-45.928 45.936c-21.292-12.531-45.491-17.905-69.449-16.291l72.501-72.526c35.535-35.521 93.136-35.521 128.64 0l42.886 42.881c35.535 35.523 35.535 93.141-.001 128.66zm-254.28 168.51-45.903 45.9c-11.845 11.846-31.064 11.817-42.881 0l-42.884-42.881c-11.845-11.821-11.845-31.041 0-42.886l128.65-128.65c11.819-11.814 31.069-11.814 42.884 0l42.886 42.886 42.876-42.886-42.876-42.881c-35.54-35.521-93.113-35.521-128.65 0l-128.65 128.64c-35.538 35.545-35.538 93.146 0 128.65l42.883 42.882c35.51 35.54 93.11 35.54 128.65 0l72.496-72.499c-23.956 1.597-48.092-3.784-69.474-16.283z"/>
-      </g>
-     </g>
-    </g>
-  </symbol>
-
-  <symbol id="doc" viewBox="0 0 35 45">
-   <g transform="translate(-147.53 -539.83)">
-    <path style="stroke:currentColor;stroke-width:2.4501;fill:none" d="m149.38 542.67v39.194h31.354v-39.194z"/>
-    <g style="stroke-width:25" transform="matrix(.098003 0 0 .098003 133.69 525.96)">
-     <path d="m220 252.36h200" style="stroke:currentColor;stroke-width:25;fill:none"/>
-     <path style="stroke:currentColor;stroke-width:25;fill:none" d="m220 409.95h200"/>
-     <path d="m220 488.74h200" style="stroke:currentColor;stroke-width:25;fill:none"/>
-     <path d="m220 331.15h200" style="stroke:currentColor;stroke-width:25;fill:none"/>
-    </g>
-   </g>
- </symbol>
-
- <symbol id="tick" viewBox="0 0 177.16535 177.16535">
-  <g transform="translate(0 -875.2)">
-   <rect style="stroke-width:0;fill:currentColor" transform="rotate(30)" height="155" width="40" y="702.99" x="556.82"/>
-   <rect style="stroke-width:0;fill:currentColor" transform="rotate(30)" height="40" width="90.404" y="817.99" x="506.42"/>
-  </g>
- </symbol>
-</svg>
-
-    <div class="wrapper">
-      <header class="intro-and-nav" role="banner">
-  <div>
-    <div class="intro">
-      <a
-        class="logo"
-        href="https://complexplay.org/"
-        aria-label="Complex Play Lab home page"
-      >
-        
-          <img 
-            src="/images/logo.svg" 
-            alt="Logo"
-          >
-        
-      </a>
-      <p class="library-desc">
-        
-      </p>
-    </div>
-    <nav id="patterns-nav" class="patterns" role="navigation">
-  <h2 class="vh">Main navigation</h2>
-  <button id="menu-button" aria-expanded="false">
-    <svg viewBox="0 0 50 50" aria-hidden="true" focusable="false">
-      <use href="#menu"></use>
-    </svg>
-    Menu
-  </button>
-  
-  <ul id="patterns-list">
-  
-    <li class="pattern">
-      
-      
-      
-      
-      <a href="/" >
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use href="#bookmark"></use>
-        </svg>
-        <span class="text">Home</span>
-      </a>
-    </li>
-  
-    <li class="pattern">
-      
-      
-      
-      
-      <a href="/paper/" aria-current="page">
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use href="#bookmark"></use>
-        </svg>
-        <span class="text">Papers</span>
-      </a>
-    </li>
-  
-    <li class="pattern">
-      
-      
-      
-      
-      <a href="/person/" >
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use href="#bookmark"></use>
-        </svg>
-        <span class="text">People</span>
-      </a>
-    </li>
-  
-    <li class="pattern">
-      
-      
-      
-      
-      <a href="/apply/" >
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use href="#bookmark"></use>
-        </svg>
-        <span class="text">Apply</span>
-      </a>
-    </li>
-  
-    <li class="pattern">
-      
-      
-      
-      
-      <a href="/about/" >
-        <svg class="bookmark-icon" aria-hidden="true" focusable="false" viewBox="0 0 40 50">
-          <use href="#bookmark"></use>
-        </svg>
-        <span class="text">About</span>
-      </a>
-    </li>
-  
-  </ul>
-</nav>
+            <header class="page__header"><h1 class="page__logo"><a href="" class="page__logo-inner">complex play lab</a></h1>
+<nav class="page__nav main-nav">
+    <ul>
     
-  </div>
-</header>
-
-      <div class="main-and-footer">
-        <div>
-          
-  <main id="main">
-    <h1>Papers</h1>
-    <ul class="patterns-list">
     
-      <li class="paper-pattern">
-        
-          
-            
-                Brooks, A., Hardin, C., Scianna, J., Berland, M., &amp; LeGault, L. H. (2021). Approaches to Transitioning Computer Science Classes from Offline to Online.
-            
-             <i>ITiCSE </i>
-            <br />
-          
-        
-      </li>        
+    <li class="main-nav__item"><a class="nav-main-item" href="../about/" title="">About</a></li>
     
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="/dl/kumar-CHIPLAY2020.pdf" target="_blank"> Kumar, V., Berland, M., Lyons, L., Cannady, M.A., and McKinney de Royston, M. (2020). Designing for and Identifying Plural Goals in a Science Museum Game Exhibit.</a>
-            
-             <i>CHIPLAY 2020 Extended Abstracts </i>
-            <br />
-          
-        
-      </li>        
+    <li class="main-nav__item"><a class="nav-main-item active" href="../paper/" title="">Papers</a></li>
     
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://doi.org/10.1080/15505170.2020.1786747" target="_blank"> Woods, P. J. (2020). Reimagining collaboration through the lens of the posthuman: Uncovering embodied learning in noise music.</a>
-            
-             <i>Journal of Curriculum &amp; Pedagogy </i>
-            <br />
-          
-        
-      </li>        
+    <li class="main-nav__item"><a class="nav-main-item" href="../person/" title="">People</a></li>
     
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://repository.isls.org//handle/1/6632" target="_blank"> Brooks, A., Turner, A., &amp; Berland, M. (2020). Vocabulary Models of Informal Language Production in Reddit.</a>
-            
-             <i>ICLS 2020 </i>
-            <br />
-          
-        
-      </li>        
+    <li class="main-nav__item"><a class="nav-main-item" href="../book/" title="">Books</a></li>
     
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://mitpress.mit.edu/books/designing-constructionist-futures" target="_blank"> Holbert, N., Berland, M., &amp; Kafai, Y. (2020). Designing Constructionist Futures.</a>
-            
-             <i>MIT Press </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://dl.acm.org/doi/proceedings/10.1145/3341215" target="_blank"> Pellicone, A., Lyons, L., Kumar, V., Zhang, E., Berland, M.  (2019). Rainbow Agents: A Collaborative Game For Computational Literacy.</a>
-            
-             <i>CHI PLAY 19 Extended Abstracts </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Brooks, A. (2019). Demonstrating a Machine Learning Tool for Informal Languages Within Reddit.</a>
-            
-             <i>LSGS 2019 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www-tandfonline-com.ezproxy.library.wisc.edu/doi/abs/10.1080/14613808.2019.1611753" target="_blank"> Woods, P. J. (2019). Conceptions of teaching in and through noise: a study of experimental musicians&#39; beliefs.</a>
-            
-             <i>Music Education Research </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://2019.connectedlearningsummit.org/proceedings/" target="_blank"> Pellicone, A., Holbert, N., DiSalvo, E., Kumar, V., and Berland, M. (2019). Who Played the Game Correctly? Data Signatures of Interaction in Playful Assessment.</a>
-            
-             <i>Proceedings of the 2019 Connected Learning Summit </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://2019.connectedlearningsummit.org/proceedings/" target="_blank"> Ramirez, Hayakawa, McCarthy, Cheung, Feng, and Berland (2019). Three Approaches to Exploring Twin Cities PBS Educational Game Telemetry.</a>
-            
-             <i>Proceedings of the 2019 Connected Learning Summit </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://2019.connectedlearningsummit.org/proceedings/" target="_blank"> Woods, P. J. (2019). (Re)making Whiteness: A Critical Discourse Analysis of Equity-Based Maker Literature.</a>
-            
-             <i>Proceedings of the 2019 Connected Learning Summit </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Brooks, A. (2019). Distinguishing Informal Languages Within Reddit.</a>
-            
-             <i>Northwestern Inaugural Symposium on Computer Science and Learning Sciences 2019 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://dl.acm.org/doi/abs/10.1145/3287324.3293793" target="_blank"> Hardin, C., Brooks, A., Gabai, J., Pellicone, A., Sung, I., &amp; Berland, M. (2019). Questioning the Board in Computer Science Education Board Games.</a>
-            
-             <i>SigCSE 2019 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www-degruyter-com.ezproxy.library.wisc.edu/downloadpdf/j/culture.2019.3.issue-1/culture-2019-0048/culture-2019-0048.xml" target="_blank"> Woods, P. J. (2019). Mapping Critical Anthropocene Discourses in Musical Artefacts: Whiteness, Absence, and the Intersecting &#34;-Cenes&#34; in Prurient&#39;s The History of Aids.</a>
-            
-             <i>Open Cultural Studies </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://dl-acm-org.ezproxy.library.wisc.edu/doi/pdf/10.1145/3202185.3210766" target="_blank"> Jordan-Douglass, A., Kumar, V., Woods, P. J. (2018). Exploring computational thinking through collaborative problem solving and audio puzzles.</a>
-            
-             <i>Proceedings of the 17th ACM Conference on Interaction Design and Children </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://doi-org.ezproxy.library.wisc.edu/10.1080/14797585.2018.1434042" target="_blank"> Woods, P. J. (2018). In (partial) defence of offensive art: Whitehouse as Freirean codification.</a>
-            
-             <i>Journal for Cultural Research </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Legault and Berland (2018). Students&#39; Perceptions of Pair Programming in CS1.</a>
-            
-             <i>SIGCSE </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.scholars.northwestern.edu/en/publications/learning-analytics-in-support-of-qualitative-analysis" target="_blank"> Sherin, B., Kersting, N., &amp; Berland, M. (2018). Learning Analytics in Support of Qualitative Analysis.</a>
-            
-             <i>Proceedings of ICLS 2018 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Mechtley, A. &amp; Berland, M. (2018). Frictional Patterns in the Design of Games for Learning.</a>
-            
-             <i>Proceedings of ICLS 2018 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.sciencedirect.com/science/article/pii/S1871187117301682" target="_blank"> Anderson, C.G., Dalsen, J., Kumar, V., Berland, M., &amp; Steinkuehler, C. (2018). Failing up: How failure in a game environment promotes learning through discourse..</a>
-            
-             <i>Thinking Skills and Creativity, March, 1-10. doi:10.1016/j.tsc.2018.03.002 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://repository.isls.org/bitstream/1/836/1/485.pdf" target="_blank"> Gabai, J. &amp; Berland, M. (2018). Computational Discourse in a Role-Playing Game Podcast.</a>
-            
-             <i>Proceedings of ICLS 2018 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.ncbi.nlm.nih.gov/pubmed/29615360" target="_blank"> Berland, L. L., Berland, N.W., &amp; Berland, M. (2018). ABR Psychometric Testing: Analysis of Validity and Effects..</a>
-            
-             <i>Journal of the American College of Radiology, 15(6), 905-910 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Brooks, A. &amp; Deppeler, D. (2017). Retrospective on Collective Responsibility in Introductory Computer Science Assignments.</a>
-            
-             <i>LSGS 2017 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://dl.acm.org/citation.cfm?id=3062368" target="_blank"> Ohmann, Brooks, D&#39;Antoni, and Liblit (2017). Control-flow recovery from partial failure reports.</a>
-            
-             <i>PLDI </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://www.ingentaconnect.com/content/intellect/punk/2017/00000006/00000001/art00005" target="_blank"> Woods (2017). Ethics and Practices in American DIY Spaces.</a>
-            
-             <i>Punk &amp; Post-punk </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=3029456" target="_blank"> Kumar, Tissenbaum, Berland (2017). What are visitors up to?: helping museum facilitators know what visitors are doing.</a>
-            
-             <i>Proceedings of the Seventh International Learning Analytics and Knowledge Conference </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> LeGault (2017). Understanding and Supporting Better Pairings for CS1 Students.</a>
-            
-             <i>Proceedings of the 2017 ACM Conference on International Computing Education Research (ICER &#39;17) </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Sherin, B., Kersting, N. B., &amp; Berland, M. (2017). Mutually-supporting computational and traditional analysis for learning analytics.</a>
-            
-             <i>Proceedings of ICCSS 2017 </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://icer.acm.org/icer-2017/abstracts/" target="_blank"> Turker and Berland (2017). Mining Stack Overflow to Formulate a Question Asking Template: Asking Questions that are Most Likely to Be Answered.</a>
-            
-             <i>The Thirteenth Annual ACM International Computing Education Research (ICER) </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://dl.acm.org/citation.cfm?id=3091984" target="_blank"> Sung, I., &amp; Berland, M. (2017). Forest Friends Demo: A Game-Exhibit to Promote Computer Science Concepts in Informal Spaces.</a>
-            
-             <i>Proceedings of the 2017 Conference on Interaction Design and Children (pp. 701-704) </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Anderson, Dalsen, Kumar, Berland, and Steinkuehler (2017). Failing Up - The Role of Difficulty and Failure in an Educational Video Game.</a>
-            
-             <i>DML </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://link.springer.com/article/10.1007/s11412-017-9249-7" target="_blank"> Tissenbaum, Berland, Lyons (2017). DCLM framework: understanding collaboration in open-ended tabletop learning environments.</a>
-            
-             <i>International Journal of Computer-Supported Collaborative Learning </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dx.doi.org/10.1080/10645578.2017.1297116" target="_blank"> Berland (2017). Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences.</a>
-            
-             <i>Visitor Studies </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://dl.acm.org/citation.cfm?id=3084335&amp;dl=ACM&amp;coll=DL" target="_blank"> Kumar, V., Tissenbaum, M., Wielgus, L., &amp; Berland, M. (2017). Connected Spaces: Helping Makers Know Their Neighbors.</a>
-            
-             <i>Proceedings of the 2017 Conference on Interaction Design and Children (pp. 629-635) </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="" target="_blank"> Turker, Dalsen, Berland, and Steinkuehler (2017). Challenges to Multimodal Data Set Collection in Games-based Learning Environments.</a>
-            
-             <i>MMLA </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://doc.utwente.nl/101356/1/ICLS2016_Volume_2%20riesen.pdf#page=306" target="_blank"> Anderson, Binzak, Dalsen, Saucerman, Jordan-Douglass, Kumar, Turker, Berland, Squire, Steinkuehler (2016). Situating Deep Multimodal Data on Game-Based STEM Learning..</a>
-            
-             <i>Proceedings of the 12th International Conference for the Learning Sciences </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://www.educationaldatamining.org/EDM2016/proceedings/paper_104.pdf" target="_blank"> Tissenbaum, Kumar, Berland (2016). Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models.</a>
-            
-             <i>Proceedings of the 9th International Conference on Educational Data Mining </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://books.google.com/books?hl=en&amp;lr=&amp;id=MgwzDAAAQBAJ&amp;oi=fnd&amp;pg=PA196&amp;dq=info:U110eqrT0WcJ:scholar.google.com&amp;ots=BZ2Mef83Av&amp;sig=KxQbArQFtBgvS0KRmrFGuIRJZAQ" target="_blank"> Berland (2016). Making, Tinkering, and Computational Literacy.</a>
-            
-             <i>Makeology: Makers as Learners </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://doc.utwente.nl/101356/1/ICLS2016_Volume_2%20riesen.pdf#page=453" target="_blank"> Tissenbaum, Berland, Lyons (2016). Designing a real-time intelligent support for museum interpreters..</a>
-            
-             <i>Proceedings of the 12th International Conference for the Learning Sciences </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://eric.ed.gov/?id=EJ1100952" target="_blank"> Berland, Duncan (2016). Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay.</a>
-            
-             <i>Educational Technology </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://link.springer.com/referencework/10.1007/978-94-007-2150-0" target="_blank"> Shapiro, Ramirez (2015). Simulation Environments.</a>
-            
-             <i>Encyclopedia of Science Education </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://mitpress.mit.edu/books/gameful-world" target="_blank"> Ramirez, Squire (2015). Gamification and Learning.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://link.springer.com/article/10.1007/s10956-015-9552-x" target="_blank"> Berland, Wilensky (2015). Comparing Virtual and Physical Robotics Environments for Supporting Complex Systems and Computational Thinking.</a>
-            
-             <i>Journal of Science Education and Technology </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dx.doi.org/10.1007/s11412-015-9217-z" target="_blank"> Berland, Davis, Smith (2015). AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics.</a>
-            
-             <i>International Journal of Computer-Supported Collaborative Learning </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.academia.edu/8567806/Tech_TrajecStories_Values_That_shape_the_lives_of_women_in_technology" target="_blank"> Rothschild, Ochsner (2014). Tech TrajecStories: Values that shape the lives of women in technology.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.academia.edu/8567741/Talking_with_kids_on_game_design_computer_programming_and_taking_over_the_world_with_dragons" target="_blank"> Ochsner, Anton (2014). Talking with kids on game design, computer programming, and taking over the world with dragons.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=2544312" target="_blank"> Anton, Berland (2014). Studio K: A Game Development Environment Designed for Gains in Computational Thinking.</a>
-            
-             <i>Proceedings of ACM SIG-CSE </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=2538960" target="_blank"> Davis, Berland, Yuen (2014). Multiple Case Study of Nerd Identity in a CS1 Class.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=2544288" target="_blank"> Ochsner, Johnson-Stempson, Steinkuehler, Berland (2014). Mission Critical: Building Community to Engage Young Women in Computer Science.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=2610459" target="_blank"> Danielak, Mechtley, Berland, Lyons, Eydt (2014). MakeScape Lite: A Prototype Learning Environment for Making, Design.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://content.lib.utah.edu/utils/getfile/collection/EHSL_DiGRA/id/67/filename/97.pdf" target="_blank"> Ramirez, Seyler, Squire, Berland (2014). Im a Loser, Baby : Gamer Identity &amp; Failure.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://online.liebertpub.com/doi/abs/10.1089/g4h.2013.0071" target="_blank"> Gutierrez, Kaatz, Chu, Ramirez, Samson-Samuel, Carnes (2014). FairPlay: A Video Game Designed to Address Implicit Race Bias through Active Perspective Taking.</a>
-            
-             <i>Games for Health Journal </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://constructionism2014.ifs.tuwien.ac.at/papers/2.5_2-8517.pdf" target="_blank"> Dietmeier, Russell, Wielgus, Berland (2014). Exploring Physics Through A Musical Simulation.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://link.springer.com/article/10.1007/s10758-014-9223-7" target="_blank"> Berland, Baker, Blikstein (2014). Educational Data Mining, Learning Analytics: Applications to Constructionist Research.</a>
-            
-             <i>Technology, Knowledge, Learning </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dx.doi.org/10.1080/10508406.2013.836655" target="_blank"> Berland, Martin, Benton, Petrick Smith, Davis (2013). Using Learning Analytics to Understand the Learning Pathways of Novice Programmers.</a>
-            
-             <i>Journal of the Learning Sciences </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.researchgate.net/publication/259043715_Mitigation_of_Cognitive_Bias_Through_the_Use_of_a_Serious_Game" target="_blank"> Dunbar, Wilson, Adame, Elizondo, Jensen, Miller, Allums, Seltsam, Bessarabova, Vincent, Straub, Ralstion, Dulawan, Ramirez, Squire (2013). The Development of a Serious Game for the Mitigation of Cognitive Bias.</a>
-            
-             <i>International Journal of Game-Based Learning </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dx.doi.org/10.1108/OTH-01-2012-0001" target="_blank"> Davis, Berland (2013). Supporting English Learners with Participatory Augmented Reality Simulations.</a>
-            
-             <i>On the Horizon </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="https://www.academia.edu/2699075/Studio_K_Tools_for_game_design_and_computational_thinking" target="_blank"> Hatfield, Anton, Ochsner, Squire, Shapiro, Games (2013). Studio K: Tools for game design and computational thinking..</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Davis, Yuen (2013). Monsterismus: Recursively Relevant Computer Science Game Design.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://www.editlib.org/p/38633/paper_38633.pdf" target="_blank"> Martin, Berland, Benton, Smith (2013). Learning Programming with IPRO: The Effects of a Mobile, Social Programming Environment.</a>
-            
-             <i>Journal of Interactive Learning Research </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dx.doi.org/10.1007/s11423-012-9274-1" target="_blank"> Bowers, Berland (2013). Does recreational computer use affect high school achievement?.</a>
-            
-             <i>Educational Technology Research, Development </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Duncan, Berland (2012). Triangulating Learning in Board Games: Computational Thinking at Multiple Scales of Analysis.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Duncan, Boecking (2012). Supporting computational thinking by modding strategic board games.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Davis, Berland (2012). Leveraging English Learners&#39; Identities in Game Design.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Martin, Benton, Petrick (2012). IPRO: A mobile, social programming game for iOS.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Hardin (2012). Free and Open Source Software in School Communities: An Experience Report from Peace Corps Volunteers in Ghana.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland (2012). Becoming an Expert Boardgamer: A Quantitative Exploration.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Martin, Benton, Petrick (2012). AMOEBA: Mining how students learn to program together.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://www.etc.cmu.edu/etcpress/content/tabletop-analog-game-design" target="_blank"> Berland (2011). Understanding strategic boardgames as computational-thinking training machines.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=1979932" target="_blank"> Berland, Benton, Petrick, Martin (2011). Programming on the Move: Design Lessons from IPRO.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://uxpamagazine.org/gamesfornongamers/" target="_blank"> Ramirez, Chu, Salmon, Gutierrez (2011). Designing Games for Non-Gamers: Rapid Prototyping as a Design Methodology.</a>
-            
-             <i>User Experience Magazine </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://digitalcommons.usu.edu/itls_facpub/138/" target="_blank"> Berland, Lee (2011). Collaborative strategic board games as a site for distributed computational thinking.</a>
-            
-             <i>International Journal of Game-Based Learning </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Petrick, Berland, Martin (2011). Allocentrism, computational thinking.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Lee, DuMont (2010). Small Groups, Big Mistakes: The Emergence of Faulty Rules During a Collaborative Board Game.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Martin, Benton (2010). Programming Standing Up: Embodied Computing with Constructionist Robotics.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Hardin (2010). A Day as a Computer Teacher in Ghana.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                Berland, Rand (2009). Participatory simulation as a tool for agent-based simulation.
-            
-            </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://www.jstor.org/stable/40248549" target="_blank"> Abrahamson, Berland, Shapiro, Unterman, Wilensky (2006). Leveraging epistemological diversity through computer-based argumentation in the domain of probability.</a>
-            
-             <i>For the Learning of Mathematics </i>
-            <br />
-          
-        
-      </li>        
-    
-      <li class="paper-pattern">
-        
-          
-            
-                <svg class="bookmark" aria-hidden="true" viewBox="0 0 40 50" focusable="false">
-                  <use xlink:href="#bookmark"></use>
-                </svg>
-                <a href="http://dl.acm.org/citation.cfm?id=1034697" target="_blank"> Berland, Charniak (1999). Finding parts in very large corpora.</a>
-            
-            </i>
-            <br />
-          
-        
-      </li>        
+    <li class="main-nav__item"><a class="nav-main-item" href="../apply/" title="">Apply</a></li>
     
     </ul>
-  </main>
+</nav>
 
-          
-            <footer role="contentinfo">
-  <div
-  
-  >
-    <label for="themer">
-      dark theme: <input type="checkbox" id="themer" class="vh">
+</header>
+
+            <section class="page__body">
+    <ul>
+        
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Anhalt-Depies, C., Berland, M., Rickenbach, M., Bemowski, R., Rissman, A.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://doi.org/10.1080/0144929X.2022.2081820" class="paper"> 
+                    Use of latent profile analysis to characterise patterns of participation in crowdsourcing
+                     </a> 
+                    <span class="paper__journal">Behaviour &amp; Information Technology</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Use%20of%20latent%20profile%20analysis%20to%20characterise%20patterns%20of%20participation%20in%20crowdsourcing%202022%20Anhalt-Depies%2c%20C.%2c%20Berland%2c%20M.%2c%20Rickenbach%2c%20M.%2c%20Bemowski%2c%20R.%2c%20Rissman%2c%20A." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Chen, J., Zhao, L., Xiao, F., Horn, M., Wilensky, U.</span>
+                    <span class="paper__year">(2022).</span>
+                    
+                    Self-Governed Collaborative Inquiry in Action: A Case Study of a Large-Scale Online Youth Community
+                    
+                    <span class="paper__journal"></span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Self-Governed%20Collaborative%20Inquiry%20in%20Action%3a%20A%20Case%20Study%20of%20a%20Large-Scale%20Online%20Youth%20Community%202022%20Chen%2c%20J.%2c%20Zhao%2c%20L.%2c%20Xiao%2c%20F.%2c%20Horn%2c%20M.%2c%20Wilensky%2c%20U." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Kumar, V., Berland, M., Lyons, L., Pinzur, B.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://doi.org/10.1080/10494820.2022.2153148" class="paper"> 
+                    SCAMP: an analytical framework for examining flexible social playfulness around interactive museum exhibits
+                     </a> 
+                    <span class="paper__journal">Interactive Learning Environments</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=SCAMP%3a%20an%20analytical%20framework%20for%20examining%20flexible%20social%20playfulness%20around%20interactive%20museum%20exhibits%202022%20Kumar%2c%20V.%2c%20Berland%2c%20M.%2c%20Lyons%2c%20L.%2c%20Pinzur%2c%20B." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Vacca, R., DesPortes, K., Tes, M., Silander, M., Amato, A., Matuk, C., Woods, P.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://doi.org/10.1145/3501712.3529739" class="paper"> 
+                    What Do You Meme? Students Communicating their Experiences, Intuitions, and Biases Surrounding Data Through Memes
+                     </a> 
+                    <span class="paper__journal">Interaction Design and Children</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=What%20Do%20You%20Meme%3f%20Students%20Communicating%20their%20Experiences%2c%20Intuitions%2c%20and%20Biases%20Surrounding%20Data%20Through%20Memes%202022%20Vacca%2c%20R.%2c%20DesPortes%2c%20K.%2c%20Tes%2c%20M.%2c%20Silander%2c%20M.%2c%20Amato%2c%20A.%2c%20Matuk%2c%20C.%2c%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://www.criticalimprov.com/index.php/csieci/article/view/6151" class="paper"> 
+                    The Collaborative Pedagogies of Solo Improvisation: Learning through Performance in Noise Music
+                     </a> 
+                    <span class="paper__journal">Critical Studies in Improvisation / Études critiques en improvisation</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=The%20Collaborative%20Pedagogies%20of%20Solo%20Improvisation%3a%20Learning%20through%20Performance%20in%20Noise%20Music%202022%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://doi.org/10.1080/10749039.2022.2098337" class="paper"> 
+                    Learning to make noise: toward a process model of artistic practice within experimental music scenes
+                     </a> 
+                    <span class="paper__journal">Mind, Culture, and Activity</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Learning%20to%20make%20noise%3a%20toward%20a%20process%20model%20of%20artistic%20practice%20within%20experimental%20music%20scenes%202022%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://scholarlypublishingcollective.org/uip/jae/article/56/2/56/298757/Aesthetics-in-the-Eugenics-Movement-A-Critical" class="paper"> 
+                    Aesthetics in the Eugenics Movement: A Critical Examination
+                     </a> 
+                    <span class="paper__journal">Journal of Aesthetic Education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Aesthetics%20in%20the%20Eugenics%20Movement%3a%20A%20Critical%20Examination%202022%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P., Jones, K.</span>
+                    <span class="paper__year">(2022).</span>
+                     <a href="https://www.tandfonline.com/doi/abs/10.1080/01596306.2022.2140124" class="paper"> 
+                    Players chatter and dice clatter: exploring sonic power relations in posthuman game-based learning ecologies
+                     </a> 
+                    <span class="paper__journal">Discourse: Studies in the Cultural Politics of Education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Players%20chatter%20and%20dice%20clatter%3a%20exploring%20sonic%20power%20relations%20in%20posthuman%20game-based%20learning%20ecologies%202022%20Woods%2c%20P.%2c%20Jones%2c%20K." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M.</span>
+                    <span class="paper__year">(2021).</span>
+                     <a href="https://complexplay.org/projects/rainbow-agents/" class="paper"> 
+                    Rainbow Agents
+                     </a> 
+                    <span class="paper__journal"></span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Rainbow%20Agents%202021%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Brooks, A., Hardin, C., Scianna, J., Berland, M., Legault, L.</span>
+                    <span class="paper__year">(2021).</span>
+                     <a href="https://doi.org/10.1145/3430665.3456366" class="paper"> 
+                    Approaches to Transitioning Computer Science Classes from Offline to Online
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Approaches%20to%20Transitioning%20Computer%20Science%20Classes%20from%20Offline%20to%20Online%202021%20Brooks%2c%20A.%2c%20Hardin%2c%20C.%2c%20Scianna%2c%20J.%2c%20Berland%2c%20M.%2c%20Legault%2c%20L." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Gabai, J., Berland, M.</span>
+                    <span class="paper__year">(2021).</span>
+                    
+                    The Handwavey Game
+                    
+                    <span class="paper__journal">International Journal of Designs for Learning</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=The%20Handwavey%20Game%202021%20Gabai%2c%20J.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Holbert, N., DiSalvo, B., Berland, M.</span>
+                    <span class="paper__year">(2021).</span>
+                    
+                    The Rollout of Computer Science Education to Every Student in New York City: A Socio-contextual Social Network Analysis.
+                    
+                    <span class="paper__journal">Teachers College Record</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=The%20Rollout%20of%20Computer%20Science%20Education%20to%20Every%20Student%20in%20New%20York%20City%3a%20A%20Socio-contextual%20Social%20Network%20Analysis.%202021%20Holbert%2c%20N.%2c%20DiSalvo%2c%20B.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Jorion, N., Roberts, J., Bowers, A., Tissenbaum, M., Lyons, L., Kumar, V., Berland, M.</span>
+                    <span class="paper__year">(2021).</span>
+                    
+                    Uncovering Patterns in Constructionist Collaborative Learning Activities via Cluster Analysis of Museum Exhibit Log Files
+                    
+                    <span class="paper__journal">Frontline Learning Research</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Uncovering%20Patterns%20in%20Constructionist%20Collaborative%20Learning%20Activities%20via%20Cluster%20Analysis%20of%20Museum%20Exhibit%20Log%20Files%202021%20Jorion%2c%20N.%2c%20Roberts%2c%20J.%2c%20Bowers%2c%20A.%2c%20Tissenbaum%2c%20M.%2c%20Lyons%2c%20L.%2c%20Kumar%2c%20V.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Selvaraj, A., Zhang, E., Porter, L., Soosai Raj, A.</span>
+                    <span class="paper__year">(2021).</span>
+                     <a href="https://dl.acm.org/doi/10.1145/3430665.3456382" class="paper"> 
+                    Live Coding: A Review of the Literature
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 26th ACM Conference on Innovation and Technology in Computer Science Education V. 1</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Live%20Coding%3a%20A%20Review%20of%20the%20Literature%202021%20Selvaraj%2c%20A.%2c%20Zhang%2c%20E.%2c%20Porter%2c%20L.%2c%20Soosai%20Raj%2c%20A." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Turner, A., Hardin, C., Berland, M.</span>
+                    <span class="paper__year">(2021).</span>
+                     <a href="https://doi.org/10.1080/10645578.2021.1925505" class="paper"> 
+                    Hackathons and ‘i’dentities: Museum Visitor Identities in Other Informal Learning Environments
+                     </a> 
+                    <span class="paper__journal">Visitor Studies</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Hackathons%20and%20%e2%80%98i%e2%80%99dentities%3a%20Museum%20Visitor%20Identities%20in%20Other%20Informal%20Learning%20Environments%202021%20Turner%2c%20A.%2c%20Hardin%2c%20C.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2021).</span>
+                     <a href="https://doi.org/10.1080/10714413.2020.1830663" class="paper"> 
+                    The aesthetic pedagogies of DIY music
+                     </a> 
+                    <span class="paper__journal">Review of Education, Pedagogy, and Cultural Studies</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=The%20aesthetic%20pedagogies%20of%20DIY%20music%202021%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2021).</span>
+                     <a href="https://doi.org/10.1080/15505170.2020.1786747" class="paper"> 
+                    Reimagining collaboration through the lens of the posthuman: Uncovering embodied learning in noise music
+                     </a> 
+                    <span class="paper__journal">Journal of Curriculum and Pedagogy</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Reimagining%20collaboration%20through%20the%20lens%20of%20the%20posthuman%3a%20Uncovering%20embodied%20learning%20in%20noise%20music%202021%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Brooks, A., Turner, A., Berland, M.</span>
+                    <span class="paper__year">(2020).</span>
+                     <a href="https://repository.isls.org//handle/1/6632" class="paper"> 
+                    Vocabulary Models of Informal Language Production in Reddit
+                     </a> 
+                    <span class="paper__journal">14th International Conference of the Learning Sciences (ICLS) 2020</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Vocabulary%20Models%20of%20Informal%20Language%20Production%20in%20Reddit%202020%20Brooks%2c%20A.%2c%20Turner%2c%20A.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Chen, J., Wilensky, U.</span>
+                    <span class="paper__year">(2020).</span>
+                    
+                    NetLogo Mobile: An Agent-Based Modeling Platform and Community for Learners, Teachers, and Researchers
+                    
+                    <span class="paper__journal"></span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=NetLogo%20Mobile%3a%20An%20Agent-Based%20Modeling%20Platform%20and%20Community%20for%20Learners%2c%20Teachers%2c%20and%20Researchers%202020%20Chen%2c%20J.%2c%20Wilensky%2c%20U." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Kumar, V., Berland, M., Lyons, L., Cannady, M., Royston, M.</span>
+                    <span class="paper__year">(2020).</span>
+                     <a href="https://doi.org/10.1145/3383668.3429672" class="paper"> 
+                    Designing for and Identifying Plural Goals in a Science Museum Game Exhibit
+                     </a> 
+                    <span class="paper__journal">Extended Abstracts of the 2020 Annual Symposium on Computer-Human Interaction in Play</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Designing%20for%20and%20Identifying%20Plural%20Goals%20in%20a%20Science%20Museum%20Game%20Exhibit%202020%20Kumar%2c%20V.%2c%20Berland%2c%20M.%2c%20Lyons%2c%20L.%2c%20Cannady%2c%20M.%2c%20Royston%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Raj, A., Gu, P., Zhang, E., R, A., Williams, J., Halverson, R., Patel, J.</span>
+                    <span class="paper__year">(2020).</span>
+                     <a href="https://dl.acm.org/doi/10.1145/3373165.3373182" class="paper"> 
+                    Live-coding vs Static Code Examples: Which is better with respect to Student Learning and Cognitive Load?
+                     </a> 
+                    <span class="paper__journal">Proceedings of the Twenty-Second Australasian Computing Education Conference</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Live-coding%20vs%20Static%20Code%20Examples%3a%20Which%20is%20better%20with%20respect%20to%20Student%20Learning%20and%20Cognitive%20Load%3f%202020%20Raj%2c%20A.%2c%20Gu%2c%20P.%2c%20Zhang%2c%20E.%2c%20R%2c%20A.%2c%20Williams%2c%20J.%2c%20Halverson%2c%20R.%2c%20Patel%2c%20J." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2020).</span>
+                     <a href="https://www.researchgate.net/publication/339986968_Remaking_Whiteness_A_Critical_Discourse_Analysis_of_Equity-Based_Maker_Literature" class="paper"> 
+                    (Re)making Whiteness: A Critical Discourse Analysis of Equity-Based Maker Literature
+                     </a> 
+                    <span class="paper__journal">Proceedings from the 2019 Connected Learning Summit</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=%28Re%29making%20Whiteness%3a%20A%20Critical%20Discourse%20Analysis%20of%20Equity-Based%20Maker%20Literature%202020%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P., Jones, K.</span>
+                    <span class="paper__year">(2020).</span>
+                    
+                    Expanding the Borders of Music-Based Qualitative Research Methods Through Graphic Scores
+                    
+                    <span class="paper__journal">Interdisciplinarity in the Learning Sciences: The International Conference of the Learning Sciences (ICLS) 2020</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Expanding%20the%20Borders%20of%20Music-Based%20Qualitative%20Research%20Methods%20Through%20Graphic%20Scores%202020%20Woods%2c%20P.%2c%20Jones%2c%20K." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Pellicone, A., Lyons, L., Kumar, V., Zhang, E., Berland, M.</span>
+                    <span class="paper__year">(2019).</span>
+                     <a href="https://doi.org/10.1145/3341215.3356312" class="paper"> 
+                    Rainbow Agents: A Collaborative Game For Computational Literacy
+                     </a> 
+                    <span class="paper__journal">Extended Abstracts of the Annual Symposium on Computer-Human Interaction in Play Companion Extended Abstracts</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Rainbow%20Agents%3a%20A%20Collaborative%20Game%20For%20Computational%20Literacy%202019%20Pellicone%2c%20A.%2c%20Lyons%2c%20L.%2c%20Kumar%2c%20V.%2c%20Zhang%2c%20E.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Soosai Raj, A., Zhang, E., Mukherjee, S., Williams, J., Halverson, R., Patel, J.</span>
+                    <span class="paper__year">(2019).</span>
+                     <a href="https://doi.org/10.1145/3304221.3319787" class="paper"> 
+                    Effect of Native Language on Student Learning and Classroom Interaction in an Operating Systems Course
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 2019 ACM Conference on Innovation and Technology in Computer Science Education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Effect%20of%20Native%20Language%20on%20Student%20Learning%20and%20Classroom%20Interaction%20in%20an%20Operating%20Systems%20Course%202019%20Soosai%20Raj%2c%20A.%2c%20Zhang%2c%20E.%2c%20Mukherjee%2c%20S.%2c%20Williams%2c%20J.%2c%20Halverson%2c%20R.%2c%20Patel%2c%20J." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2019).</span>
+                     <a href="https://www.degruyter.com/view/j/culture.2019.3.issue-1/culture-2019-0048/culture-2019-0048.xml" class="paper"> 
+                    Mapping Critical Anthropocene Discourses in Musical Artefacts: Whiteness, Absence, and the Intersecting “-Cenes” in Prurient’s The History of Aids
+                     </a> 
+                    <span class="paper__journal">Open Cultural Studies</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Mapping%20Critical%20Anthropocene%20Discourses%20in%20Musical%20Artefacts%3a%20Whiteness%2c%20Absence%2c%20and%20the%20Intersecting%20%e2%80%9c-Cenes%e2%80%9d%20in%20Prurient%e2%80%99s%20The%20History%20of%20Aids%202019%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2019).</span>
+                     <a href="https://doi.org/10.1080/14613808.2019.1611753" class="paper"> 
+                    Conceptions of teaching in and through noise: a study of experimental musicians’ beliefs
+                     </a> 
+                    <span class="paper__journal">Music Education Research</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Conceptions%20of%20teaching%20in%20and%20through%20noise%3a%20a%20study%20of%20experimental%20musicians%e2%80%99%20beliefs%202019%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Anderson, C., Dalsen, J., Kumar, V., Berland, M., Steinkuehler, C.</span>
+                    <span class="paper__year">(2018).</span>
+                    
+                    Failing up: How failure in a game environment promotes learning through discourse
+                    
+                    <span class="paper__journal">Thinking Skills and Creativity</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Failing%20up%3a%20How%20failure%20in%20a%20game%20environment%20promotes%20learning%20through%20discourse%202018%20Anderson%2c%20C.%2c%20Dalsen%2c%20J.%2c%20Kumar%2c%20V.%2c%20Berland%2c%20M.%2c%20Steinkuehler%2c%20C." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Jordan-Douglass, A., Kumar, V., Woods, P.</span>
+                    <span class="paper__year">(2018).</span>
+                    
+                    SynthSync- Decoding Music Together
+                    
+                    <span class="paper__journal">Connected Learning Summit</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=SynthSync-%20Decoding%20Music%20Together%202018%20Jordan-Douglass%2c%20A.%2c%20Kumar%2c%20V.%2c%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">LeGault, L., Berland, M.</span>
+                    <span class="paper__year">(2018).</span>
+                     <a href="https://doi.org/10.1145/3159450.3162284" class="paper"> 
+                    Students&rsquo; Perceptions of Pair Programming in CS1
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 49th ACM Technical Symposium on Computer Science Education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Students%26rsquo%3b%20Perceptions%20of%20Pair%20Programming%20in%20CS1%202018%20LeGault%2c%20L.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Sherin, B., Kersting, N., Berland, M.</span>
+                    <span class="paper__year">(2018).</span>
+                    
+                    Learning analytics in support of qualitative analysis
+                    
+                    <span class="paper__journal">Proceedings of International Conference of the Learning Sciences, ICLS</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Learning%20analytics%20in%20support%20of%20qualitative%20analysis%202018%20Sherin%2c%20B.%2c%20Kersting%2c%20N.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">To, A., Holmes, J., Fath, E., Zhang, E., Kaufman, G., Hammer, J.</span>
+                    <span class="paper__year">(2018).</span>
+                     <a href="http://todigra.org/index.php/todigra/article/view/92" class="paper"> 
+                    Modeling and Designing for Key Elements of Curiosity: Risking Failure, Valuing Questions
+                     </a> 
+                    <span class="paper__journal">Transactions of the Digital Games Research Association</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Modeling%20and%20Designing%20for%20Key%20Elements%20of%20Curiosity%3a%20Risking%20Failure%2c%20Valuing%20Questions%202018%20To%2c%20A.%2c%20Holmes%2c%20J.%2c%20Fath%2c%20E.%2c%20Zhang%2c%20E.%2c%20Kaufman%2c%20G.%2c%20Hammer%2c%20J." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2018).</span>
+                    
+                    Reframing Noise as Constructionist Environment: Conceptions of Teaching and Learning in the Experimental Education Series
+                    
+                    <span class="paper__journal">LSGS Conference 2018 Conference Proceedings</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Reframing%20Noise%20as%20Constructionist%20Environment%3a%20Conceptions%20of%20Teaching%20and%20Learning%20in%20the%20Experimental%20Education%20Series%202018%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2018).</span>
+                     <a href="https://doi.org/10.1080/14797585.2018.1434042" class="paper"> 
+                    In (partial) defence of offensive art: Whitehouse as Freirean codification
+                     </a> 
+                    <span class="paper__journal">Journal for Cultural Research</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=In%20%28partial%29%20defence%20of%20offensive%20art%3a%20Whitehouse%20as%20Freirean%20codification%202018%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Zhang, E., Culbertson, G., Shen, S., Jung, M.</span>
+                    <span class="paper__year">(2018).</span>
+                     <a href="https://doi.org/10.1145/3173574.3173771" class="paper"> 
+                    Utilizing Narrative Grounding to Design Storytelling Gamesfor Creative Foreign Language Production
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Utilizing%20Narrative%20Grounding%20to%20Design%20Storytelling%20Gamesfor%20Creative%20Foreign%20Language%20Production%202018%20Zhang%2c%20E.%2c%20Culbertson%2c%20G.%2c%20Shen%2c%20S.%2c%20Jung%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M.</span>
+                    <span class="paper__year">(2017).</span>
+                     <a href="http://dx.doi.org/10.1080/10645578.2017.1297116" class="paper"> 
+                    Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences
+                     </a> 
+                    <span class="paper__journal">Visitor Studies</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Constructivist%20Analytics%3a%20Using%20Data%20to%20Enable%20Deeper%20Museum%20Experiences%20for%20More%20Visitors%e2%80%94Lessons%20from%20the%20Learning%20Sciences%202017%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Kumar, V., Tissenbaum, M., Berland, M.</span>
+                    <span class="paper__year">(2017).</span>
+                     <a href="https://doi.org/10.1145/3027385.3029456" class="paper"> 
+                    What are visitors up to? helping museum facilitators know what visitors are doing
+                     </a> 
+                    <span class="paper__journal">Proceedings of the Seventh International Learning Analytics &amp;amp; Knowledge Conference</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=What%20are%20visitors%20up%20to%3f%20helping%20museum%20facilitators%20know%20what%20visitors%20are%20doing%202017%20Kumar%2c%20V.%2c%20Tissenbaum%2c%20M.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Kumar, V., Tissenbaum, M., Wielgus, L., Berland, M.</span>
+                    <span class="paper__year">(2017).</span>
+                     <a href="https://doi.org/10.1145/3078072.3084335" class="paper"> 
+                    Connected Spaces: Helping Makers Know Their Neighbors
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 2017 Conference on Interaction Design and Children</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Connected%20Spaces%3a%20Helping%20Makers%20Know%20Their%20Neighbors%202017%20Kumar%2c%20V.%2c%20Tissenbaum%2c%20M.%2c%20Wielgus%2c%20L.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Sung, I., Berland, M.</span>
+                    <span class="paper__year">(2017).</span>
+                     <a href="https://doi.org/10.1145/3078072.3091984" class="paper"> 
+                    Forest Friends Demo: A Game-Exhibit to Promote Computer Science Concepts in Informal Spaces
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 2017 Conference on Interaction Design and Children</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Forest%20Friends%20Demo%3a%20A%20Game-Exhibit%20to%20Promote%20Computer%20Science%20Concepts%20in%20Informal%20Spaces%202017%20Sung%2c%20I.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Tissenbaum, M., Berland, M., Lyons, L.</span>
+                    <span class="paper__year">(2017).</span>
+                     <a href="https://doi.org/10.1007/s11412-017-9249-7" class="paper"> 
+                    DCLM framework: understanding collaboration in open-ended tabletop learning environments
+                     </a> 
+                    <span class="paper__journal">International Journal of Computer-Supported Collaborative Learning</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=DCLM%20framework%3a%20understanding%20collaboration%20in%20open-ended%20tabletop%20learning%20environments%202017%20Tissenbaum%2c%20M.%2c%20Berland%2c%20M.%2c%20Lyons%2c%20L." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Woods, P.</span>
+                    <span class="paper__year">(2017).</span>
+                     <a href="https://www.ingentaconnect.com/content/intellect/punk/2017/00000006/00000001/art00005" class="paper"> 
+                    Ethics and practices in American DIY spaces
+                     </a> 
+                    <span class="paper__journal">Punk &amp; Post-punk</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Ethics%20and%20practices%20in%20American%20DIY%20spaces%202017%20Woods%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M.</span>
+                    <span class="paper__year">(2016).</span>
+                    
+                    Making, tinkering, and computational literacy
+                    
+                    <span class="paper__journal">Makeology: Makers as learners</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Making%2c%20tinkering%2c%20and%20computational%20literacy%202016%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Duncan, S.</span>
+                    <span class="paper__year">(2016).</span>
+                    
+                    Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay
+                    
+                    <span class="paper__journal">Educational Technology</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Computational%20thinking%20in%20the%20wild%3a%20Uncovering%20complex%20collaborative%20thinking%20through%20gameplay%202016%20Berland%2c%20M.%2c%20Duncan%2c%20S." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Hardin, C., Berland, M.</span>
+                    <span class="paper__year">(2016).</span>
+                     <a href="https://doi.org/10.1145/2839509.2851051" class="paper"> 
+                    Learning to Program Using Online Forums: A Comparison of Links Posted on Reddit and Stack Overflow (Abstract Only)
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 47th ACM Technical Symposium on Computing Science Education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Learning%20to%20Program%20Using%20Online%20Forums%3a%20A%20Comparison%20of%20Links%20Posted%20on%20Reddit%20and%20Stack%20Overflow%20%28Abstract%20Only%29%202016%20Hardin%2c%20C.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Peppler, K., Halverson, E., Kafai, Y.</span>
+                    <span class="paper__year">(2016).</span>
+                    
+                    Makeology: Makerspaces as learning environments (Volume 1)
+                    
+                    <span class="paper__journal">Routledge</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Makeology%3a%20Makerspaces%20as%20learning%20environments%20%28Volume%201%29%202016%20Peppler%2c%20K.%2c%20Halverson%2c%20E.%2c%20Kafai%2c%20Y." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Tissenbaum, M., Berland, M., Kumar, V.</span>
+                    <span class="paper__year">(2016).</span>
+                    
+                    Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models.
+                    
+                    <span class="paper__journal">EDM</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Modeling%20Visitor%20Behavior%20in%20a%20Game-Based%20Engineering%20Museum%20Exhibit%20with%20Hidden%20Markov%20Models.%202016%20Tissenbaum%2c%20M.%2c%20Berland%2c%20M.%2c%20Kumar%2c%20V." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Tissenbaum, M., Berland, M., Lyons, L.</span>
+                    <span class="paper__year">(2016).</span>
+                    
+                    Designing a real-time intelligent support for museum interpreters
+                    
+                    <span class="paper__journal">Proceedings of 12th International Conference for the Learning Sciences</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Designing%20a%20real-time%20intelligent%20support%20for%20museum%20interpreters%202016%20Tissenbaum%2c%20M.%2c%20Berland%2c%20M.%2c%20Lyons%2c%20L." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Tissenbaum, M., Matuk, C., Berland, M., Lyons, L., Cocco, F., Linn, M., Plass, J., Hajny, N., Olsen, A., Schwendimann, B.</span>
+                    <span class="paper__year">(2016).</span>
+                    
+                    Real-time visualization of student activities to support classroom orchestration
+                    
+                    <span class="paper__journal">Singapore: International Society of the Learning Sciences</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Real-time%20visualization%20of%20student%20activities%20to%20support%20classroom%20orchestration%202016%20Tissenbaum%2c%20M.%2c%20Matuk%2c%20C.%2c%20Berland%2c%20M.%2c%20Lyons%2c%20L.%2c%20Cocco%2c%20F.%2c%20Linn%2c%20M.%2c%20Plass%2c%20J.%2c%20Hajny%2c%20N.%2c%20Olsen%2c%20A.%2c%20Schwendimann%2c%20B." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Davis, D., Smith, C.</span>
+                    <span class="paper__year">(2015).</span>
+                    
+                    AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics
+                    
+                    <span class="paper__journal">International Journal of Computer-Supported Collaborative Learning</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=AMOEBA%3a%20Designing%20for%20collaboration%20in%20computer%20science%20classrooms%20through%20live%20learning%20analytics%202015%20Berland%2c%20M.%2c%20Davis%2c%20D.%2c%20Smith%2c%20C." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Wilensky, U.</span>
+                    <span class="paper__year">(2015).</span>
+                    
+                    Comparing virtual and physical robotics environments for supporting complex systems and computational thinking
+                    
+                    <span class="paper__journal">Journal of Science Education and Technology</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Comparing%20virtual%20and%20physical%20robotics%20environments%20for%20supporting%20complex%20systems%20and%20computational%20thinking%202015%20Berland%2c%20M.%2c%20Wilensky%2c%20U." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Lyons, L., Tissenbaum, M., Berland, M., Eydt, R., Wielgus, L., Mechtley, A.</span>
+                    <span class="paper__year">(2015).</span>
+                     <a href="https://doi.org/10.1145/2771839.2771845" class="paper"> 
+                    Designing visible engineering: supporting tinkering performances in museums
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 14th International Conference on Interaction Design and Children</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Designing%20visible%20engineering%3a%20supporting%20tinkering%20performances%20in%20museums%202015%20Lyons%2c%20L.%2c%20Tissenbaum%2c%20M.%2c%20Berland%2c%20M.%2c%20Eydt%2c%20R.%2c%20Wielgus%2c%20L.%2c%20Mechtley%2c%20A." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Wielgus, L., Berland, M.</span>
+                    <span class="paper__year">(2015).</span>
+                    
+                    The Impacts of Co-Tinkering at an Engineering Design Exhibit
+                    
+                    <span class="paper__journal">Proceedings of the Visitor Studies Association Conference</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=The%20Impacts%20of%20Co-Tinkering%20at%20an%20Engineering%20Design%20Exhibit%202015%20Wielgus%2c%20L.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Anton, G., Berland, M.</span>
+                    <span class="paper__year">(2014).</span>
+                     <a href="https://doi.org/10.1145/2538862.2544312" class="paper"> 
+                    Studio K: a game development environment designed for gains in computational thinking (abstract only)
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 45th ACM technical symposium on Computer science education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Studio%20K%3a%20a%20game%20development%20environment%20designed%20for%20gains%20in%20computational%20thinking%20%28abstract%20only%29%202014%20Anton%2c%20G.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Baker, R., Blikstein, P.</span>
+                    <span class="paper__year">(2014).</span>
+                     <a href="http://dx.doi.org/10.1007/s10758-014-9223-7" class="paper"> 
+                    Educational Data Mining and Learning Analytics: Applications to Constructionist Research
+                     </a> 
+                    <span class="paper__journal">Technology, Knowledge and Learning</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Educational%20Data%20Mining%20and%20Learning%20Analytics%3a%20Applications%20to%20Constructionist%20Research%202014%20Berland%2c%20M.%2c%20Baker%2c%20R.%2c%20Blikstein%2c%20P." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Danielak, B., Mechtley, A., Berland, M., Lyons, L., Eydt, R.</span>
+                    <span class="paper__year">(2014).</span>
+                     <a href="https://doi.org/10.1145/2593968.2610459" class="paper"> 
+                    MakeScape lite: a prototype learning environment for making and design
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 2014 conference on Interaction design and children</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=MakeScape%20lite%3a%20a%20prototype%20learning%20environment%20for%20making%20and%20design%202014%20Danielak%2c%20B.%2c%20Mechtley%2c%20A.%2c%20Berland%2c%20M.%2c%20Lyons%2c%20L.%2c%20Eydt%2c%20R." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Davis, D., Yuen, T., Berland, M.</span>
+                    <span class="paper__year">(2014).</span>
+                     <a href="https://doi.org/10.1145/2538862.2538960" class="paper"> 
+                    Multiple case study of nerd identity in a CS1 class
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 45th ACM technical symposium on Computer science education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Multiple%20case%20study%20of%20nerd%20identity%20in%20a%20CS1%20class%202014%20Davis%2c%20D.%2c%20Yuen%2c%20T.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Lee, V.</span>
+                    <span class="paper__year">(2014).</span>
+                    
+                    Learning technologies and the body: Integration and implementation in formal and informal learning environments
+                    
+                    <span class="paper__journal">Routledge</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Learning%20technologies%20and%20the%20body%3a%20Integration%20and%20implementation%20in%20formal%20and%20informal%20learning%20environments%202014%20Lee%2c%20V." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Ochsner, A., Johnson-Stempson, R., Berland, M.</span>
+                    <span class="paper__year">(2014).</span>
+                     <a href="https://doi.org/10.1145/2538862.2544288" class="paper"> 
+                    Mission critical: building community to engage young women in computer science
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 45th ACM technical symposium on Computer science education</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Mission%20critical%3a%20building%20community%20to%20engage%20young%20women%20in%20computer%20science%202014%20Ochsner%2c%20A.%2c%20Johnson-Stempson%2c%20R.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Stenerson, M., Salmon, A., Berland, M., Squire, K.</span>
+                    <span class="paper__year">(2014).</span>
+                     <a href="https://doi.org/10.1145/2658537.2661325" class="paper"> 
+                    Adage: an open API for data collection in educational games
+                     </a> 
+                    <span class="paper__journal">Proceedings of the first ACM SIGCHI annual symposium on Computer-human interaction in play</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Adage%3a%20an%20open%20API%20for%20data%20collection%20in%20educational%20games%202014%20Stenerson%2c%20M.%2c%20Salmon%2c%20A.%2c%20Berland%2c%20M.%2c%20Squire%2c%20K." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Martin, T., Benton, T., Petrick Smith, C., Davis, D.</span>
+                    <span class="paper__year">(2013).</span>
+                     <a href="http://dx.doi.org/10.1080/10508406.2013.836655" class="paper"> 
+                    Using Learning Analytics to Understand the Learning Pathways of Novice Programmers
+                     </a> 
+                    <span class="paper__journal">Journal of the Learning Sciences</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Using%20Learning%20Analytics%20to%20Understand%20the%20Learning%20Pathways%20of%20Novice%20Programmers%202013%20Berland%2c%20M.%2c%20Martin%2c%20T.%2c%20Benton%2c%20T.%2c%20Petrick%20Smith%2c%20C.%2c%20Davis%2c%20D." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Smith, C., Davis, D.</span>
+                    <span class="paper__year">(2013).</span>
+                    
+                    Visualizing Live Collaboration in the Classroom with AMOEBA
+                    
+                    <span class="paper__journal">Proceedings of the International Conference on Computer-Supported Collaborative Learning.</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Visualizing%20Live%20Collaboration%20in%20the%20Classroom%20with%20AMOEBA%202013%20Berland%2c%20M.%2c%20Smith%2c%20C.%2c%20Davis%2c%20D." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Davis, D., Berland, M.</span>
+                    <span class="paper__year">(2013).</span>
+                    
+                    Supporting English learners with participatory augmented reality simulations
+                    
+                    <span class="paper__journal">On the Horizon</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Supporting%20English%20learners%20with%20participatory%20augmented%20reality%20simulations%202013%20Davis%2c%20D.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Martin, T., Berland, M., Benton, T., Smith, C.</span>
+                    <span class="paper__year">(2013).</span>
+                    
+                    Learning programming with IPRO: The effects of a mobile, social programming environment
+                    
+                    <span class="paper__journal">Journal of Interactive Learning Research</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Learning%20programming%20with%20IPRO%3a%20The%20effects%20of%20a%20mobile%2c%20social%20programming%20environment%202013%20Martin%2c%20T.%2c%20Berland%2c%20M.%2c%20Benton%2c%20T.%2c%20Smith%2c%20C." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Duncan, S.</span>
+                    <span class="paper__year">(2012).</span>
+                    
+                    Supporting computational thinking by modding strategic board games
+                    
+                    <span class="paper__journal">Proceedings of the 10th International Conference of the Learning Sciences (ICLS 2012)</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Supporting%20computational%20thinking%20by%20modding%20strategic%20board%20games%202012%20Berland%2c%20M.%2c%20Duncan%2c%20S." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Bowers, A., Berland, M.</span>
+                    <span class="paper__year">(2012).</span>
+                     <a href="http://www.springerlink.com/content/gm12802v47389546/abstract/" class="paper"> 
+                    Does recreational computer use affect high school achievement?
+                     </a> 
+                    <span class="paper__journal">Educational Technology Research and Development</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Does%20recreational%20computer%20use%20affect%20high%20school%20achievement%3f%202012%20Bowers%2c%20A.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Duncan, S., Berland, M.</span>
+                    <span class="paper__year">(2012).</span>
+                    
+                    Triangulating learning in board games: Computational thinking at multiple scales of analysis
+                    
+                    <span class="paper__journal">Proceedings of Games&#43;Learning&#43;Society 8.0</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Triangulating%20learning%20in%20board%20games%3a%20Computational%20thinking%20at%20multiple%20scales%20of%20analysis%202012%20Duncan%2c%20S.%2c%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M.</span>
+                    <span class="paper__year">(2011).</span>
+                    
+                    Understanding strategic boardgames as computational- thinking training machines
+                    
+                    <span class="paper__journal">Tabletop: analog game design</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Understanding%20strategic%20boardgames%20as%20computational-%20thinking%20training%20machines%202011%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Lee, V.</span>
+                    <span class="paper__year">(2011).</span>
+                    
+                    Collaborative strategic board games as a site for distributed computational thinking
+                    
+                    <span class="paper__journal">International Journal of Game-Based Learning (IJGBL)</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Collaborative%20strategic%20board%20games%20as%20a%20site%20for%20distributed%20computational%20thinking%202011%20Berland%2c%20M.%2c%20Lee%2c%20V." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Martin, T., Benton, T., Petrick, C.</span>
+                    <span class="paper__year">(2011).</span>
+                     <a href="https://doi.org/10.1145/1979742.1979932" class="paper"> 
+                    Programming on the move: design lessons from IPRO
+                     </a> 
+                    <span class="paper__journal">CHI &#39;11 Extended Abstracts on Human Factors in Computing Systems</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Programming%20on%20the%20move%3a%20design%20lessons%20from%20IPRO%202011%20Berland%2c%20M.%2c%20Martin%2c%20T.%2c%20Benton%2c%20T.%2c%20Petrick%2c%20C." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Costikyan, G.</span>
+                    <span class="paper__year">(2011).</span>
+                    
+                    Tabletop: Analog game design
+                    
+                    <span class="paper__journal"></span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Tabletop%3a%20Analog%20game%20design%202011%20Costikyan%2c%20G." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Petrick, C., Berland, M., Martin, T.</span>
+                    <span class="paper__year">(2011).</span>
+                    
+                    Allocentrism and computational thinking
+                    
+                    <span class="paper__journal">Proceedings of the Ninth International Conference on Computer-Supported Collaborative Learning</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Allocentrism%20and%20computational%20thinking%202011%20Petrick%2c%20C.%2c%20Berland%2c%20M.%2c%20Martin%2c%20T." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Lee, V., DuMont, M.</span>
+                    <span class="paper__year">(2010).</span>
+                    
+                    Small groups, big mistakes: the emergence of faulty rules during a collaborative board game
+                    
+                    <span class="paper__journal">Proceedings of the 9th International Conference of the Learning Sciences - Volume 2</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Small%20groups%2c%20big%20mistakes%3a%20the%20emergence%20of%20faulty%20rules%20during%20a%20collaborative%20board%20game%202010%20Berland%2c%20M.%2c%20Lee%2c%20V.%2c%20DuMont%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Martin, T., Benton, T.</span>
+                    <span class="paper__year">(2010).</span>
+                    
+                    Programming Standing Up: Embodied Computing with Constructionist Robotics
+                    
+                    <span class="paper__journal">Proceedings of Constructionism</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Programming%20Standing%20Up%3a%20Embodied%20Computing%20with%20Constructionist%20Robotics%202010%20Berland%2c%20M.%2c%20Martin%2c%20T.%2c%20Benton%2c%20T." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Rand, W.</span>
+                    <span class="paper__year">(2009).</span>
+                     <a href="http://berland.org/files/berland-icaart09.pdf" class="paper"> 
+                    Participatory Simulation as a Tool for Agent-Based Simulation
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 2009 International Conference on Agents and Artificial Intelligence</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Participatory%20Simulation%20as%20a%20Tool%20for%20Agent-Based%20Simulation%202009%20Berland%2c%20M.%2c%20Rand%2c%20W." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M.</span>
+                    <span class="paper__year">(2008).</span>
+                    
+                    VBOT: motivating computational and complex systems fluencies with constructionist virtual/physical robotics
+                    
+                    <span class="paper__journal">Northwestern University</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=VBOT%3a%20motivating%20computational%20and%20complex%20systems%20fluencies%20with%20constructionist%20virtual%2fphysical%20robotics%202008%20Berland%2c%20M." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Abrahamson, D., Berland, M., Shapiro, B., Unterman, J., Wilensky, U.</span>
+                    <span class="paper__year">(2006).</span>
+                    
+                    Leveraging epistemological diversity through computer-based argumentation in the domain of probability
+                    
+                    <span class="paper__journal">For the Learning of Mathematics</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20epistemological%20diversity%20through%20computer-based%20argumentation%20in%20the%20domain%20of%20probability%202006%20Abrahamson%2c%20D.%2c%20Berland%2c%20M.%2c%20Shapiro%2c%20B.%2c%20Unterman%2c%20J.%2c%20Wilensky%2c%20U." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Abrahamson, D., Berland, M., Shapiro, R., Unterman, J., Wilensky, U.</span>
+                    <span class="paper__year">(2004).</span>
+                    
+                    Leveraging epistemological diversity through computer-based argumentation in the domain of probability
+                    
+                    <span class="paper__journal">Proceedings of the 6th international conference on Learning sciences</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Leveraging%20epistemological%20diversity%20through%20computer-based%20argumentation%20in%20the%20domain%20of%20probability%202004%20Abrahamson%2c%20D.%2c%20Berland%2c%20M.%2c%20Shapiro%2c%20R.%2c%20Unterman%2c%20J.%2c%20Wilensky%2c%20U." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+        
+    <article>
+        <header class="paper__header">
+            <li class="paper">
+                <p>
+                    <span class="paper__author">Berland, M., Charniak, E.</span>
+                    <span class="paper__year">(1999).</span>
+                     <a href="https://doi.org/10.3115/1034678.1034697" class="paper"> 
+                    Finding parts in very large corpora
+                     </a> 
+                    <span class="paper__journal">Proceedings of the 37th annual meeting of the Association for Computational Linguistics on Computational Linguistics</span>
+                    
+                    <span>[<a href="https://scholar.google.com/scholar?hl=en&q=Finding%20parts%20in%20very%20large%20corpora%201999%20Berland%2c%20M.%2c%20Charniak%2c%20E." class="paper">scholar</a>]</span>
+                </p>
+            </li>
+        </header>
+    </article>
+    
+    
+    </ul>
+
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
       
-      <span aria-hidden="true"></span>
-    </label>
-  </div>
-  
-    Made with <a href="https://gohugo.io/">Hugo</a>. Themed by <a href="https://github.com/zwbetz-gh/cupper-hugo-theme">Cupper</a>.
-  
+    
+      
+        
+      
+    
+      
+    
+      
+    
+      
+    
+    
+    
+</p>
+<br /><br />
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
 </footer>
 
-          
         </div>
-      </div>
-    </div>
-    
+    </body>
 
-<script src="/js/dom-scripts.js"></script>  
-
-<script src="/js/prism.js"></script>
-
-
-
-
-
-    
-    
-  
-  <script>
-  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-  ga('create', 'UA-29814504-2', 'auto');
-  ga('send', 'pageview');
-  </script>
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
-  
-
-  </body>
 </html>

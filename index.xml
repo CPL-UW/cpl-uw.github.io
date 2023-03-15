@@ -1,82 +1,217 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Complex Play Lab</title>
-    <link>https://complexplay.org/</link>
-    <description>Recent content on Complex Play Lab</description>
+    <title>CPL on complex play lab</title>
+    <link>/</link>
+    <description>Recent content in CPL on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0100</lastBuildDate><atom:link href="https://complexplay.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Nov 2022 12:00:00 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Approaches to Transitioning Computer Science Classes from Offline to Online</title>
-      <link>https://complexplay.org/paper/brooks2021iticse.bib/</link>
-      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <title>Designing Constructionist Futures</title>
+      <link>/book/designing-constructionist-futures/</link>
+      <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
       
-      <guid>https://complexplay.org/paper/brooks2021iticse.bib/</guid>
+      <guid>/book/designing-constructionist-futures/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Designing for and Identifying Plural Goals in a Science Museum Game Exhibit</title>
-      <link>https://complexplay.org/paper/kumar2020chiplay.bib/</link>
-      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <title>Matthew Berland</title>
+      <link>/person/matthew-berland/</link>
+      <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
       
-      <guid>https://complexplay.org/paper/kumar2020chiplay.bib/</guid>
-      <description>@article{Kumar2020CHIPLAY,author = {Kumar, Vishesh and Berland, Matthew and Lyons, Leilah and Cannady, Matthew A. and McKinney de Royston, Maxine},title = {Designing for and Identifying Plural Goals in a Science Museum Game Exhibit},year = {2020},journal = {Extended Abstracts of the 2020 Annual Symposium on Computer-Human Interaction in Play},}</description>
+      <guid>/person/matthew-berland/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Rainbow Agents ICLS 2020 Symposium</title>
-      <link>https://complexplay.org/projects/rainbow-agents-symposium/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Playful Testing</title>
+      <link>/book/playful-testing/</link>
+      <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
       
-      <guid>https://complexplay.org/projects/rainbow-agents-symposium/</guid>
-      <description> Reframing Playful Participation in Museums: Identity, Collaboration, Inclusion We organized a sequence of semi-structured interviews between pairs of complementary projects paying attention to identity, collaboration and inclusion among visitor-learners. Leilah Lyons, Tony Pellicone, Angela Booker Matthew Berland, Basak Helvaci Ozacar, Stephen Uzzo Maxine McKinney de Royston, Robb Lindgren, Vishesh Kumar, James Planey </description>
+      <guid>/book/playful-testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aesthetics in the Eugenics Movement: A Critical Examination</title>
+      <link>/paper/woods2022aesthetics/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/woods2022aesthetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to make noise: toward a process model of artistic practice within experimental music scenes</title>
+      <link>/paper/woods2022learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/woods2022learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Players chatter and dice clatter: exploring sonic power relations in posthuman game-based learning ecologies</title>
+      <link>/paper/woods_jones2022players/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/woods_jones2022players/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCAMP: an analytical framework for examining flexible social playfulness around interactive museum exhibits</title>
+      <link>/paper/kumar_berland_lyons_pinzur2022scamp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/kumar_berland_lyons_pinzur2022scamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Governed Collaborative Inquiry in Action: A Case Study of a Large-Scale Online Youth Community</title>
+      <link>/paper/chen_zhao_xiao_horn_wilensky2022selfgoverned/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/chen_zhao_xiao_horn_wilensky2022selfgoverned/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Collaborative Pedagogies of Solo Improvisation: Learning through Performance in Noise Music</title>
+      <link>/paper/woods2022the/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/woods2022the/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of latent profile analysis to characterise patterns of participation in crowdsourcing</title>
+      <link>/paper/anhalt-depies_berland_rickenbach_bemowski_rissman2022use/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/anhalt-depies_berland_rickenbach_bemowski_rissman2022use/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Do You Meme? Students Communicating their Experiences, Intuitions, and Biases Surrounding Data Through Memes</title>
+      <link>/paper/vacca_desportes_tes_silander_amato_matuk_woods2022what/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/vacca_desportes_tes_silander_amato_matuk_woods2022what/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approaches to Transitioning Computer Science Classes from Offline to Online</title>
+      <link>/paper/brooks_hardin_scianna_berland_legault2021approaches/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/brooks_hardin_scianna_berland_legault2021approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackathons and ‘i’dentities: Museum Visitor Identities in Other Informal Learning Environments</title>
+      <link>/paper/turner_hardin_berland2021hackathons/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/turner_hardin_berland2021hackathons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live Coding: A Review of the Literature</title>
+      <link>/paper/selvaraj_zhang_porter_soosai-raj2021live/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/selvaraj_zhang_porter_soosai-raj2021live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainbow Agents</title>
+      <link>/paper/berland2021rainbow/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/berland2021rainbow/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Reimagining collaboration through the lens of the posthuman: Uncovering embodied learning in noise music</title>
-      <link>https://complexplay.org/paper/woods2020posthumancollaboration.bib/</link>
-      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      <link>/paper/woods2021reimagining/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/woods2020posthumancollaboration.bib/</guid>
+      <guid>/paper/woods2021reimagining/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Vocabulary Models of Informal Language Production in Reddit</title>
-      <link>https://complexplay.org/paper/brooks2020icls.bib/</link>
-      <pubDate>Fri, 19 Jun 2020 00:00:00 +0000</pubDate>
+      <title>The aesthetic pedagogies of DIY music</title>
+      <link>/paper/woods2021the/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/brooks2020icls.bib/</guid>
+      <guid>/paper/woods2021the/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Handwavey Game</title>
+      <link>/paper/gabai_berland2021the/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/gabai_berland2021the/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Rollout of Computer Science Education to Every Student in New York City: A Socio-contextual Social Network Analysis.</title>
+      <link>/paper/holbert_disalvo_berland2021the/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/holbert_disalvo_berland2021the/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering Patterns in Constructionist Collaborative Learning Activities via Cluster Analysis of Museum Exhibit Log Files</title>
+      <link>/paper/jorion_roberts_bowers_tissenbaum_lyons_kumar_berland2021uncovering/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/jorion_roberts_bowers_tissenbaum_lyons_kumar_berland2021uncovering/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://complexplay.org/about/</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jun 2020 12:00:00 -0500</pubDate>
       
-      <guid>https://complexplay.org/about/</guid>
+      <guid>/about/</guid>
       <description>The Complex Play Lab is a research lab homed in the Design, Informal, and Creative Education program in the Dept. of Curriculum and Instruction at UW–Madison. It is affiliated with the Computer Sciences Dept., the UW Game Lab, the Holtz Center for Science &amp;amp; Technology Studies, the Learning Sciences program in the Educational Psychology Dept., the iSchool, and the STEP Lab at MIT.
 A major goal of the CPL is to support minoritized and under-served students in learning to create with technology so that their voices and values can be amplified.</description>
     </item>
     
     <item>
       <title>andrew turner</title>
-      <link>https://complexplay.org/person/andrew-turner/</link>
+      <link>/person/andrew-turner/</link>
       <pubDate>Wed, 26 Feb 2020 07:25:12 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/andrew-turner/</guid>
+      <guid>/person/andrew-turner/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Apply for the Master of Science (Master&#39;s) Program in Design, Informal, and Creative Education</title>
-      <link>https://complexplay.org/apply/apply2020masters/</link>
+      <title>Apply for the Master&#39;s Program in Design, Informal, and Creative Education</title>
+      <link>/apply/apply_to_masters/</link>
       <pubDate>Sat, 01 Feb 2020 05:58:19 -0500</pubDate>
       
-      <guid>https://complexplay.org/apply/apply2020masters/</guid>
+      <guid>/apply/apply_to_masters/</guid>
       <description>Apply to our M.S. Program in Design, Informal, and Creative Education in the Department of Curriculum &amp;amp; Instruction at UW–Madison! Our department has been ranked #1 17 of the last 20 years running.
 The DICE program includes the UW–Madison Games Program, also directed by Prof. Berland.
 More information here.</description>
@@ -84,10 +219,10 @@ More information here.</description>
     
     <item>
       <title>Apply to the Ph.D. Program in Design, Informal, and Creative Education</title>
-      <link>https://complexplay.org/apply/apply2020curric/</link>
+      <link>/apply/apply_to_phd/</link>
       <pubDate>Sat, 01 Feb 2020 05:58:19 -0500</pubDate>
       
-      <guid>https://complexplay.org/apply/apply2020curric/</guid>
+      <guid>/apply/apply_to_phd/</guid>
       <description>Apply to our Ph.D. Program in Design, Informal, and Creative Education in the Department of Curriculum &amp;amp; Instruction at UW–Madison! Our department has been ranked #1 17 of the last 20 years running. Ph.D. students are guaranteed full funding, including tuition, stipend, and health insurance if admitted.
 The DICE program includes the UW–Madison Games Program, also directed by Prof. Berland.
 More information here.</description>
@@ -95,1037 +230,902 @@ More information here.</description>
     
     <item>
       <title>beats empire</title>
-      <link>https://complexplay.org/project/beatsempire/</link>
+      <link>/project/beatsempire/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/beatsempire/</guid>
+      <guid>/project/beatsempire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>andy stoiber</title>
-      <link>https://complexplay.org/person/andy-stoiber/</link>
+      <link>/person/andy-stoiber/</link>
       <pubDate>Fri, 24 Jan 2020 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/andy-stoiber/</guid>
+      <guid>/person/andy-stoiber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eda zhang</title>
-      <link>https://complexplay.org/person/eda-zhang/</link>
+      <link>/person/eda-zhang/</link>
       <pubDate>Fri, 24 Jan 2020 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/eda-zhang/</guid>
+      <guid>/person/eda-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>yilang zhao</title>
-      <link>https://complexplay.org/person/yilang-zhao/</link>
+      <link>/person/yilang-zhao/</link>
       <pubDate>Fri, 24 Jan 2020 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/yilang-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>city settlers</title>
-      <link>https://complexplay.org/project/citysettlers/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/project/citysettlers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Designing Constructionist Futures</title>
-      <link>https://complexplay.org/paper/berland2020mitpress.bib/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/berland2020mitpress.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>rainbow agents</title>
-      <link>https://complexplay.org/project/rainbowagents/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/project/rainbowagents/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rainbow Agents: A Collaborative Game For Computational Literacy</title>
-      <link>https://complexplay.org/paper/pellicone2019chiplay.bib/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/pellicone2019chiplay.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demonstrating a Machine Learning Tool for Informal Languages Within Reddit</title>
-      <link>https://complexplay.org/paper/brooks2019lsgs.bib/</link>
-      <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/brooks2019lsgs.bib/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conceptions of teaching in and through noise: a study of experimental musicians&#39; beliefs</title>
-      <link>https://complexplay.org/paper/woods2019teachingnoise.bib/</link>
-      <pubDate>Thu, 08 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/woods2019teachingnoise.bib/</guid>
+      <guid>/person/yilang-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>(Re)making Whiteness: A Critical Discourse Analysis of Equity-Based Maker Literature</title>
-      <link>https://complexplay.org/paper/woods2020remakingwhiteness.bib/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <link>/paper/woods2020remaking/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/woods2020remakingwhiteness.bib/</guid>
+      <guid>/paper/woods2020remaking/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Three Approaches to Exploring Twin Cities PBS Educational Game Telemetry</title>
-      <link>https://complexplay.org/paper/ramirez2019cls.bib/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <title>city settlers</title>
+      <link>/project/citysettlers/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/ramirez2019cls.bib/</guid>
+      <guid>/project/citysettlers/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Who Played the Game Correctly? Data Signatures of Interaction in Playful Assessment</title>
-      <link>https://complexplay.org/paper/pellicone2019cls.bib/</link>
-      <pubDate>Wed, 17 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Designing for and Identifying Plural Goals in a Science Museum Game Exhibit</title>
+      <link>/paper/kumar_berland_lyons_cannady_royston2020designing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/pellicone2019cls.bib/</guid>
+      <guid>/paper/kumar_berland_lyons_cannady_royston2020designing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Distinguishing Informal Languages Within Reddit</title>
-      <link>https://complexplay.org/paper/brooks2019nscsls.bib/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Expanding the Borders of Music-Based Qualitative Research Methods Through Graphic Scores</title>
+      <link>/paper/woods_jones2020expanding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/brooks2019nscsls.bib/</guid>
+      <guid>/paper/woods_jones2020expanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Live-coding vs Static Code Examples: Which is better with respect to Student Learning and Cognitive Load?</title>
+      <link>/paper/raj_gu_zhang_r_williams_halverson_patel2020livecoding/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/raj_gu_zhang_r_williams_halverson_patel2020livecoding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetLogo Mobile: An Agent-Based Modeling Platform and Community for Learners, Teachers, and Researchers</title>
+      <link>/paper/chen_wilensky2020netlogo/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/chen_wilensky2020netlogo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rainbow agents</title>
+      <link>/project/rainbowagents/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/project/rainbowagents/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vocabulary Models of Informal Language Production in Reddit</title>
+      <link>/paper/brooks_turner_berland2020vocabulary/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/brooks_turner_berland2020vocabulary/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adalbert gerald soosai raj</title>
-      <link>https://complexplay.org/person/adalbert-gerald-soosai-raj/</link>
+      <link>/person/adalbert-gerald-soosai-raj/</link>
       <pubDate>Wed, 24 Apr 2019 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/adalbert-gerald-soosai-raj/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Questioning the Board in Computer Science Education Board Games</title>
-      <link>https://complexplay.org/paper/hardin2019sigcse.bib/</link>
-      <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/hardin2019sigcse.bib/</guid>
+      <guid>/person/adalbert-gerald-soosai-raj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>joshua gabai</title>
-      <link>https://complexplay.org/person/joshua-gabai/</link>
+      <link>/person/joshua-gabai/</link>
       <pubDate>Tue, 01 Jan 2019 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/joshua-gabai/</guid>
+      <guid>/person/joshua-gabai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>max shafer-landau</title>
-      <link>https://complexplay.org/person/max-shafer-landau/</link>
+      <link>/person/max-shafer-landau/</link>
       <pubDate>Tue, 01 Jan 2019 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/max-shafer-landau/</guid>
+      <guid>/person/max-shafer-landau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptions of teaching in and through noise: a study of experimental musicians’ beliefs</title>
+      <link>/paper/woods2019conceptions/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/woods2019conceptions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>connected spaces</title>
-      <link>https://complexplay.org/project/connectedspaces/</link>
+      <link>/project/connectedspaces/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/connectedspaces/</guid>
+      <guid>/project/connectedspaces/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Mapping Critical Anthropocene Discourses in Musical Artefacts: Whiteness, Absence, and the Intersecting &#34;-Cenes&#34; in Prurient&#39;s The History of Aids</title>
-      <link>https://complexplay.org/paper/woods2019prurient.bib/</link>
+      <title>Effect of Native Language on Student Learning and Classroom Interaction in an Operating Systems Course</title>
+      <link>/paper/soosai-raj_zhang_mukherjee_williams_halverson_patel2019effect/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/woods2019prurient.bib/</guid>
+      <guid>/paper/soosai-raj_zhang_mukherjee_williams_halverson_patel2019effect/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Exploring computational thinking through collaborative problem solving and audio puzzles</title>
-      <link>https://complexplay.org/paper/jordandouglaskumarwoods2018comppuzzles.bib/</link>
-      <pubDate>Tue, 19 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Mapping Critical Anthropocene Discourses in Musical Artefacts: Whiteness, Absence, and the Intersecting “-Cenes” in Prurient’s The History of Aids</title>
+      <link>/paper/woods2019mapping/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/jordandouglaskumarwoods2018comppuzzles.bib/</guid>
+      <guid>/paper/woods2019mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rainbow Agents: A Collaborative Game For Computational Literacy</title>
+      <link>/paper/pellicone_lyons_kumar_zhang_berland2019rainbow/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/pellicone_lyons_kumar_zhang_berland2019rainbow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecoLENS dashboard</title>
+      <link>/project/ecolens/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/ecolens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Failing up: How failure in a game environment promotes learning through discourse</title>
+      <link>/paper/anderson_dalsen_kumar_berland_steinkuehler2018failing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/anderson_dalsen_kumar_berland_steinkuehler2018failing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In (partial) defence of offensive art: Whitehouse as Freirean codification</title>
-      <link>https://complexplay.org/paper/woods2018whitehouse.bib/</link>
-      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      <link>/paper/woods2018in/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/woods2018whitehouse.bib/</guid>
+      <guid>/paper/woods2018in/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ABR Psychometric Testing: Analysis of Validity and Effects.</title>
-      <link>https://complexplay.org/paper/berland2018jacr.bib/</link>
+      <title>Learning analytics in support of qualitative analysis</title>
+      <link>/paper/sherin_kersting_berland2018learning/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2018jacr.bib/</guid>
-      <description>@article{Berland2018JACR,author = {Berland, L. L., Berland, N.W., &amp;amp; Berland, M.},year = {2018},title = {ABR Psychometric Testing: Analysis of Validity and Effects.},journal = {Journal of the American College of Radiology},}</description>
-    </item>
-    
-    <item>
-      <title>Computational Discourse in a Role-Playing Game Podcast</title>
-      <link>https://complexplay.org/paper/gabai2018icls.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/gabai2018icls.bib/</guid>
-      <description>@article{Gabai2018ICLS,author = {Gabai, J. &amp;amp; Berland, M.},year = {2018},title = {Computational Discourse in a Role-Playing Game Podcast},journal = {Proceedings of ICLS 2018},}</description>
-    </item>
-    
-    <item>
-      <title>ecoLENS dashboard</title>
-      <link>https://complexplay.org/project/ecolens/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/project/ecolens/</guid>
+      <guid>/paper/sherin_kersting_berland2018learning/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Failing up: How failure in a game environment promotes learning through discourse.</title>
-      <link>https://complexplay.org/paper/anderson2018tsc.bib/</link>
+      <title>Modeling and Designing for Key Elements of Curiosity: Risking Failure, Valuing Questions</title>
+      <link>/paper/to_holmes_fath_zhang_kaufman_hammer2018modeling/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/anderson2018tsc.bib/</guid>
-      <description>@article{Anderson2018TSC,author = {Anderson, C.G., Dalsen, J., Kumar, V., Berland, M., &amp;amp; Steinkuehler, C.},year = {2018},title = {Failing up: How failure in a game environment promotes learning through discourse.},journal = {Thinking Skills and Creativity},}</description>
+      <guid>/paper/to_holmes_fath_zhang_kaufman_hammer2018modeling/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Frictional Patterns in the Design of Games for Learning</title>
-      <link>https://complexplay.org/paper/mechtley2018icls.bib/</link>
+      <title>Reframing Noise as Constructionist Environment: Conceptions of Teaching and Learning in the Experimental Education Series</title>
+      <link>/paper/woods2018reframing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/mechtley2018icls.bib/</guid>
-      <description>@article{Mechtley2018ICLS,author = {Mechtley, A. &amp;amp; Berland, M.},year = {2018},title = {Frictional Patterns in the Design of Games for Learning},journal = {Proceedings of ICLS 2018},}</description>
-    </item>
-    
-    <item>
-      <title>Learning Analytics in Support of Qualitative Analysis</title>
-      <link>https://complexplay.org/paper/sherin2018icls.bib/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/sherin2018icls.bib/</guid>
-      <description>@article{Sherin2018ICLS,author = {Sherin, B., Kersting, N., &amp;amp; Berland, M.},year = {2018},title = {Learning Analytics in Support of Qualitative Analysis},journal = {Proceedings of ICLS 2018},}</description>
+      <guid>/paper/woods2018reframing/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Students&#39; Perceptions of Pair Programming in CS1</title>
-      <link>https://complexplay.org/paper/legault2018sigcse.bib/</link>
+      <link>/paper/legault_berland2018students/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/legault2018sigcse.bib/</guid>
-      <description>@article{Legault2018sigcse,author = {Legault and Berland},year = {2018},title = {Students&#39; Perceptions of Pair Programming in CS1},journal = {SIGCSE},}</description>
+      <guid>/paper/legault_berland2018students/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Retrospective on Collective Responsibility in Introductory Computer Science Assignments</title>
-      <link>https://complexplay.org/paper/brooks2017lsgs.bib/</link>
-      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      <title>SynthSync- Decoding Music Together</title>
+      <link>/paper/jordan-douglass_kumar_woods2018synthsync/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/brooks2017lsgs.bib/</guid>
+      <guid>/paper/jordan-douglass_kumar_woods2018synthsync/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Narrative Grounding to Design Storytelling Gamesfor Creative Foreign Language Production</title>
+      <link>/paper/zhang_culbertson_shen_jung2018utilizing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/zhang_culbertson_shen_jung2018utilizing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oztoc</title>
-      <link>https://complexplay.org/project/oztoc/</link>
+      <link>/project/oztoc/</link>
       <pubDate>Sat, 24 Jun 2017 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/project/oztoc/</guid>
+      <guid>/project/oztoc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Control-flow recovery from partial failure reports</title>
-      <link>https://complexplay.org/paper/ohmann2017pldi.bib/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/ohmann2017pldi.bib/</guid>
-      <description>@article{Ohmann2017pldi,author = {Ohmann, Brooks, D&#39;Antoni, and Liblit},year = {2017},title = {Control-flow recovery from partial failure reports},journal = {PLDI},}</description>
-    </item>
-    
-    <item>
-      <title>Ethics and Practices in American DIY Spaces</title>
-      <link>https://complexplay.org/paper/woods2017pp.bib/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/woods2017pp.bib/</guid>
-      <description>@article{Woods2017pp,author = {Woods},year = {2017},title = {Ethics and Practices in American DIY Spaces},journal = {Punk &amp;amp; Post-punk},}</description>
-    </item>
-    
-    <item>
-      <title>Challenges to Multimodal Data Set Collection in Games-based Learning Environments</title>
-      <link>https://complexplay.org/paper/turker2017mmla.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/turker2017mmla.bib/</guid>
-      <description>@article{turker2017mmla,author = {Turker, Dalsen, Berland, and Steinkuehler},year = {2017},title = {Challenges to Multimodal Data Set Collection in Games-based Learning Environments},journal = {MMLA},}</description>
-    </item>
-    
-    <item>
       <title>Connected Spaces: Helping Makers Know Their Neighbors</title>
-      <link>https://complexplay.org/paper/kumar2017idc.bib/</link>
+      <link>/paper/kumar_tissenbaum_wielgus_berland2017connected/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/kumar2017idc.bib/</guid>
-      <description>@article{Kumar2017IDC,author = {Kumar, V., Tissenbaum, M., Wielgus, L., &amp;amp; Berland, M.},year = {2017},title = {Connected Spaces: Helping Makers Know Their Neighbors},journal = {Proceedings of the 2017 Conference on Interaction Design and Children (pp. 629�635)},}</description>
+      <guid>/paper/kumar_tissenbaum_wielgus_berland2017connected/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences</title>
-      <link>https://complexplay.org/paper/berland2017visitorstudies.bib/</link>
+      <link>/paper/berland2017constructivist/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2017visitorstudies.bib/</guid>
-      <description>@article{berland2017constructivist, title={Constructivist Analytics: Using Data to Enable Deeper Museum Experiences for More Visitors—Lessons from the Learning Sciences}, author={Berland, Matthew}, journal={Visitor Studies}, volume={20}, number={1}, pages={3--9}, year={2017}, publisher={Routledge} } </description>
+      <guid>/paper/berland2017constructivist/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>DCLM framework: understanding collaboration in open-ended tabletop learning environments</title>
-      <link>https://complexplay.org/paper/tissenbaum2017ijcscl.bib/</link>
+      <link>/paper/tissenbaum_berland_lyons2017dclm/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/tissenbaum2017ijcscl.bib/</guid>
-      <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2017}, title = {DCLM framework: understanding collaboration in open-ended tabletop learning environments}, journal = {International Journal of Computer-Supported Collaborative Learning}, } </description>
+      <guid>/paper/tissenbaum_berland_lyons2017dclm/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Failing Up - The Role of Difficulty and Failure in an Educational Video Game</title>
-      <link>https://complexplay.org/paper/anderson2017dml.bib/</link>
+      <title>Ethics and practices in American DIY spaces</title>
+      <link>/paper/woods2017ethics/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/anderson2017dml.bib/</guid>
-      <description>@article{Anderson2017dml,author = {Anderson, Dalsen, Kumar, Berland, and Steinkuehler},year = {2017},title = {Failing Up - The Role of Difficulty and Failure in an Educational Video Game},journal = {DML},}</description>
+      <guid>/paper/woods2017ethics/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Forest Friends Demo: A Game-Exhibit to Promote Computer Science Concepts in Informal Spaces</title>
-      <link>https://complexplay.org/paper/sung2017idc.bib/</link>
+      <link>/paper/sung_berland2017forest/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/sung2017idc.bib/</guid>
-      <description>@article{Sung2017IDC,author = {Sung, I., &amp;amp; Berland, M.},year = {2017},title = {Forest Friends Demo: A Game-Exhibit to Promote Computer Science Concepts in Informal Spaces},journal = {Proceedings of the 2017 Conference on Interaction Design and Children (pp. 701�704)},}</description>
+      <guid>/paper/sung_berland2017forest/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mining Stack Overflow to Formulate a Question Asking Template: Asking Questions that are Most Likely to Be Answered</title>
-      <link>https://complexplay.org/paper/turker2017icer.bib/</link>
+      <title>What are visitors up to? helping museum facilitators know what visitors are doing</title>
+      <link>/paper/kumar_tissenbaum_berland2017what/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/turker2017icer.bib/</guid>
-      <description>@article{turker2017icer,author = {Turker and Berland},year = {2017},title = {Mining Stack Overflow to Formulate a Question Asking Template: Asking Questions that are Most Likely to Be Answered},journal = {The Thirteenth Annual ACM International Computing Education Research (ICER)},}</description>
-    </item>
-    
-    <item>
-      <title>Mutually-supporting computational and traditional analysis for learning analytics</title>
-      <link>https://complexplay.org/paper/sherin2017iccss.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/sherin2017iccss.bib/</guid>
-      <description>@article{Sherin2017ICCSS,author = {Sherin, B., Kersting, N. B., &amp;amp; Berland, M.},year = {2017},title = {Mutually-supporting computational and traditional analysis for learning analytics},journal = {Proceedings of ICCSS 2017},}</description>
-    </item>
-    
-    <item>
-      <title>Understanding and Supporting Better Pairings for CS1 Students</title>
-      <link>https://complexplay.org/paper/legault2017icer.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/legault2017icer.bib/</guid>
-      <description>@article{legault2017icer,author = {Legault},year = {2017},title = {Understanding and Supporting Better Pairings for CS1 Students},journal = {Proceedings of the 2017 ACM Conference on International Computing Education Research (ICER &#39;17)},}</description>
-    </item>
-    
-    <item>
-      <title>What are visitors up to?: helping museum facilitators know what visitors are doing</title>
-      <link>https://complexplay.org/paper/kumar2017edm.bib/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/kumar2017edm.bib/</guid>
-      <description>@article{tissenbaum2016icls, author = {Kumar and Tissenbaum and Berland}, year = {2017}, title = {What are visitors up to?: helping museum facilitators know what visitors are doing}, journal = {Proceedings of the Seventh International Learning Analytics and Knowledge Conference}, } </description>
-    </item>
-    
-    <item>
-      <title>matthew berland</title>
-      <link>https://complexplay.org/person/matthew-berland/</link>
-      <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
-      
-      <guid>https://complexplay.org/person/matthew-berland/</guid>
-      <description>Matthew Berland is an Associate Professor of Design, Informal, and Creative Education in the Department of Curriculum and Instruction and the director of the UW Game Design Program. He completed a doctorate in Learning Sciences at Northwestern University and a postdoctoral fellowship in Computer Science at the University of Texas at Austin. He studies computational thinking and literacy, game design, museum exhibit design, computer science education, the design of constructionist learning environments, and learning analytics/data mining.</description>
+      <guid>/paper/kumar_tissenbaum_berland2017what/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>peter j. woods</title>
-      <link>https://complexplay.org/person/peter-woods/</link>
+      <link>/person/peter-woods/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/peter-woods/</guid>
+      <guid>/person/peter-woods/</guid>
       <description>Peter J. Woods is a doctoral student in the Curriculum &amp;amp; Instruction department at UW-Madison. His work utilizes critical theory to investigate the learning practices that emerge from experimental arts communities and making through the arts. Woods is also a touring musician and performance artist. He runs FTAM productions (a record label and concert promotion organization that has hosted the Experimental Education Series and the Milwaukee Noise Fest) and serves on the board of the Jazz Gallery Center for the Arts in Milwaukee, WI.</description>
     </item>
     
     <item>
       <title>shai goldfarb</title>
-      <link>https://complexplay.org/person/shai-goldfarb/</link>
+      <link>/person/shai-goldfarb/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/shai-goldfarb/</guid>
+      <guid>/person/shai-goldfarb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>abhi manohar</title>
-      <link>https://complexplay.org/person/abhi-manohar/</link>
+      <link>/person/abhi-manohar/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/abhi-manohar/</guid>
+      <guid>/person/abhi-manohar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adam mechtley</title>
-      <link>https://complexplay.org/person/adam-mechtley/</link>
+      <link>/person/adam-mechtley/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/adam-mechtley/</guid>
+      <guid>/person/adam-mechtley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alexi brooks</title>
-      <link>https://complexplay.org/person/alexi-brooks/</link>
+      <link>/person/alexi-brooks/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/alexi-brooks/</guid>
+      <guid>/person/alexi-brooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anna jordan-douglass</title>
-      <link>https://complexplay.org/person/anna-jordan/</link>
+      <link>/person/anna-jordan/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/anna-jordan/</guid>
+      <guid>/person/anna-jordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aybuke turker</title>
-      <link>https://complexplay.org/person/aybuke-turker/</link>
+      <link>/person/aybuke-turker/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/aybuke-turker/</guid>
+      <guid>/person/aybuke-turker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>caroline hardin</title>
-      <link>https://complexplay.org/person/caroline-hardin/</link>
+      <link>/person/caroline-hardin/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/caroline-hardin/</guid>
+      <guid>/person/caroline-hardin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>catherine dornfeld tissenbaum</title>
-      <link>https://complexplay.org/person/catherine-dornfeld/</link>
+      <link>/person/catherine-dornfeld/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/catherine-dornfeld/</guid>
+      <guid>/person/catherine-dornfeld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cole nelson</title>
-      <link>https://complexplay.org/person/cole-nelson/</link>
+      <link>/person/cole-nelson/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/cole-nelson/</guid>
+      <guid>/person/cole-nelson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>craig anderson</title>
-      <link>https://complexplay.org/person/craig-anderson/</link>
+      <link>/person/craig-anderson/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/craig-anderson/</guid>
+      <guid>/person/craig-anderson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dennis ramirez</title>
-      <link>https://complexplay.org/person/dennis-ramirez/</link>
+      <link>/person/dennis-ramirez/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/dennis-ramirez/</guid>
+      <guid>/person/dennis-ramirez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>felipe martinez</title>
-      <link>https://complexplay.org/person/felipe-martinez/</link>
+      <link>/person/felipe-martinez/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/felipe-martinez/</guid>
+      <guid>/person/felipe-martinez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>isaac sung</title>
-      <link>https://complexplay.org/person/isaac-sung/</link>
+      <link>/person/isaac-sung/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/isaac-sung/</guid>
+      <guid>/person/isaac-sung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jenn scianna</title>
-      <link>https://complexplay.org/person/jenn-scianna/</link>
+      <link>/person/jenn-scianna/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/jenn-scianna/</guid>
+      <guid>/person/jenn-scianna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>john binzak</title>
-      <link>https://complexplay.org/person/john.binzak/</link>
+      <link>/person/john-binzak/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/john.binzak/</guid>
+      <guid>/person/john-binzak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>john chen</title>
-      <link>https://complexplay.org/person/john-chen/</link>
+      <link>/person/john-chen/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/john-chen/</guid>
+      <guid>/person/john-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>laura legault</title>
-      <link>https://complexplay.org/person/laura-legault/</link>
+      <link>/person/laura-legault/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/laura-legault/</guid>
+      <guid>/person/laura-legault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michelle jensen</title>
+      <link>/person/michelle-jensen/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>/person/michelle-jensen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mike tissenbaum</title>
-      <link>https://complexplay.org/person/mike-tissenbaum/</link>
+      <link>/person/mike-tissenbaum/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/mike-tissenbaum/</guid>
+      <guid>/person/mike-tissenbaum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vishesh kumar</title>
-      <link>https://complexplay.org/person/vishesh-kumar/</link>
+      <link>/person/vishesh-kumar/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/vishesh-kumar/</guid>
-      <description>Vishesh Kumar is aan alum of the Department of Curriculum &amp;amp; Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
+      <guid>/person/vishesh-kumar/</guid>
+      <description>Vishesh Kumar is aangraduate of the Department of Curriculum &amp;amp; Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
     </item>
     
     <item>
       <title>board games for learning</title>
-      <link>https://complexplay.org/project/bgl/</link>
+      <link>/project/bgl/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/bgl/</guid>
+      <guid>/project/bgl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ADAGE</title>
-      <link>https://complexplay.org/project/adage/</link>
+      <link>/project/adage/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/adage/</guid>
+      <guid>/project/adage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay</title>
-      <link>https://complexplay.org/paper/berland2016edtech.bib/</link>
+      <link>/paper/berland_duncan2016computational/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2016edtech.bib/</guid>
-      <description>@article{berlandduncan2016edtech, author = {Berland and Duncan}, year = {2016}, title = {Computational thinking in the wild: Uncovering complex collaborative thinking through gameplay}, journal = {Educational Technology}, } </description>
+      <guid>/paper/berland_duncan2016computational/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Designing a real-time intelligent support for museum interpreters.</title>
-      <link>https://complexplay.org/paper/tissenbaum2016icls.bib/</link>
+      <title>Designing a real-time intelligent support for museum interpreters</title>
+      <link>/paper/tissenbaum_berland_lyons2016designing/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/tissenbaum2016icls.bib/</guid>
-      <description>@article{tissenbaum2016icls, author = {Tissenbaum and Berland and Lyons}, year = {2016}, title = {Designing a real-time intelligent support for museum interpreters}, journal = {Proceedings of the 12th International Conference for the Learning Sciences}, } </description>
+      <guid>/paper/tissenbaum_berland_lyons2016designing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Making, Tinkering, and Computational Literacy</title>
-      <link>https://complexplay.org/paper/berland2016makeology.bib/</link>
+      <title>Learning to Program Using Online Forums: A Comparison of Links Posted on Reddit and Stack Overflow (Abstract Only)</title>
+      <link>/paper/hardin_berland2016learning/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2016makeology.bib/</guid>
-      <description>@article{berland2016making, title={Making, Tinkering, and Computational Literacy}, author={Berland, Matthew}, journal={Makeology: Makers as Learners}, volume={2}, pages={196}, year={2016}, publisher={Routledge} } </description>
+      <guid>/paper/hardin_berland2016learning/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models</title>
-      <link>https://complexplay.org/paper/tissenbaum2016edm.bib/</link>
+      <title>Makeology: Makerspaces as learning environments (Volume 1)</title>
+      <link>/paper/peppler_halverson_kafai2016makeology/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/tissenbaum2016edm.bib/</guid>
-      <description>@article{tissenbaum2016edm, author = {Tissenbaum and Kumar and Berland}, year = {2016}, title = {Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models}, journal = {Proceedings of the 9th International Conference on Educational Data Mining}, } </description>
+      <guid>/paper/peppler_halverson_kafai2016makeology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Making, tinkering, and computational literacy</title>
+      <link>/paper/berland2016making/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/berland2016making/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling Visitor Behavior in a Game-Based Engineering Museum Exhibit with Hidden Markov Models.</title>
+      <link>/paper/tissenbaum_berland_kumar2016modeling/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/tissenbaum_berland_kumar2016modeling/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>play data consortium</title>
-      <link>https://complexplay.org/project/pdc/</link>
+      <link>/project/pdc/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/pdc/</guid>
+      <guid>/project/pdc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Situating Deep Multimodal Data on Game-Based STEM Learning.</title>
-      <link>https://complexplay.org/paper/anderson2016icls.bib/</link>
+      <title>Real-time visualization of student activities to support classroom orchestration</title>
+      <link>/paper/tissenbaum_matuk_berland_lyons_cocco_linn_plass_hajny_olsen_schwendimann2016realtime/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/anderson2016icls.bib/</guid>
-      <description>@article{tissenbaum2016icls, author = {Anderson and Binzak and Dalsen and Saucerman and Jordan-Douglass and Kumar and Turker and Berland and Squire and Steinkuehler}, year = {2016}, title = {Situating Deep Multimodal Data on Game-Based STEM Learning}, journal = {Proceedings of the 12th International Conference for the Learning Sciences}, } </description>
+      <guid>/paper/tissenbaum_matuk_berland_lyons_cocco_linn_plass_hajny_olsen_schwendimann2016realtime/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics</title>
-      <link>https://complexplay.org/paper/berland2015ijcscl.bib/</link>
+      <link>/paper/berland_davis_smith2015amoeba/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2015ijcscl.bib/</guid>
-      <description>@article{berland2015ijcscl, year	= {2015}, issn	= {1556-1607}, journal	= {International Journal of Computer-Supported Collaborative Learning}, doi	= {10.1007/s11412-015-9217-z}, title	= {AMOEBA: Designing for collaboration in computer science classrooms through live learning analytics}, publisher={Springer}, author	={Berland and Davis and Smith}, pages	={1-23}, link	={http://dx.doi.org/10.1007/s11412-015-9217-z}, } </description>
+      <guid>/paper/berland_davis_smith2015amoeba/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Comparing Virtual and Physical Robotics Environments for Supporting Complex Systems and Computational Thinking</title>
-      <link>https://complexplay.org/paper/berland2015jset.bib/</link>
+      <title>Comparing virtual and physical robotics environments for supporting complex systems and computational thinking</title>
+      <link>/paper/berland_wilensky2015comparing/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2015jset.bib/</guid>
-      <description>@article{berland2015jset, author = {Berland and Wilensky}, year = {2015}, title = {Comparing Virtual and Physical Robotics Environments for Supporting Complex Systems and Computational Thinking}, journal = {Journal of Science Education and Technology}, doi = {doi:10.1007/s10956-015-9552-x}, link = {http://link.springer.com/article/10.1007/s10956-015-9552-x} } </description>
+      <guid>/paper/berland_wilensky2015comparing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Gamification and Learning</title>
-      <link>https://complexplay.org/paper/ramirez2015.bib/</link>
+      <title>Designing visible engineering: supporting tinkering performances in museums</title>
+      <link>/paper/lyons_tissenbaum_berland_eydt_wielgus_mechtley2015designing/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/ramirez2015.bib/</guid>
-      <description>@incollection{ramirez2015, author = {Ramirez and Squire}, booktitle = {The Gameful World}, chapter = {25}, editor = {Walz and Deterding}, publisher = {The MIT Press}, title = {{Gamification and Learning}}, link = {http://mitpress.mit.edu/books/gameful-world}, year = {2015} } </description>
+      <guid>/paper/lyons_tissenbaum_berland_eydt_wielgus_mechtley2015designing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Simulation Environments</title>
-      <link>https://complexplay.org/paper/shapiro2014se.bib/</link>
+      <title>The Impacts of Co-Tinkering at an Engineering Design Exhibit</title>
+      <link>/paper/wielgus_berland2015the/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/shapiro2014se.bib/</guid>
-      <description>@article{shapiro2014se, author = {Shapiro and Ramirez}, journal = {Encyclopedia of Science Education}, title = {{Simulation Environments}}, year = {2015}, doi = {doi:10.1007/978-94-007-2150-0}, link = {http://link.springer.com/referencework/10.1007/978-94-007-2150-0} } </description>
+      <guid>/paper/wielgus_berland2015the/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Rainbow Agents</title>
-      <link>https://complexplay.org/projects/rainbow-agents/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Adage: an open API for data collection in educational games</title>
+      <link>/paper/stenerson_salmon_berland_squire2014adage/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/projects/rainbow-agents/</guid>
-      <description>Introduction Rainbow Agents is a museum game designed and set up in the New York Hall of Science, and the Lawrence Hall of Science. The game enables visitors to engage with each other around artificial intelligence, complex systems, and concurrency/parallelism; it is an opportunity to (re-)frame computer science for students in the San Francisco Bay Area and in New York City. Schools in these areas will be offering computer science curriculum for the first time, adding urgency for museums to discover how such concepts can be presented in informal settings.</description>
+      <guid>/paper/stenerson_salmon_berland_squire2014adage/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>data consortium fellows</title>
-      <link>https://complexplay.org/project/dcf/</link>
+      <link>/project/dcf/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/dcf/</guid>
+      <guid>/project/dcf/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Educational Data Mining, Learning Analytics: Applications to Constructionist Research</title>
-      <link>https://complexplay.org/paper/berland2014tkl.bib/</link>
+      <title>Educational Data Mining and Learning Analytics: Applications to Constructionist Research</title>
+      <link>/paper/berland_baker_blikstein2014educational/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2014tkl.bib/</guid>
-      <description>@article{berland2014tkl, author = {Berland and Baker and Blikstein}, year = {2014}, title = {Educational Data Mining, Learning Analytics: Applications to Constructionist Research}, journal = {Technology, Knowledge, Learning}, pages = {1–16}, doi = {doi:10.1007/s10758-014-9223-7}, link = {http://link.springer.com/article/10.1007/s10758-014-9223-7} } </description>
-    </item>
-    
-    <item>
-      <title>Exploring Physics Through A Musical Simulation</title>
-      <link>https://complexplay.org/paper/dietmeier2014.bib/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/dietmeier2014.bib/</guid>
-      <description>@inproceedings{dietmeier2014, author = {Dietmeier and Russell and Wielgus and Berland}, year = {2014}, title = {Exploring Physics Through A Musical Simulation}, booktitle = {Proceedings of Constructionism 2014}, link = {http://constructionism2014.ifs.tuwien.ac.at/papers/2.5_2-8517.pdf} } </description>
-    </item>
-    
-    <item>
-      <title>FairPlay: A Video Game Designed to Address Implicit Race Bias through Active Perspective Taking</title>
-      <link>https://complexplay.org/paper/gutierrez2014gfh.bib/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/gutierrez2014gfh.bib/</guid>
-      <description>@article{gutierrez2014gfh, author = {Gutierrez and Kaatz and Chu and Ramirez and Samson-Samuel and Carnes}, journal = {Games for Health Journal}, title = {{FairPlay: A Video Game Designed to Address Implicit Race Bias through Active Perspective Taking}}, link = {http://online.liebertpub.com/doi/abs/10.1089/g4h.2013.0071}, year = {2014} } </description>
-    </item>
-    
-    <item>
-      <title>Im a Loser, Baby : Gamer Identity &amp; Failure</title>
-      <link>https://complexplay.org/paper/ramirez2014.bib/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/ramirez2014.bib/</guid>
-      <description>@inproceedings{ramirez2014, author = {Ramirez and Seyler and Squire and Berland}, booktitle = {DiGRA 2014}, title = {{I’m a Loser, Baby : Gamer Identity &amp;amp; Failure}}, year = {2014}, link = {http://content.lib.utah.edu/utils/getfile/collection/EHSL_DiGRA/id/67/filename/97.pdf} } </description>
+      <guid>/paper/berland_baker_blikstein2014educational/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>lead caravan</title>
-      <link>https://complexplay.org/project/leadcaravan/</link>
+      <link>/project/leadcaravan/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/leadcaravan/</guid>
+      <guid>/project/leadcaravan/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MakeScape Lite: A Prototype Learning Environment for Making, Design</title>
-      <link>https://complexplay.org/paper/danielak2014idc.bib/</link>
+      <title>Learning technologies and the body: Integration and implementation in formal and informal learning environments</title>
+      <link>/paper/lee2014learning/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/danielak2014idc.bib/</guid>
-      <description>@inproceedings{danielak2014idc, author = {Danielak and Mechtley and Berland and Lyons and Eydt}, year = {2014}, title = {MakeScape Lite: A Prototype Learning Environment for Making, Design}, booktitle = {Proceedings of ACM SIG-IDC}, link = {http://dl.acm.org/citation.cfm?id=2610459} } </description>
+      <guid>/paper/lee2014learning/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Mission Critical: Building Community to Engage Young Women in Computer Science</title>
-      <link>https://complexplay.org/paper/ochsner2014cse.bib/</link>
+      <title>MakeScape lite: a prototype learning environment for making and design</title>
+      <link>/paper/danielak_mechtley_berland_lyons_eydt2014makescape/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/ochsner2014cse.bib/</guid>
-      <description>@inproceedings{ochsner2014cse, author = {Ochsner and Johnson-Stempson and Steinkuehler and Berland}, year = {2014}, title = {Mission Critical: Building Community to Engage Young Women in Computer Science}, booktitle = {Proceedings of ACM SIG-CSE}, link	= {http://dl.acm.org/citation.cfm?id=2544288} } </description>
+      <guid>/paper/danielak_mechtley_berland_lyons_eydt2014makescape/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Multiple Case Study of Nerd Identity in a CS1 Class</title>
-      <link>https://complexplay.org/paper/davis2014cse.bib/</link>
+      <title>Mission critical: building community to engage young women in computer science</title>
+      <link>/paper/ochsner_johnson-stempson_berland2014mission/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/davis2014cse.bib/</guid>
-      <description>@inproceedings{davis2014cse, author = {Davis and Berland and Yuen}, year = {2014}, title = {Multiple Case Study of Nerd Identity in a CS1 Class}, booktitle = {Proceedings of ACM SIG-CSE}, link = {http://dl.acm.org/citation.cfm?id=2538960} } </description>
+      <guid>/paper/ochsner_johnson-stempson_berland2014mission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple case study of nerd identity in a CS1 class</title>
+      <link>/paper/davis_yuen_berland2014multiple/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/davis_yuen_berland2014multiple/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>programming standing up</title>
-      <link>https://complexplay.org/project/ipro/</link>
+      <link>/project/ipro/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/project/ipro/</guid>
+      <guid>/project/ipro/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Studio K: A Game Development Environment Designed for Gains in Computational Thinking</title>
-      <link>https://complexplay.org/paper/anton2014cse.bib/</link>
+      <title>Studio K: a game development environment designed for gains in computational thinking (abstract only)</title>
+      <link>/paper/anton_berland2014studio/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/anton2014cse.bib/</guid>
-      <description>@article{anton2014cse, author = {Anton and Berland}, year = {2014}, title = {Studio K: A Game Development Environment Designed for Gains in Computational Thinking}, journal = {Proceedings of ACM SIG-CSE}, link	= {http://dl.acm.org/citation.cfm?id=2544312} } </description>
+      <guid>/paper/anton_berland2014studio/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Talking with kids on game design, computer programming, and taking over the world with dragons</title>
-      <link>https://complexplay.org/paper/ochsner2014gls1.bib/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/ochsner2014gls1.bib/</guid>
-      <description>@inproceedings{ochsner2014gls1, author = {Ochsner and Anton}, year = {2014}, title = {Talking with kids on game design, computer programming, and taking over the world with dragons}, booktitle = {{Proceedings of Games+Learning+Society Conference}}, link = {https://www.academia.edu/8567741/Talking_with_kids_on_game_design_computer_programming_and_taking_over_the_world_with_dragons} } </description>
-    </item>
-    
-    <item>
-      <title>Tech TrajecStories: Values that shape the lives of women in technology</title>
-      <link>https://complexplay.org/paper/ochsner2014gls2.bib/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/ochsner2014gls2.bib/</guid>
-      <description>@inproceedings{ochsner2014gls2, author = {Rothschild and Ochsner}, year = {2014}, title = {{Tech TrajecStories: Values that shape the lives of women in technology}}, booktitle = {{Proceedings of Games+Learning+Society Conference}}, link = {https://www.academia.edu/8567806/Tech_TrajecStories_Values_That_shape_the_lives_of_women_in_technology} } </description>
-    </item>
-    
-    <item>
-      <title>Does recreational computer use affect high school achievement?</title>
-      <link>https://complexplay.org/paper/bowers2013a.bib/</link>
+      <title>Learning programming with IPRO: The effects of a mobile, social programming environment</title>
+      <link>/paper/martin_berland_benton_smith2013learning/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/bowers2013a.bib/</guid>
-      <description>@article{bowers2013a, author = {Bowers and Berland}, year = {2013}, title = {Does recreational computer use affect high school achievement?}, journal = {Educational Technology Research, Development}, volume = {61}, pages = {51–69}, number = {1}, link	= {http://dx.doi.org/10.1007/s11423-012-9274-1} } </description>
+      <guid>/paper/martin_berland_benton_smith2013learning/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Learning Programming with IPRO: The Effects of a Mobile, Social Programming Environment</title>
-      <link>https://complexplay.org/paper/martin2013jilr.bib/</link>
+      <title>Supporting English learners with participatory augmented reality simulations</title>
+      <link>/paper/davis_berland2013supporting/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/martin2013jilr.bib/</guid>
-      <description>@article{martin2013jilr, author = {Martin and Berland and Benton and Smith}, year = {2013}, title = {Learning Programming with IPRO: The Effects of a Mobile, Social Programming Environment}, journal = {Journal of Interactive Learning Research}, volume = {24}, pages = {301–328}, number = {3}, link = {http://www.editlib.org/p/38633/paper_38633.pdf} } </description>
-    </item>
-    
-    <item>
-      <title>Monsterismus: Recursively Relevant Computer Science Game Design</title>
-      <link>https://complexplay.org/paper/berland2013gls.bib/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/berland2013gls.bib/</guid>
-      <description>@inproceedings{berland2013gls, author = {Berland and Davis and Yuen}, year = {2013}, title = {Monsterismus: Recursively Relevant Computer Science Game Design}, booktitle = {Proceedings of Games, Learning, Society 9.0} } </description>
-    </item>
-    
-    <item>
-      <title>Studio K: Tools for game design and computational thinking.</title>
-      <link>https://complexplay.org/paper/ochsner2013cscl.bib/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/ochsner2013cscl.bib/</guid>
-      <description>@inproceedings{ochsner2013cscl, author = {Hatfield and Anton and Ochsner and Squire and Shapiro and Games}, year = {2013}, title = {{Studio K: Tools for game design and computational thinking.}}, booktitle = {{Proceedings of the Computer Supported Collaborative Learning Conference}}, link = {https://www.academia.edu/2699075/Studio_K_Tools_for_game_design_and_computational_thinking} } </description>
-    </item>
-    
-    <item>
-      <title>Supporting English Learners with Participatory Augmented Reality Simulations</title>
-      <link>https://complexplay.org/paper/davis2013oth.bib/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/davis2013oth.bib/</guid>
-      <description>@article{davis2013oth, author = {Davis and Berland}, year = {2013}, title = {Supporting English Learners with Participatory Augmented Reality Simulations}, journal = {On the Horizon}, link	= {http://dx.doi.org/10.1108/OTH-01-2012-0001} } </description>
-    </item>
-    
-    <item>
-      <title>The Development of a Serious Game for the Mitigation of Cognitive Bias</title>
-      <link>https://complexplay.org/paper/dunbar2013ijgbl.bib/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/dunbar2013ijgbl.bib/</guid>
-      <description>@article{dunbar2013ijgbl, author = {Dunbar and Wilson and Adame and Elizondo and Jensen and Miller and Allums and Seltsam and Bessarabova and Vincent and Straub and Ralstion and Dulawan and Ramirez and Squire}, journal = {International Journal of Game-Based Learning}, title = {The Development of a Serious Game for the Mitigation of Cognitive Bias}, year = {2013}, link = {https://www.researchgate.net/publication/259043715_Mitigation_of_Cognitive_Bias_Through_the_Use_of_a_Serious_Game}, } </description>
+      <guid>/paper/davis_berland2013supporting/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Using Learning Analytics to Understand the Learning Pathways of Novice Programmers</title>
-      <link>https://complexplay.org/paper/berland2013jls.bib/</link>
+      <link>/paper/berland_martin_benton_petrick-smith_davis2013using/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2013jls.bib/</guid>
-      <description>@article{berland2013jls, author = {Berland and Martin and Benton and Petrick Smith and Davis}, title = {Using Learning Analytics to Understand the Learning Pathways of Novice Programmers}, journal = {Journal of the Learning Sciences}, volume = {22}, number = {4}, pages = {564-599}, year = {2013}, doi = {10.1080/10508406.2013.836655}, link = {http://dx.doi.org/10.1080/10508406.2013.836655} } </description>
+      <guid>/paper/berland_martin_benton_petrick-smith_davis2013using/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>AMOEBA: Mining how students learn to program together</title>
-      <link>https://complexplay.org/paper/berland2012d.bib/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <title>Visualizing Live Collaboration in the Classroom with AMOEBA</title>
+      <link>/paper/berland_smith_davis2013visualizing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2012d.bib/</guid>
-      <description>@inproceedings{berland2012d, author = {Berland and Martin and Benton and Petrick}, year = {2012}, title = {AMOEBA: Mining how students learn to program together}, booktitle = {Proceedings of the International Conference of the Learning Sciences} } </description>
+      <guid>/paper/berland_smith_davis2013visualizing/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Becoming an Expert Boardgamer: A Quantitative Exploration</title>
-      <link>https://complexplay.org/paper/berland2012a.bib/</link>
+      <title>Does recreational computer use affect high school achievement?</title>
+      <link>/paper/bowers_berland2012does/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2012a.bib/</guid>
-      <description>@inproceedings{berland2012a, author = {Berland}, year = {2012}, title = {Becoming an Expert Boardgamer: A Quantitative Exploration}, booktitle = {Proceedings of Games, Learning, Society 8.0} } </description>
-    </item>
-    
-    <item>
-      <title>Free and Open Source Software in School Communities: An Experience Report from Peace Corps Volunteers in Ghana</title>
-      <link>https://complexplay.org/paper/hardin2012.bib/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/hardin2012.bib/</guid>
-      <description>@inproceedings{hardin2012, author = {Hardin}, booktitle = {Free and Open Source Software and Technology for Sustainable Development}, title = {Free and Open Source Software in School Communities: An Experience Report from Peace Corps Volunteers in Ghana}, publisher = {United Nations University Press}, year = {2012}, address = {Tokyo} } </description>
-    </item>
-    
-    <item>
-      <title>IPRO: A mobile, social programming game for iOS</title>
-      <link>https://complexplay.org/paper/berland2012b.bib/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/berland2012b.bib/</guid>
-      <description>@inproceedings{berland2012b, author = {Berland and Martin and Benton and Petrick}, year = {2012}, title = {IPRO: A mobile, social programming game for iOS}, booktitle = {Proceedings of Games, Learning, Society 8.0} } </description>
-    </item>
-    
-    <item>
-      <title>Leveraging English Learners&#39; Identities in Game Design</title>
-      <link>https://complexplay.org/paper/davis2012a.bib/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/davis2012a.bib/</guid>
-      <description>@inproceedings{davis2012a, author = {Davis and Berland}, year = {2012}, title = {Leveraging English Learners&#39; Identities in Game Design}, booktitle = {Proceedings of Games, Learning, Society 8.0} } </description>
+      <guid>/paper/bowers_berland2012does/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Supporting computational thinking by modding strategic board games</title>
-      <link>https://complexplay.org/paper/berland2012c.bib/</link>
+      <link>/paper/berland_duncan2012supporting/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2012c.bib/</guid>
-      <description>@incollection{berland2012c, author = {Berland and Duncan and Boecking}, year = {2012}, title = {Supporting computational thinking by modding strategic board games}, booktitle = {International Conference of the Learning Sciences} } </description>
+      <guid>/paper/berland_duncan2012supporting/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Triangulating Learning in Board Games: Computational Thinking at Multiple Scales of Analysis</title>
-      <link>https://complexplay.org/paper/duncan2012a.bib/</link>
+      <title>Triangulating learning in board games: Computational thinking at multiple scales of analysis</title>
+      <link>/paper/duncan_berland2012triangulating/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/duncan2012a.bib/</guid>
-      <description>@inproceedings{duncan2012a, author = {Duncan and Berland}, year = {2012}, title = {Triangulating Learning in Board Games: Computational Thinking at Multiple Scales of Analysis}, booktitle = {Proceedings of Games, Learning, Society 8.0} } </description>
+      <guid>/paper/duncan_berland2012triangulating/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Allocentrism, computational thinking</title>
-      <link>https://complexplay.org/paper/petrick2011a.bib/</link>
+      <title>Allocentrism and computational thinking</title>
+      <link>/paper/petrick_berland_martin2011allocentrism/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/petrick2011a.bib/</guid>
-      <description>@inproceedings{petrick2011a, author = {Petrick and Berland and Martin}, year = {2011}, title = {Allocentrism, computational thinking}, booktitle = {Proceedings of the Ninth International Conference on Computer-Supported Collaborative Learning}, address = {Hong Kong} } </description>
+      <guid>/paper/petrick_berland_martin2011allocentrism/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Collaborative strategic board games as a site for distributed computational thinking</title>
-      <link>https://complexplay.org/paper/berland2011a.bib/</link>
+      <link>/paper/berland_lee2011collaborative/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2011a.bib/</guid>
-      <description>@article{berland2011a, author = {Berland and Lee}, year = {2011}, title = {Collaborative strategic board games as a site for distributed computational thinking}, journal = {International Journal of Game-Based Learning}, volume = {1}, pages = {65–81}, number = {2}, link = {http://digitalcommons.usu.edu/itls_facpub/138/} } </description>
+      <guid>/paper/berland_lee2011collaborative/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Designing Games for Non-Gamers: Rapid Prototyping as a Design Methodology</title>
-      <link>https://complexplay.org/paper/ramirez2011.bib/</link>
+      <title>Programming on the move: design lessons from IPRO</title>
+      <link>/paper/berland_martin_benton_petrick2011programming/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/ramirez2011.bib/</guid>
-      <description>@article{ramirez2011, author = {Ramirez and Chu and Salmon and Gutierrez}, journal = {User Experience Magazine}, title = {Designing Games for Non-Gamers: Rapid Prototyping as a Design Methodology}, link = {http://uxpamagazine.org/gamesfornongamers/}, year = {2011} } </description>
+      <guid>/paper/berland_martin_benton_petrick2011programming/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Programming on the Move: Design Lessons from IPRO</title>
-      <link>https://complexplay.org/paper/berland2011b.bib/</link>
+      <title>Tabletop: Analog game design</title>
+      <link>/paper/costikyan2011tabletop/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2011b.bib/</guid>
-      <description>@inproceedings{berland2011b, author = {Berland and Benton and Petrick and Martin}, year = {2011}, title = {Programming on the Move: Design Lessons from IPRO}, booktitle = {Proceedings of the ACM SIGCHI}, address = {Vancouver, BC}, link	= {http://dl.acm.org/citation.cfm?id=1979932} } </description>
+      <guid>/paper/costikyan2011tabletop/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Understanding strategic boardgames as computational-thinking training machines</title>
-      <link>https://complexplay.org/paper/berland2011tabletop.bib/</link>
+      <title>Understanding strategic boardgames as computational- thinking training machines</title>
+      <link>/paper/berland2011understanding/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2011tabletop.bib/</guid>
-      <description>@inproceedings{berland2011tabletop, author = {Berland}, year = {2011}, title = {Understanding strategic boardgames as computational-thinking training machines}, booktitle = {Tabletop: Analog Game Design}, link = {http://www.etc.cmu.edu/etcpress/content/tabletop-analog-game-design} } </description>
-    </item>
-    
-    <item>
-      <title>A Day as a Computer Teacher in Ghana</title>
-      <link>https://complexplay.org/paper/hardin2010.bib/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://complexplay.org/paper/hardin2010.bib/</guid>
-      <description>@inproceedings{hardin2010, author = {Hardin}, booktitle = {A Day on the Planet}, title = {A Day as a Computer Teacher in Ghana}, publisher = {Engelsdorfer Verlag}, year = {2010}, address = {Leipzig} } </description>
+      <guid>/paper/berland2011understanding/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Programming Standing Up: Embodied Computing with Constructionist Robotics</title>
-      <link>https://complexplay.org/paper/berland2010b.bib/</link>
+      <link>/paper/berland_martin_benton2010programming/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2010b.bib/</guid>
-      <description>@inproceedings{berland2010b, author = {Berland and Martin and Benton}, year = {2010}, title = {Programming Standing Up: Embodied Computing with Constructionist Robotics}, booktitle = {Proceedings of Constructionism 2010}, address = {Paris} } </description>
+      <guid>/paper/berland_martin_benton2010programming/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Small Groups, Big Mistakes: The Emergence of Faulty Rules During a Collaborative Board Game</title>
-      <link>https://complexplay.org/paper/berland2010a.bib/</link>
+      <title>Small groups, big mistakes: the emergence of faulty rules during a collaborative board game</title>
+      <link>/paper/berland_lee_dumont2010small/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2010a.bib/</guid>
-      <description>@inproceedings{berland2010a, author = {Berland and Lee and DuMont}, year = {2010}, title = {Small Groups, Big Mistakes: The Emergence of Faulty Rules During a Collaborative Board Game}, booktitle = {Proceedings of the International Conference of the Learning Sciences}, volume = {2}, pages = {397–398}, address = {Chicago, IL} } </description>
+      <guid>/paper/berland_lee_dumont2010small/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Participatory simulation as a tool for agent-based simulation</title>
-      <link>https://complexplay.org/paper/berland2009a.bib/</link>
+      <title>Participatory Simulation as a Tool for Agent-Based Simulation</title>
+      <link>/paper/berland_rand2009participatory/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland2009a.bib/</guid>
-      <description>@inproceedings{berland2009a, author = {Berland and Rand}, year = {2009}, title = {Participatory simulation as a tool for agent-based simulation}, booktitle = {Proceedings of the International Conference on Agents, Artificial Intelligence (ICAART-09)}, pages = {553–557}, address = {Porto, Portugal} } </description>
+      <guid>/paper/berland_rand2009participatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VBOT: motivating computational and complex systems fluencies with constructionist virtual/physical robotics</title>
+      <link>/paper/berland2008vbot/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/berland2008vbot/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Leveraging epistemological diversity through computer-based argumentation in the domain of probability</title>
-      <link>https://complexplay.org/paper/abrahamson2006a.bib/</link>
+      <link>/paper/abrahamson_berland_shapiro_unterman_wilensky2006leveraging/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/abrahamson2006a.bib/</guid>
-      <description>@article{abrahamson2006a, author = {Abrahamson and Berland and Shapiro and Unterman and Wilensky}, year = {2006}, title = {Leveraging epistemological diversity through computer-based argumentation in the domain of probability}, journal = {For the Learning of Mathematics}, volume = {26}, pages = {39–45}, number = {3}, link	= {http://www.jstor.org/stable/40248549} } </description>
+      <guid>/paper/abrahamson_berland_shapiro_unterman_wilensky2006leveraging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leveraging epistemological diversity through computer-based argumentation in the domain of probability</title>
+      <link>/paper/abrahamson_berland_shapiro_unterman_wilensky2004leveraging/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/abrahamson_berland_shapiro_unterman_wilensky2004leveraging/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Finding parts in very large corpora</title>
-      <link>https://complexplay.org/paper/berland1999a.bib/</link>
+      <link>/paper/berland_charniak1999finding/</link>
       <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
       
-      <guid>https://complexplay.org/paper/berland1999a.bib/</guid>
-      <description>@inproceedings{berland1999a, author = {Berland and Charniak}, year = {1999}, title = {Finding parts in very large corpora}, booktitle = {Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL-99)}, pages = {57–64}, address = {College Park, MD}, link	= {http://dl.acm.org/citation.cfm?id=1034697} } </description>
+      <guid>/paper/berland_charniak1999finding/</guid>
+      <description></description>
     </item>
     
   </channel>

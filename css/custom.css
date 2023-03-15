@@ -1,0 +1,63 @@
+.page__logo-inner:after {
+    content: "]";
+    color: var(--bg);
+}
+
+.paper {
+    text-decoration: none;
+}
+
+.headshot__image {
+    border-radius: 20px;
+    height: 230px;
+    object-fit: contain;
+}
+
+.bookcover__image {
+    border-radius: 20px;
+    width: 275px;
+    height: 400px;
+    object-fit: contain;
+}
+
+.project__image {
+    border-radius: 20px;
+    width: 260px;
+    height: 195px;
+    object-fit: contain;
+}
+
+
+.book__grid {
+    column-width: 275px;
+}
+
+/*.book__header {*/
+/*    width: 300px;*/
+/*    height: 425px;*/
+/*}*/
+
+
+.person__grid {
+    column-width: 200px;
+}
+
+.post__header {
+    width: 200px;
+    height: 300px;
+}
+
+.post {
+    -webkit-column-break-inside: avoid;
+    -moz-column-break-inside: avoid;
+    break-inside: avoid;
+    column-break-inside: avoid;
+}
+
+.page {
+    max-width: 52rem;
+    grid-template-areas:
+      "header header"
+      "body body"
+      "footer footer";
+}

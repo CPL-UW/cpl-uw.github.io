@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on complex play lab</title>
+    <link>/book/</link>
+    <description>Recent content in Book on complex play lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Nov 2022 16:25:12 -0500</lastBuildDate><atom:link href="/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing Constructionist Futures</title>
+      <link>/book/designing-constructionist-futures/</link>
+      <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
+      
+      <guid>/book/designing-constructionist-futures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Playful Testing</title>
+      <link>/book/playful-testing/</link>
+      <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
+      
+      <guid>/book/playful-testing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

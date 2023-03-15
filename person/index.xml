@@ -1,262 +1,271 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>People on Complex Play Lab</title>
-    <link>https://complexplay.org/person/</link>
-    <description>Recent content in People on Complex Play Lab</description>
+    <title>Person on complex play lab</title>
+    <link>/person/</link>
+    <description>Recent content in Person on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2020 07:25:12 -0500</lastBuildDate><atom:link href="https://complexplay.org/person/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Nov 2022 16:25:12 -0500</lastBuildDate><atom:link href="/person/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matthew Berland</title>
+      <link>/person/matthew-berland/</link>
+      <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
+      
+      <guid>/person/matthew-berland/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>andrew turner</title>
-      <link>https://complexplay.org/person/andrew-turner/</link>
+      <link>/person/andrew-turner/</link>
       <pubDate>Wed, 26 Feb 2020 07:25:12 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/andrew-turner/</guid>
+      <guid>/person/andrew-turner/</guid>
       <description></description>
     </item>
     
     <item>
       <title>andy stoiber</title>
-      <link>https://complexplay.org/person/andy-stoiber/</link>
+      <link>/person/andy-stoiber/</link>
       <pubDate>Fri, 24 Jan 2020 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/andy-stoiber/</guid>
+      <guid>/person/andy-stoiber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eda zhang</title>
-      <link>https://complexplay.org/person/eda-zhang/</link>
+      <link>/person/eda-zhang/</link>
       <pubDate>Fri, 24 Jan 2020 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/eda-zhang/</guid>
+      <guid>/person/eda-zhang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>yilang zhao</title>
-      <link>https://complexplay.org/person/yilang-zhao/</link>
+      <link>/person/yilang-zhao/</link>
       <pubDate>Fri, 24 Jan 2020 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/yilang-zhao/</guid>
+      <guid>/person/yilang-zhao/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adalbert gerald soosai raj</title>
-      <link>https://complexplay.org/person/adalbert-gerald-soosai-raj/</link>
+      <link>/person/adalbert-gerald-soosai-raj/</link>
       <pubDate>Wed, 24 Apr 2019 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/adalbert-gerald-soosai-raj/</guid>
+      <guid>/person/adalbert-gerald-soosai-raj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>joshua gabai</title>
-      <link>https://complexplay.org/person/joshua-gabai/</link>
+      <link>/person/joshua-gabai/</link>
       <pubDate>Tue, 01 Jan 2019 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/joshua-gabai/</guid>
+      <guid>/person/joshua-gabai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>max shafer-landau</title>
-      <link>https://complexplay.org/person/max-shafer-landau/</link>
+      <link>/person/max-shafer-landau/</link>
       <pubDate>Tue, 01 Jan 2019 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/max-shafer-landau/</guid>
+      <guid>/person/max-shafer-landau/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>matthew berland</title>
-      <link>https://complexplay.org/person/matthew-berland/</link>
-      <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
-      
-      <guid>https://complexplay.org/person/matthew-berland/</guid>
-      <description>Matthew Berland is an Associate Professor of Design, Informal, and Creative Education in the Department of Curriculum and Instruction and the director of the UW Game Design Program. He completed a doctorate in Learning Sciences at Northwestern University and a postdoctoral fellowship in Computer Science at the University of Texas at Austin. He studies computational thinking and literacy, game design, museum exhibit design, computer science education, the design of constructionist learning environments, and learning analytics/data mining.</description>
-    </item>
-    
-    <item>
       <title>peter j. woods</title>
-      <link>https://complexplay.org/person/peter-woods/</link>
+      <link>/person/peter-woods/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/peter-woods/</guid>
+      <guid>/person/peter-woods/</guid>
       <description>Peter J. Woods is a doctoral student in the Curriculum &amp;amp; Instruction department at UW-Madison. His work utilizes critical theory to investigate the learning practices that emerge from experimental arts communities and making through the arts. Woods is also a touring musician and performance artist. He runs FTAM productions (a record label and concert promotion organization that has hosted the Experimental Education Series and the Milwaukee Noise Fest) and serves on the board of the Jazz Gallery Center for the Arts in Milwaukee, WI.</description>
     </item>
     
     <item>
       <title>shai goldfarb</title>
-      <link>https://complexplay.org/person/shai-goldfarb/</link>
+      <link>/person/shai-goldfarb/</link>
       <pubDate>Fri, 24 Jun 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/shai-goldfarb/</guid>
+      <guid>/person/shai-goldfarb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>abhi manohar</title>
-      <link>https://complexplay.org/person/abhi-manohar/</link>
+      <link>/person/abhi-manohar/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/abhi-manohar/</guid>
+      <guid>/person/abhi-manohar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>adam mechtley</title>
-      <link>https://complexplay.org/person/adam-mechtley/</link>
+      <link>/person/adam-mechtley/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/adam-mechtley/</guid>
+      <guid>/person/adam-mechtley/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alexi brooks</title>
-      <link>https://complexplay.org/person/alexi-brooks/</link>
+      <link>/person/alexi-brooks/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/alexi-brooks/</guid>
+      <guid>/person/alexi-brooks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>anna jordan-douglass</title>
-      <link>https://complexplay.org/person/anna-jordan/</link>
+      <link>/person/anna-jordan/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/anna-jordan/</guid>
+      <guid>/person/anna-jordan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aybuke turker</title>
-      <link>https://complexplay.org/person/aybuke-turker/</link>
+      <link>/person/aybuke-turker/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/aybuke-turker/</guid>
+      <guid>/person/aybuke-turker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>caroline hardin</title>
-      <link>https://complexplay.org/person/caroline-hardin/</link>
+      <link>/person/caroline-hardin/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/caroline-hardin/</guid>
+      <guid>/person/caroline-hardin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>catherine dornfeld tissenbaum</title>
-      <link>https://complexplay.org/person/catherine-dornfeld/</link>
+      <link>/person/catherine-dornfeld/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/catherine-dornfeld/</guid>
+      <guid>/person/catherine-dornfeld/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cole nelson</title>
-      <link>https://complexplay.org/person/cole-nelson/</link>
+      <link>/person/cole-nelson/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/cole-nelson/</guid>
+      <guid>/person/cole-nelson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>craig anderson</title>
-      <link>https://complexplay.org/person/craig-anderson/</link>
+      <link>/person/craig-anderson/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/craig-anderson/</guid>
+      <guid>/person/craig-anderson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dennis ramirez</title>
-      <link>https://complexplay.org/person/dennis-ramirez/</link>
+      <link>/person/dennis-ramirez/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/dennis-ramirez/</guid>
+      <guid>/person/dennis-ramirez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>felipe martinez</title>
-      <link>https://complexplay.org/person/felipe-martinez/</link>
+      <link>/person/felipe-martinez/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/felipe-martinez/</guid>
+      <guid>/person/felipe-martinez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>isaac sung</title>
-      <link>https://complexplay.org/person/isaac-sung/</link>
+      <link>/person/isaac-sung/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/isaac-sung/</guid>
+      <guid>/person/isaac-sung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jenn scianna</title>
-      <link>https://complexplay.org/person/jenn-scianna/</link>
+      <link>/person/jenn-scianna/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/jenn-scianna/</guid>
+      <guid>/person/jenn-scianna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>john binzak</title>
-      <link>https://complexplay.org/person/john.binzak/</link>
+      <link>/person/john-binzak/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/john.binzak/</guid>
+      <guid>/person/john-binzak/</guid>
       <description></description>
     </item>
     
     <item>
       <title>john chen</title>
-      <link>https://complexplay.org/person/john-chen/</link>
+      <link>/person/john-chen/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/john-chen/</guid>
+      <guid>/person/john-chen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>laura legault</title>
-      <link>https://complexplay.org/person/laura-legault/</link>
+      <link>/person/laura-legault/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/laura-legault/</guid>
+      <guid>/person/laura-legault/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>michelle jensen</title>
+      <link>/person/michelle-jensen/</link>
+      <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
+      
+      <guid>/person/michelle-jensen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mike tissenbaum</title>
-      <link>https://complexplay.org/person/mike-tissenbaum/</link>
+      <link>/person/mike-tissenbaum/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/mike-tissenbaum/</guid>
+      <guid>/person/mike-tissenbaum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>vishesh kumar</title>
-      <link>https://complexplay.org/person/vishesh-kumar/</link>
+      <link>/person/vishesh-kumar/</link>
       <pubDate>Sun, 24 Apr 2016 13:50:28 -0500</pubDate>
       
-      <guid>https://complexplay.org/person/vishesh-kumar/</guid>
-      <description>Vishesh Kumar is aan alum of the Department of Curriculum &amp;amp; Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
+      <guid>/person/vishesh-kumar/</guid>
+      <description>Vishesh Kumar is aangraduate of the Department of Curriculum &amp;amp; Instruction, University of Wisconsin-Madison. He joined the program after completing a Bachelor&amp;rsquo;s in Design from the Indian Institute of Technology, Guwahati. Vishesh studies game based learning, and other constructionist learning environments including museum exhibits, and makerspaces. His current work involves using design-based research methods and learning analytics to shed light on how people collaborate, and how collaborations and interpersonal connections can be meaningfully improved in constructionist environments.</description>
     </item>
     
   </channel>

@@ -2,409 +2,400 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://complexplay.org/paper/brooks2021iticse.bib/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <loc>/book/</loc>
+    <lastmod>2022-11-04T16:25:12-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/</loc>
-    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+    <loc>/book/designing-constructionist-futures/</loc>
+    <lastmod>2022-11-04T16:25:12-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/kumar2020chiplay.bib/</loc>
-    <lastmod>2020-12-31T00:00:00+00:00</lastmod>
+    <loc>/person/matthew-berland/</loc>
+    <lastmod>2022-11-04T16:25:12-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/tags/collaboration/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/person/</loc>
+    <lastmod>2022-11-04T16:25:12-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/tags/games/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/book/playful-testing/</loc>
+    <lastmod>2022-11-04T16:25:12-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/tags/museums/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-11-01T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/projects/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/paper/woods2022aesthetics/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/projects/rainbow-agents-symposium/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/paper/woods2022learning/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/tags/symposium/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/paper/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/tags/</loc>
-    <lastmod>2020-09-28T00:00:00+00:00</lastmod>
+    <loc>/paper/woods_jones2022players/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/woods2020posthumancollaboration.bib/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <loc>/paper/kumar_berland_lyons_pinzur2022scamp/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/brooks2020icls.bib/</loc>
-    <lastmod>2020-06-19T00:00:00+00:00</lastmod>
+    <loc>/paper/chen_zhao_xiao_horn_wilensky2022selfgoverned/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/about/</loc>
+    <loc>/paper/woods2022the/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/anhalt-depies_berland_rickenbach_bemowski_rissman2022use/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/vacca_desportes_tes_silander_amato_matuk_woods2022what/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/brooks_hardin_scianna_berland_legault2021approaches/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/turner_hardin_berland2021hackathons/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/selvaraj_zhang_porter_soosai-raj2021live/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/berland2021rainbow/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods2021reimagining/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods2021the/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/gabai_berland2021the/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/holbert_disalvo_berland2021the/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/jorion_roberts_bowers_tissenbaum_lyons_kumar_berland2021uncovering/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
     <lastmod>2020-06-01T12:00:00-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/andrew-turner/</loc>
+    <loc>/person/andrew-turner/</loc>
     <lastmod>2020-02-26T07:25:12-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/</loc>
-    <lastmod>2020-02-26T07:25:12-05:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/</loc>
-    <lastmod>2020-02-25T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/apply/</loc>
+    <loc>/apply/</loc>
     <lastmod>2020-02-01T05:58:19-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/apply/apply2020masters/</loc>
+    <loc>/apply/apply_to_masters/</loc>
     <lastmod>2020-02-01T05:58:19-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/apply/apply2020curric/</loc>
+    <loc>/apply/apply_to_phd/</loc>
     <lastmod>2020-02-01T05:58:19-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/beatsempire/</loc>
+    <loc>/project/beatsempire/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/andy-stoiber/</loc>
+    <loc>/person/andy-stoiber/</loc>
     <lastmod>2020-01-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/eda-zhang/</loc>
+    <loc>/person/eda-zhang/</loc>
     <lastmod>2020-01-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/yilang-zhao/</loc>
+    <loc>/person/yilang-zhao/</loc>
     <lastmod>2020-01-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/citysettlers/</loc>
+    <loc>/paper/woods2020remaking/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2020mitpress.bib/</loc>
+    <loc>/project/citysettlers/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/rainbowagents/</loc>
+    <loc>/paper/kumar_berland_lyons_cannady_royston2020designing/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/pellicone2019chiplay.bib/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <loc>/paper/woods_jones2020expanding/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/brooks2019lsgs.bib/</loc>
-    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+    <loc>/paper/raj_gu_zhang_r_williams_halverson_patel2020livecoding/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/woods2019teachingnoise.bib/</loc>
-    <lastmod>2019-08-08T00:00:00+00:00</lastmod>
+    <loc>/paper/chen_wilensky2020netlogo/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/woods2020remakingwhiteness.bib/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <loc>/project/rainbowagents/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ramirez2019cls.bib/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <loc>/paper/brooks_turner_berland2020vocabulary/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/pellicone2019cls.bib/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/brooks2019nscsls.bib/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/person/adalbert-gerald-soosai-raj/</loc>
+    <loc>/person/adalbert-gerald-soosai-raj/</loc>
     <lastmod>2019-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/hardin2019sigcse.bib/</loc>
-    <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/person/joshua-gabai/</loc>
+    <loc>/person/joshua-gabai/</loc>
     <lastmod>2019-01-01T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/max-shafer-landau/</loc>
+    <loc>/person/max-shafer-landau/</loc>
     <lastmod>2019-01-01T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/connectedspaces/</loc>
+    <loc>/paper/woods2019conceptions/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/woods2019prurient.bib/</loc>
+    <loc>/project/connectedspaces/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/jordandouglaskumarwoods2018comppuzzles.bib/</loc>
-    <lastmod>2018-06-19T00:00:00+00:00</lastmod>
+    <loc>/paper/soosai-raj_zhang_mukherjee_williams_halverson_patel2019effect/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/woods2018whitehouse.bib/</loc>
-    <lastmod>2018-01-02T00:00:00+00:00</lastmod>
+    <loc>/paper/woods2019mapping/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2018jacr.bib/</loc>
+    <loc>/paper/pellicone_lyons_kumar_zhang_berland2019rainbow/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/ecolens/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/gabai2018icls.bib/</loc>
+    <loc>/paper/anderson_dalsen_kumar_berland_steinkuehler2018failing/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/ecolens/</loc>
+    <loc>/paper/woods2018in/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/anderson2018tsc.bib/</loc>
+    <loc>/paper/sherin_kersting_berland2018learning/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/mechtley2018icls.bib/</loc>
+    <loc>/paper/to_holmes_fath_zhang_kaufman_hammer2018modeling/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/sherin2018icls.bib/</loc>
+    <loc>/paper/woods2018reframing/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/legault2018sigcse.bib/</loc>
+    <loc>/paper/legault_berland2018students/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/brooks2017lsgs.bib/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
+    <loc>/paper/jordan-douglass_kumar_woods2018synthsync/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/oztoc/</loc>
+    <loc>/paper/zhang_culbertson_shen_jung2018utilizing/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/project/oztoc/</loc>
     <lastmod>2017-06-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ohmann2017pldi.bib/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/woods2017pp.bib/</loc>
-    <lastmod>2017-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/turker2017mmla.bib/</loc>
+    <loc>/paper/kumar_tissenbaum_wielgus_berland2017connected/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/kumar2017idc.bib/</loc>
+    <loc>/paper/berland2017constructivist/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2017visitorstudies.bib/</loc>
+    <loc>/paper/tissenbaum_berland_lyons2017dclm/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/tissenbaum2017ijcscl.bib/</loc>
+    <loc>/paper/woods2017ethics/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/anderson2017dml.bib/</loc>
+    <loc>/paper/sung_berland2017forest/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/sung2017idc.bib/</loc>
+    <loc>/paper/kumar_tissenbaum_berland2017what/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/turker2017icer.bib/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/sherin2017iccss.bib/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/legault2017icer.bib/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/kumar2017edm.bib/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/person/matthew-berland/</loc>
+    <loc>/person/peter-woods/</loc>
     <lastmod>2016-06-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/peter-woods/</loc>
+    <loc>/person/shai-goldfarb/</loc>
     <lastmod>2016-06-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/shai-goldfarb/</loc>
-    <lastmod>2016-06-24T13:50:28-05:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/person/abhi-manohar/</loc>
+    <loc>/person/abhi-manohar/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/adam-mechtley/</loc>
+    <loc>/person/adam-mechtley/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/alexi-brooks/</loc>
+    <loc>/person/alexi-brooks/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/anna-jordan/</loc>
+    <loc>/person/anna-jordan/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/aybuke-turker/</loc>
+    <loc>/person/aybuke-turker/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/caroline-hardin/</loc>
+    <loc>/person/caroline-hardin/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/catherine-dornfeld/</loc>
+    <loc>/person/catherine-dornfeld/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/cole-nelson/</loc>
+    <loc>/person/cole-nelson/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/craig-anderson/</loc>
+    <loc>/person/craig-anderson/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/dennis-ramirez/</loc>
+    <loc>/person/dennis-ramirez/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/felipe-martinez/</loc>
+    <loc>/person/felipe-martinez/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/isaac-sung/</loc>
+    <loc>/person/isaac-sung/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/jenn-scianna/</loc>
+    <loc>/person/jenn-scianna/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/john.binzak/</loc>
+    <loc>/person/john-binzak/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/john-chen/</loc>
+    <loc>/person/john-chen/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/laura-legault/</loc>
+    <loc>/person/laura-legault/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/mike-tissenbaum/</loc>
+    <loc>/person/michelle-jensen/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/person/vishesh-kumar/</loc>
+    <loc>/person/mike-tissenbaum/</loc>
     <lastmod>2016-04-24T13:50:28-05:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/bgl/</loc>
+    <loc>/person/vishesh-kumar/</loc>
+    <lastmod>2016-04-24T13:50:28-05:00</lastmod>
+  </url><url>
+    <loc>/project/bgl/</loc>
     <lastmod>2016-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/adage/</loc>
+    <loc>/project/adage/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2016edtech.bib/</loc>
+    <loc>/paper/berland_duncan2016computational/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/tissenbaum2016icls.bib/</loc>
+    <loc>/paper/tissenbaum_berland_lyons2016designing/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2016makeology.bib/</loc>
+    <loc>/paper/hardin_berland2016learning/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/tissenbaum2016edm.bib/</loc>
+    <loc>/paper/peppler_halverson_kafai2016makeology/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/pdc/</loc>
+    <loc>/paper/berland2016making/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/anderson2016icls.bib/</loc>
+    <loc>/paper/tissenbaum_berland_kumar2016modeling/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2015ijcscl.bib/</loc>
+    <loc>/project/pdc/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/tissenbaum_matuk_berland_lyons_cocco_linn_plass_hajny_olsen_schwendimann2016realtime/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/berland_davis_smith2015amoeba/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2015jset.bib/</loc>
+    <loc>/paper/berland_wilensky2015comparing/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ramirez2015.bib/</loc>
+    <loc>/paper/lyons_tissenbaum_berland_eydt_wielgus_mechtley2015designing/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/shapiro2014se.bib/</loc>
+    <loc>/paper/wielgus_berland2015the/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/projects/rainbow-agents/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/project/dcf/</loc>
+    <loc>/paper/stenerson_salmon_berland_squire2014adage/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2014tkl.bib/</loc>
+    <loc>/project/dcf/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/dietmeier2014.bib/</loc>
+    <loc>/paper/berland_baker_blikstein2014educational/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/gutierrez2014gfh.bib/</loc>
+    <loc>/project/leadcaravan/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ramirez2014.bib/</loc>
+    <loc>/paper/lee2014learning/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/leadcaravan/</loc>
+    <loc>/paper/danielak_mechtley_berland_lyons_eydt2014makescape/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/danielak2014idc.bib/</loc>
+    <loc>/paper/ochsner_johnson-stempson_berland2014mission/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ochsner2014cse.bib/</loc>
+    <loc>/paper/davis_yuen_berland2014multiple/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/davis2014cse.bib/</loc>
+    <loc>/project/ipro/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/project/ipro/</loc>
+    <loc>/paper/anton_berland2014studio/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/anton2014cse.bib/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/ochsner2014gls1.bib/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/ochsner2014gls2.bib/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/bowers2013a.bib/</loc>
+    <loc>/paper/martin_berland_benton_smith2013learning/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/martin2013jilr.bib/</loc>
+    <loc>/paper/davis_berland2013supporting/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2013gls.bib/</loc>
+    <loc>/paper/berland_martin_benton_petrick-smith_davis2013using/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ochsner2013cscl.bib/</loc>
+    <loc>/paper/berland_smith_davis2013visualizing/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/davis2013oth.bib/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/dunbar2013ijgbl.bib/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/berland2013jls.bib/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/berland2012d.bib/</loc>
+    <loc>/paper/bowers_berland2012does/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2012a.bib/</loc>
+    <loc>/paper/berland_duncan2012supporting/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/hardin2012.bib/</loc>
+    <loc>/paper/duncan_berland2012triangulating/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2012b.bib/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/davis2012a.bib/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/berland2012c.bib/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/duncan2012a.bib/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/petrick2011a.bib/</loc>
+    <loc>/paper/petrick_berland_martin2011allocentrism/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2011a.bib/</loc>
+    <loc>/paper/berland_lee2011collaborative/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/ramirez2011.bib/</loc>
+    <loc>/paper/berland_martin_benton_petrick2011programming/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2011b.bib/</loc>
+    <loc>/paper/costikyan2011tabletop/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2011tabletop.bib/</loc>
+    <loc>/paper/berland2011understanding/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/hardin2010.bib/</loc>
+    <loc>/paper/berland_martin_benton2010programming/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2010b.bib/</loc>
+    <loc>/paper/berland_lee_dumont2010small/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland2010a.bib/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://complexplay.org/paper/berland2009a.bib/</loc>
+    <loc>/paper/berland_rand2009participatory/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/abrahamson2006a.bib/</loc>
+    <loc>/paper/berland2008vbot/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/abrahamson_berland_shapiro_unterman_wilensky2006leveraging/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://complexplay.org/paper/berland1999a.bib/</loc>
+    <loc>/paper/abrahamson_berland_shapiro_unterman_wilensky2004leveraging/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/berland_charniak1999finding/</loc>
     <lastmod>1999-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
+  </url><url>
+    <loc>/series/</loc>
+  </url><url>
+    <loc>/tags/</loc>
   </url>
 </urlset>
