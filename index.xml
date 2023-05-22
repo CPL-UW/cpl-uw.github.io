@@ -8,6 +8,42 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Nov 2022 12:00:00 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Exploring Math Language Use in Learning Vector Addition with Concreteness Fading</title>
+      <link>/paper/zhao_berland2023exploring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/zhao_berland2023exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Structured Self-reflection and Expertise in a Playful Learning Experience</title>
+      <link>/paper/zhao2023exploring/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/zhao2023exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Choice Time: A Metric for Better Understanding Collaboration in Interactive Museum Exhibits</title>
+      <link>/paper/berland_kumar2023joint/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/berland_kumar2023joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probing Gesturing in a Concreteness Fading Vector Addition Learning Experience</title>
+      <link>/paper/zhao_nathan2023probing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/zhao_nathan2023probing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Designing Constructionist Futures</title>
       <link>/book/designing-constructionist-futures/</link>
       <pubDate>Fri, 04 Nov 2022 16:25:12 -0500</pubDate>
@@ -40,6 +76,15 @@
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>/paper/woods2022aesthetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Redditors’ Communication Style</title>
+      <link>/paper/zhao2022exploring/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/zhao2022exploring/</guid>
       <description></description>
     </item>
     
@@ -90,10 +135,10 @@
     
     <item>
       <title>Use of latent profile analysis to characterise patterns of participation in crowdsourcing</title>
-      <link>/paper/anhalt-depies_berland_rickenbach_bemowski_rissman2022use/</link>
+      <link>/paper/anhaltdepies_berland_rickenbach_bemowski_rissman2022use/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/paper/anhalt-depies_berland_rickenbach_bemowski_rissman2022use/</guid>
+      <guid>/paper/anhaltdepies_berland_rickenbach_bemowski_rissman2022use/</guid>
       <description></description>
     </item>
     
@@ -116,6 +161,15 @@
     </item>
     
     <item>
+      <title>Exploring Self-reflection in a Playful Learning Experience</title>
+      <link>/paper/zhao_berland2021exploring/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paper/zhao_berland2021exploring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hackathons and ‘i’dentities: Museum Visitor Identities in Other Informal Learning Environments</title>
       <link>/paper/turner_hardin_berland2021hackathons/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -126,10 +180,10 @@
     
     <item>
       <title>Live Coding: A Review of the Literature</title>
-      <link>/paper/selvaraj_zhang_porter_soosai-raj2021live/</link>
+      <link>/paper/selvaraj_zhang_porter_soosairaj2021live/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>/paper/selvaraj_zhang_porter_soosai-raj2021live/</guid>
+      <guid>/paper/selvaraj_zhang_porter_soosairaj2021live/</guid>
       <description></description>
     </item>
     
@@ -383,10 +437,10 @@ More information here.</description>
     
     <item>
       <title>Effect of Native Language on Student Learning and Classroom Interaction in an Operating Systems Course</title>
-      <link>/paper/soosai-raj_zhang_mukherjee_williams_halverson_patel2019effect/</link>
+      <link>/paper/soosairaj_zhang_mukherjee_williams_halverson_patel2019effect/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/paper/soosai-raj_zhang_mukherjee_williams_halverson_patel2019effect/</guid>
+      <guid>/paper/soosairaj_zhang_mukherjee_williams_halverson_patel2019effect/</guid>
       <description></description>
     </item>
     
@@ -473,10 +527,10 @@ More information here.</description>
     
     <item>
       <title>SynthSync- Decoding Music Together</title>
-      <link>/paper/jordan-douglass_kumar_woods2018synthsync/</link>
+      <link>/paper/jordandouglass_kumar_woods2018synthsync/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/paper/jordan-douglass_kumar_woods2018synthsync/</guid>
+      <guid>/paper/jordandouglass_kumar_woods2018synthsync/</guid>
       <description></description>
     </item>
     
@@ -923,10 +977,10 @@ More information here.</description>
     
     <item>
       <title>Mission critical: building community to engage young women in computer science</title>
-      <link>/paper/ochsner_johnson-stempson_berland2014mission/</link>
+      <link>/paper/ochsner_johnsonstempson_berland2014mission/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>/paper/ochsner_johnson-stempson_berland2014mission/</guid>
+      <guid>/paper/ochsner_johnsonstempson_berland2014mission/</guid>
       <description></description>
     </item>
     
@@ -977,10 +1031,10 @@ More information here.</description>
     
     <item>
       <title>Using Learning Analytics to Understand the Learning Pathways of Novice Programmers</title>
-      <link>/paper/berland_martin_benton_petrick-smith_davis2013using/</link>
+      <link>/paper/berland_martin_benton_petricksmith_davis2013using/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/paper/berland_martin_benton_petrick-smith_davis2013using/</guid>
+      <guid>/paper/berland_martin_benton_petricksmith_davis2013using/</guid>
       <description></description>
     </item>
     

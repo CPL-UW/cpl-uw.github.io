@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/paper/zhao_berland2023exploring/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/zhao2023exploring/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/berland_kumar2023joint/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/zhao_nathan2023probing/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/book/</loc>
     <lastmod>2022-11-04T16:25:12-05:00</lastmod>
   </url><url>
@@ -23,10 +38,10 @@
     <loc>/paper/woods2022aesthetics/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/woods2022learning/</loc>
+    <loc>/paper/zhao2022exploring/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/</loc>
+    <loc>/paper/woods2022learning/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/woods_jones2022players/</loc>
@@ -41,7 +56,7 @@
     <loc>/paper/woods2022the/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/anhalt-depies_berland_rickenbach_bemowski_rissman2022use/</loc>
+    <loc>/paper/anhaltdepies_berland_rickenbach_bemowski_rissman2022use/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/vacca_desportes_tes_silander_amato_matuk_woods2022what/</loc>
@@ -50,10 +65,13 @@
     <loc>/paper/brooks_hardin_scianna_berland_legault2021approaches/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/paper/zhao_berland2021exploring/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/paper/turner_hardin_berland2021hackathons/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/selvaraj_zhang_porter_soosai-raj2021live/</loc>
+    <loc>/paper/selvaraj_zhang_porter_soosairaj2021live/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/berland2021rainbow/</loc>
@@ -143,7 +161,7 @@
     <loc>/project/connectedspaces/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/soosai-raj_zhang_mukherjee_williams_halverson_patel2019effect/</loc>
+    <loc>/paper/soosairaj_zhang_mukherjee_williams_halverson_patel2019effect/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/woods2019mapping/</loc>
@@ -173,7 +191,7 @@
     <loc>/paper/legault_berland2018students/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/jordan-douglass_kumar_woods2018synthsync/</loc>
+    <loc>/paper/jordandouglass_kumar_woods2018synthsync/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/zhang_culbertson_shen_jung2018utilizing/</loc>
@@ -323,7 +341,7 @@
     <loc>/paper/danielak_mechtley_berland_lyons_eydt2014makescape/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/ochsner_johnson-stempson_berland2014mission/</loc>
+    <loc>/paper/ochsner_johnsonstempson_berland2014mission/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/davis_yuen_berland2014multiple/</loc>
@@ -341,7 +359,7 @@
     <loc>/paper/davis_berland2013supporting/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/berland_martin_benton_petrick-smith_davis2013using/</loc>
+    <loc>/paper/berland_martin_benton_petricksmith_davis2013using/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/berland_smith_davis2013visualizing/</loc>
