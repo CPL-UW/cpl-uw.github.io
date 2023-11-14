@@ -6,114 +6,91 @@
     <description>Recent content in Project on complex play lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>beats empire</title>
       <link>/project/beatsempire/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>/project/beatsempire/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>city settlers</title>
       <link>/project/citysettlers/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/project/citysettlers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>rainbow agents</title>
       <link>/project/rainbowagents/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/project/rainbowagents/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>connected spaces</title>
       <link>/project/connectedspaces/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/project/connectedspaces/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ecoLENS dashboard</title>
       <link>/project/ecolens/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/project/ecolens/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>oztoc</title>
       <link>/project/oztoc/</link>
       <pubDate>Sat, 24 Jun 2017 13:50:28 -0500</pubDate>
-      
       <guid>/project/oztoc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>board games for learning</title>
       <link>/project/bgl/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      
       <guid>/project/bgl/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>ADAGE</title>
       <link>/project/adage/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/project/adage/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>play data consortium</title>
       <link>/project/pdc/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/project/pdc/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>data consortium fellows</title>
       <link>/project/dcf/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/project/dcf/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>lead caravan</title>
       <link>/project/leadcaravan/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/project/leadcaravan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>programming standing up</title>
       <link>/project/ipro/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>/project/ipro/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
