@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/paper/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/berland_garcia2024the/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/paper/zhao_berland2023exploring/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,10 +17,10 @@
     <loc>/paper/berland_kumar2023joint/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/</loc>
+    <loc>/paper/zhao_nathan2023probing/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paper/zhao_nathan2023probing/</loc>
+    <loc>/paper/zhao_berland2023probing/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/book/</loc>
@@ -45,6 +51,9 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/woods_jones2022players/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/holbert_rutstein_berland_disalvo_roschelle_kumar_basu_fujii_pinzur2022playful/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/kumar_berland_lyons_pinzur2022scamp/</loc>
