@@ -2,17 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/paper/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/feng2026whose/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/zhao2026data/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_exclusionary_2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_exploring_2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/hennessey_elliott_learning_2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_learning_2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_scenes_2025/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/book/</loc>
     <lastmod>2024-04-04T16:25:12-05:00</lastmod>
   </url><url>
     <loc>/book/left-hand-of-data/</loc>
     <lastmod>2024-04-04T16:25:12-05:00</lastmod>
   </url><url>
-    <loc>/paper/</loc>
+    <loc>/paper/woods_bearing_2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_conceptualizing_2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_examining_2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_mapping_2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_reclaiming_2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/vacca_scoping_2024/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/berland_garcia2024the/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_deadline_2023/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/zhao_berland2023exploring/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
@@ -23,10 +65,25 @@
     <loc>/paper/berland_kumar2023joint/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/paper/woods_players_2023/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/paper/zhao_nathan2023probing/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/zhao_berland2023probing/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/matuk_promoting_2023/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_shitposting_2023/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_abject_2023/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_pedagogy_2023/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/book/designing-constructionist-futures/</loc>
@@ -63,6 +120,9 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/chen_zhao_xiao_horn_wilensky2022selfgoverned/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/matuk_tensions_2022/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/woods2022the/</loc>
@@ -153,6 +213,9 @@
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/rainbowagents/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/paper/woods_towards_2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/paper/brooks_turner_berland2020vocabulary/</loc>
